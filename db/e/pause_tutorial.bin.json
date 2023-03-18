@@ -1,0 +1,237 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 16,
+  "COLUMN_COUNT": 7,
+  "TEXT_COUNT": 41,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "title": "1",
+    "explanation": "1",
+    "picture": "1",
+    "timer": "1",
+    "disp_pause_menu": "1",
+    "command": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "title": 0,
+    "explanation": 0,
+    "picture": 1,
+    "timer": 0,
+    "disp_pause_menu": 6,
+    "command": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "title": 12,
+    "explanation": 12,
+    "picture": 1,
+    "timer": 2,
+    "disp_pause_menu": 11,
+    "command": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    6,
+    3,
+    4,
+    5
+  ],
+  "0": {
+    "": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "btl_tutorial_01_guard": {
+      "title": "Manten la guardia",
+      "explanation": "Con gente que te golpea a diestra y siniestra, necesitas saber cómo defenderte. Manten pulsado <Sign:6> para levantar la guardia y bloquear los ataques entrantes.\n\n¡Esté atento a las aberturas en los ataques de un enemigo y ataque!",
+      "picture": 1040,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_l1>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "btl_tutorial_02_dodge": {
+      "title": "Esquivar ataques",
+      "explanation": "A veces, esquivar puede ser una opción más fácil que protegerse.\nPresiona <Sign:3> para evadirte en la dirección que estás inclinando <Sign:11>.\n\nEsquivar es más difícil que ponerse en guardia, pero facilita\nencontrar huecos en los ataques del enemigo.",
+      "picture": 1041,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_batsu>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "btl_tutorial_03_set_up": {
+      "title": "Fijar a los enemigos",
+      "explanation": "Si quieres mantener la vista en tu oponente, mantén pulsado <Sign:4> para bloquearlos.\n\nKiryu siempre se enfrentará al enemigo sin importar cómo te muevas.\nMantenerse enfocado en la pelea es importante tanto en la ofensiva como en la defensiva.",
+      "picture": 1042,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_r1>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "btl_tutorial_04_quick_attack": {
+      "title": "Combo rápido",
+      "explanation": "Presiona <Sign:2> para realizar un ataque rápido. Si quieres mantener la presión,\nencadena ataques rápidos en un Combo rápido pulsando <Sign:2> hasta cuatro veces.\nLanzar algunos cornetes rápidos puede exponer a tu oponente a otros ataques.\n\n<Sign:2>/<Sign:2><Sign:2>/<Sign:2><Sign:2><Sign:2>/<Sign:2><Sign:2><Sign:2><Sign:2>",
+      "picture": 1043,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku><symbol=button_shikaku><symbol=button_shikaku><symbol=button_shikaku>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "btl_tutorial_05_strong_attack": {
+      "title": "Golpe final",
+      "explanation": "Durante un Combo rápido, pulsar <Sign:1> desatará un poderoso ataque llamado\nGolpe final. Un Golpe Final no sólo causa daños serios, sino que\ntambién puede aturdir a quien lo reciba.\n\n<Sign:2><Sign:1>/<Sign:2><Sign:2><Sign:1>/<Sign:2><Sign:2><Sign:2><Sign:1>/<Sign:2><Sign:2><Sign:2><Sign:2><Sign:1>",
+      "picture": 1044,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku><symbol=button_sankaku>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "btl_tutorial_06_down_attack": {
+      "title": "Doble remate",
+      "explanation": "Puedes seguir un golpe final pulsando <Sign:1> de nuevo para desatar un\nDoble remate. Si bien te deja completamente abierto, aterrizar un Double Finisher\ncausa un daño masivo y hace volar a tus enemigos.\n\n<Sign:2><Sign:1><Sign:1>/<Sign:2><Sign:2><Sign:1><Sign:1>/<Sign:2><Sign:2><Sign:2><Sign:1><Sign:1>/<Sign:2><Sign:2><Sign:2><Sign:2><Sign:1><Sign:1>",
+      "picture": 1045,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku><symbol=button_shikaku><symbol=button_sankaku><symbol=button_sankaku>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "btl_tutorial_07_hact": {
+      "title": "Realizar Acciones Heat",
+      "explanation": "Los ataques y bloqueos exitosos activarán a Kiryu y llenarán tus orbes de Heat.\nPresiona <Sign:1> cuando aparece el icono de Heat para gastar un orbe de Heat y\nactivar una acción Heat. Las acciones Heat son ataques especiales\nincreíblemente poderosos que causarán estragos en tus desafortunados enemigos.\nLas acciones Heat que puedes ejecutar cambian según las condiciones actuales de la\nlucha, ¡así que prepárate para presionar <Sign:1> tan pronto como vea el icono de Heat!",
+      "picture": 1046,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<Sign:1> cuando se muestra el icono de Heat.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "btl_tutorial_08_hact_mode": {
+      "title": "Modo Heat Extremo",
+      "explanation": "Los Orbes Heat también se pueden usar para entrar en un modo especial llamado Modo de Heat Extremo.\nPresione <Sign:5> para estallar en llamas y despertar al Dragón de Dojima. \n\nDe esta forma, tu Heat se agotará rápidamente y los ataques cuestan Heat. Sin embargo,\nhay armas y ataques especiales que solo se pueden usar en este modo.\nEl dolor ni siquiera te perturbará, por lo que es perfecto para peleas uno contra uno.",
+      "picture": 1047,
+      "timer": 21,
+      "disp_pause_menu": "1",
+      "command": "<symbol=button_r2>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "btl_tutorial_09_encount_btl": {
+      "title": "Batalla callejera",
+      "explanation": "Algunos malhechores vagan por la ciudad buscando pelea porque sí.\nPuedes ignorarlos, pero puedes ganar recompensas dándoles una lección.",
+      "picture": 1048,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "btl_tutorial_10_throw": {
+      "title": "Agarrar y arrojar",
+      "explanation": "Cuando un enemigo está en guardia, puedes sacarlo de ella con <Sign:0> y\nseguir con un ataque, o pulsar <Sign:0> de nuevo para lanzarlos.\n\nLanzar enemigos es una gran táctica para cuando estás rodeado.\n\n<Sign:0><Sign:2>/<Sign:0><Sign:1>/<Sign:0><Sign:0>",
+      "picture": 1049,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_maru><symbol=button_maru>　<symbol=button_maru><symbol=button_sankaku>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "btl_tutorial_11_weapon": {
+      "title": "Recoger armas",
+      "explanation": "Los objetos con <symbol=black_down_triangle> encima se pueden coger con <Sign:0> para usarlos como arma.\nCuanto más doloroso parece algo, más daño probablemente hará. \n\n¡Cuando estás en apuros, revisar tu entorno en busca de un arma puede cambiar\nla situación ante tus enemigos!",
+      "picture": 1050,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_maru> cerca de un arma que puedas coger.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "btl_tutorial_12_defend_weapon": {
+      "title": "Armas peligrosas",
+      "explanation": "Las armas peligrosas, como cuchillos o pistolas, no se pueden bloquear con la guardia.\nTus únicas opciones son esquivar con <Sign:3> o recoger un objeto grande\npara defenderte.\n\nTendrás que tener cuidado, ya que algunos ataques no pueden protegerse con armas pequeñas.",
+      "picture": 1051,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_l1> mientras sostiene un arma.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "btl_tutorial_13_snatch_weapon": {
+      "title": "Desarmar enemigos",
+      "explanation": "Los enemigos armados pueden ser desarmados derribándolos o agarrándolos \nLas armas que se caen se pueden recoger, por lo que siempre debes centrarte primero en los \nenemigos armados. Algunos enemigos son demasiado fuertes.\n\npara ser desarmados, así que tendrás que ser cauteloso.",
+      "picture": 1052,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku><symbol=button_sankaku>　<symbol=button_maru><symbol=button_sankaku>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "get_ability": {
+      "explanation": "Puedes usar EXP para fortalecer las habilidades de Kiryu. \nPuede elegir entre varias fichas de habilidades con <Sign:6>/<Sign:4>,\npero se recomienda fortalecer primero las estadísticas básicas de Kiryu.",
+      "picture": 0,
+      "timer": 10,
+      "disp_pause_menu": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "finished": {
+      "title": "Derrota a tus enemigos",
+      "explanation": "Ya sabes lo que tienes que hacer. Es hora de tumbar a tus enemigos como mejor te parezca.",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  }
+}

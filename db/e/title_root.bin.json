@@ -1,0 +1,371 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 37,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 57,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "0",
+    "name": "1",
+    "explanation": "1",
+    "explanation2": "1",
+    "category": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": -1,
+    "name": 0,
+    "explanation": 0,
+    "explanation2": 0,
+    "category": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": -1,
+    "name": 12,
+    "explanation": 12,
+    "explanation2": 12,
+    "category": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    5,
+    2,
+    3,
+    4
+  ],
+  "0": {
+    "": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "start": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "option": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "caution": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "new_game": {
+      "name": "NUEVA PARTIDA",
+      "explanation": "Inicia el juego desde el principio.",
+      "explanation2": "Inicia el juego desde el principio. \r\nTendrás que sobreescribir un archivo guardado para continuar. (30 archivos como máximo.)",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "new_game_after_clear": {
+      "name": "NUEVA PARTIDA",
+      "explanation": "Inicia el juego desde el principio.",
+      "explanation2": "Inicia el juego desde el principio.\r\nPuedes explorar el mundo sin la historia principal.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "6": {
+    "continue": {
+      "name": "CONTINUAR",
+      "explanation": "Continuar un juego guardado.\r\nLa función de guardado automático sobrescribirá tu archivo mientras juegas.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "7": {
+    "movie": {
+      "name": "REPLAY",
+      "explanation": "Ver los eventos vistos anteriormente.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "8": {
+    "past_series": {
+      "name": "RECUERDOS",
+      "explanation": "Ponte al día con la serie Yakuza hasta la fecha.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "9": {
+    "audio_option": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "10": {
+    "new_game_after_clear_main_story": {
+      "name": "NUEVA PARTIDA",
+      "explanation": "Empieza la historia principal desde el principio.",
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "11": {
+    "new_game_after_clear_padv": {
+      "name": "AVENTURA PREMIUM",
+      "explanation": "Explora el mundo sin la historia principal.",
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "12": {
+    "difficulty_easy": {
+      "name": "FACIL",
+      "explanation": "Recomendado para jugadores que son nuevos en los juegos de acción o en la serie de juegos Yakuza.",
+      "category": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "13": {
+    "difficulty_normal": {
+      "name": "NORMAL",
+      "explanation": "Este es el nivel de dificultad estándar.",
+      "category": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "14": {
+    "difficulty_hard": {
+      "name": "DIFICIL",
+      "explanation": "Recomendado para jugadores expertos en juegos de acción.",
+      "category": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "15": {
+    "difficulty_legend": {
+      "name": "LEYENDA",
+      "explanation": "Una dificultad reservada para verdaderas leyendas de la Yakuza.",
+      "category": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "16": {
+    "two_player_game": {
+      "name": "2-JUGADORES VS. MINIJUEGOS",
+      "explanation": "Dos jugadores se enfrentan en Puyo Puyo o Virtua Fighter 5 Final Showdown.\r\n*Requiere dos dispositivos de entrada.\r\n*No cuenta para los premios del juego.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "17": {
+    "two_player_game_puyo": {
+      "name": "Puyo Puyo",
+      "explanation": "Consigue las mejores cadenas en este caos de Puyo-popping.",
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "18": {
+    "two_player_game_vf5": {
+      "name": "Virtua Fighter 5 Enfrentamiento final",
+      "explanation": "¡La entrada definitiva en la serie Virtua Fighter!",
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "19": {
+    "memories_ryu1": {
+      "name": "Yakuza",
+      "explanation": "Lea un resumen de Yakuza, que tuvo lugar en 2005.",
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "20": {
+    "memories_ryu2": {
+      "name": "Yakuza 2",
+      "explanation": "Lee un resumen de Yakuza 2, que tuvo lugar en 2006.",
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "21": {
+    "memories_ryu3": {
+      "name": "Yakuza 3",
+      "explanation": "Lee un resumen de Yakuza 3, que tuvo lugar en 2009.",
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "22": {
+    "memories_ryu4": {
+      "name": "Yakuza 4",
+      "explanation": "Lee un resumen de Yakuza 4, que tuvo lugar en 2010.",
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "23": {
+    "memories_ryu5": {
+      "name": "Yakuza 5",
+      "explanation": "Lee un resumen de Yakuza 5, que tuvo lugar en 2012.",
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "24": {
+    "difficulty_very_easy": {
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "25": {
+    "tgs_start_onomichi": {
+      "name": "ONOMICHI - LA HISTORIA PRINCIPAL",
+      "explanation": "Experimenta la historia principal.\r\n*Esta opción tiene muchas cinematicas.",
+      "category": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "26": {
+    "tgs_start_kamuro": {
+      "name": "KAMUROCHO - JUEGO LIBRE",
+      "explanation": "Experimente la vida en la ciudad.",
+      "category": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "27": {
+    "continue_after_clear": {
+      "name": "CONTINUAR",
+      "explanation": "Continúa una partida guardada o inicia una Nueva Partida+ desde un archivo de Juego Completado.\r\nLa función de autoguardado sobrescribirá el archivo de autoguardado mientras juegas.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "28": {
+    "tgs_game_option": {
+      "name": "AJUSTES DEL JUEGO",
+      "explanation": "Cambia la configuracion que afectan a la jugabilidad.",
+      "category": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "29": {
+    "tgs_audio_option": {
+      "name": "AJUSTES DE AUDIO",
+      "explanation": "Cambia la configuración del audio.",
+      "category": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "30": {
+    "settings": {
+      "name": "AJUSTES",
+      "explanation": "Personalizar la configuración del juego.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "31": {
+    "quit_game": {
+      "name": "SALIR DEL JUEGO",
+      "explanation": "Cierra el juego y vuelve al escritorio.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "32": {
+    "subsettings_graphics": {
+      "name": "AJUSTES GRÁFICOS",
+      "explanation": "Cambiar las opciones gráficas.",
+      "category": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "33": {
+    "subsettings_controls": {
+      "name": "AJUSTES DE JOYSTICK",
+      "explanation": "Personaliza los joysticks del juego.",
+      "category": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "34": {
+    "subsettings_game": {
+      "name": "AJUSTES DEL JUEGO",
+      "explanation": "Cambia la configuracion que afectan a la jugabilidad.",
+      "category": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "35": {
+    "subsettings_audio": {
+      "name": "AJUSTES DE AUDIO",
+      "explanation": "Cambia la configuración del audio.",
+      "category": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "36": {
+    "license": {
+      "name": "LICENCIA",
+      "explanation": "Muestra información sobre la licencia.",
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  }
+}
