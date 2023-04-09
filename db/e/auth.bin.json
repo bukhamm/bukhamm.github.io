@@ -5996,7 +5996,7 @@
             "1": 250.0,
             "2": 340.0,
             "3": 0,
-            "4": "Excuse me.\nApologies for the intrusion.",
+            "4": "Disculpe.\nMis disculpas por la intrusión.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -6006,7 +6006,7 @@
             "1": 370.0,
             "2": 395.0,
             "3": 0,
-            "4": "Come in.",
+            "4": "Pasa.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -6016,7 +6016,7 @@
             "1": 420.0,
             "2": 505.0,
             "3": 0,
-            "4": "I've brought the fourth chairman.",
+            "4": "He traído al cuarto presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -6026,7 +6026,7 @@
             "1": 590.0,
             "2": 670.0,
             "3": 0,
-            "4": "Long time no see, Fourth Chairman.",
+            "4": "Cuánto tiempo sin verle, Cuarto Presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -6036,7 +6036,7 @@
             "1": 690.0,
             "2": 760.0,
             "3": 0,
-            "4": "Do you remember me?",
+            "4": "¿Te acuerdas de mí?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -6046,7 +6046,7 @@
             "1": 850.0,
             "2": 920.0,
             "3": 0,
-            "4": "It appears the answer is no...",
+            "4": "Al parecer, la respuesta es no...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -6056,7 +6056,7 @@
             "1": 930.0,
             "2": 1055.0,
             "3": 0,
-            "4": "Well, I've only ever been an advisor,\neven under the sixth chairman's rule.",
+            "4": "Bueno, solo he sido asesor,\nincluso bajo la regla del sexto presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -6066,7 +6066,7 @@
             "1": 1070.0,
             "2": 1105.0,
             "3": 0,
-            "4": "I don't blame you.",
+            "4": "No lo culpo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -6076,7 +6076,7 @@
             "1": 1140.0,
             "2": 1360.0,
             "3": 0,
-            "4": "As I'm sure you heard, they called on me\nto step in after the sixth chairman's arrest.",
+            "4": "Como estoy seguro de que escuchó, me pidieron que\nintervenga después del arresto del sexto presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -6086,7 +6086,7 @@
             "1": 1370.0,
             "2": 1510.0,
             "3": 0,
-            "4": "Just as the Tojo Clan was getting younger,\nthe old guard swoops in to fix things.",
+            "4": "Justo cuando el Clan Tojo se estaba volviendo más joven,\nla vieja guardia se abalanza para arreglar las cosas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -6096,7 +6096,7 @@
             "1": 1530.0,
             "2": 1650.0,
             "3": 0,
-            "4": "We must seem rather unstable in your eyes.",
+            "4": "Debemos parecer bastante inestables a sus ojos.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -6106,7 +6106,7 @@
             "1": 1680.0,
             "2": 1770.0,
             "3": 0,
-            "4": "This is quite a table you brought in here.",
+            "4": "Es una gran mesa la que trajiste aquí.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -6116,7 +6116,7 @@
             "1": 1835.0,
             "2": 1960.0,
             "3": 0,
-            "4": "Yakuza seem to talk more with\nour pens than our fists these days.",
+            "4": "Los yakuza ya parecen hablar más con bolígrafos\nque con sus puños en estos días.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -6126,7 +6126,7 @@
             "1": 1980.0,
             "2": 2025.0,
             "3": 0,
-            "4": "Another sign of the times.",
+            "4": "Otra señal de que los tiempos han cambiado.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -6136,7 +6136,7 @@
             "1": 2070.0,
             "2": 2220.0,
             "3": 0,
-            "4": "And Someya over there? He doesn't\nlook like much of a paper pusher to me.",
+            "4": "¿Y Someya? A mí no me parece\nlook like much of a paper pusher to me.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -6156,7 +6156,7 @@
             "1": 2400.0,
             "2": 2490.0,
             "3": 0,
-            "4": "Every yakuza has his role to play, you know.",
+            "4": "Cada yakuza tiene su papel que desempeñar, ya sabes.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -6166,7 +6166,7 @@
             "1": 2510.0,
             "2": 2590.0,
             "3": 0,
-            "4": "Please. Take a seat, Fourth Chairman.",
+            "4": "Por favor. Tome asiento, Cuarto Presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -10367,7 +10367,7 @@
             "1": 205.0,
             "2": 255.0,
             "3": 0,
-            "4": "Hirose-san, 'scuse me.",
+            "4": "Hirose-san, discúlpeme.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -10377,7 +10377,7 @@
             "1": 265.0,
             "2": 275.0,
             "3": 0,
-            "4": "Come in.",
+            "4": "Pasa.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -10387,7 +10387,7 @@
             "1": 540.0,
             "2": 660.0,
             "3": 0,
-            "4": "Y'snuck outta the hospital again?\nYou sure 'bout this?",
+            "4": "¿Te escapaste del hospital otra vez?\n¿Estás seguro de esto?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -10397,7 +10397,7 @@
             "1": 580.0,
             "2": 765.0,
             "3": 0,
-            "4": "It's fine.\nThe doctor's in on the whole thing.",
+            "4": "Estoy bien.\nEl doctor está al tanto de todo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -10407,7 +10407,7 @@
             "1": 810.0,
             "2": 960.0,
             "3": 0,
-            "4": "Listen. I tell them I was in a car wreck,\nand the insurance money starts pourin' in.",
+            "4": "Escuchen. Les digo que tuve un accidente automovilístico,\ny el dinero del seguro me comienzara a llegar.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -10417,7 +10417,7 @@
             "1": 980.0,
             "2": 1120.0,
             "3": 0,
-            "4": "Not even a scratch on me, but they'll still\npay me jus' to sleep at the hospital.",
+            "4": "No tengo ni un solo rasguño, pero aún así me pagarán\nsólo por dormir en el hospital.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -10437,7 +10437,7 @@
             "1": 1190.0,
             "2": 1260.0,
             "3": 0,
-            "4": "This is Hirose-san, our patriarch.",
+            "4": "Este es Hirose-san, nuestro patriarca.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -10447,7 +10447,7 @@
             "1": 1290.0,
             "2": 1525.0,
             "3": 0,
-            "4": "Back when the Omi tried t'muscle in,\nhe was on the frontline, lobbin' grenades.",
+            "4": "Antes, cuando los Omis intentó entrar,\nél estaba en primera línea, lanzando granadas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -10457,7 +10457,7 @@
             "1": 1540.0,
             "2": 1570.0,
             "3": 0,
-            "4": "Ain't that right, Hirose-san?",
+            "4": "¿No es cierto, Hirose-san?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -10467,7 +10467,7 @@
             "1": 1585.0,
             "2": 1645.0,
             "3": 0,
-            "4": "Well, that was years ago.",
+            "4": "Bueno, eso fue hace años.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -10477,7 +10477,7 @@
             "1": 1680.0,
             "2": 1730.0,
             "3": 0,
-            "4": "Hey, Nagumo.",
+            "4": "Oye, Nagumo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -10487,7 +10487,7 @@
             "1": 1740.0,
             "2": 1800.0,
             "3": 0,
-            "4": "Don't stop there, y'idiot!",
+            "4": "¡No te detengas ahí, idiota!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -10497,7 +10497,7 @@
             "1": 1805.0,
             "2": 1925.0,
             "3": 0,
-            "4": "U-Uh, well... Lemme tell ya\nabout our guest here first.",
+            "4": "E-Eh, bueno... Permítanme decirles acerca de nuestro\ninvitado aquí en primer lugar.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }

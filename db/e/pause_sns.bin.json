@@ -1,0 +1,6022 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 120,
+  "COLUMN_COUNT": 7,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "table": "1",
+    "picture": "1",
+    "notify": "1",
+    "stage": "1",
+    "tweet_wait_sec_start": "1",
+    "tweet_wait_sec_end": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "table": 9,
+    "picture": 1,
+    "notify": 6,
+    "stage": 2,
+    "tweet_wait_sec_start": 7,
+    "tweet_wait_sec_end": 7
+  },
+  "columnTypes2": {
+    "": -1,
+    "table": 13,
+    "picture": 1,
+    "notify": 11,
+    "stage": 0,
+    "tweet_wait_sec_start": 9,
+    "tweet_wait_sec_end": 9
+  },
+  "COLUMN_INDICES": [
+    0,
+    4,
+    1,
+    2,
+    3,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test00": {
+      "table": {
+        "ROW_COUNT": 9,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "mail0": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "mail1": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "mail2": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "mail3": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "7": {
+          "failed": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "8": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        }
+      },
+      "picture": 781,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test01": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test02": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "bot00": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "bot01": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "bot02": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "bot03": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "bot04": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "bot05": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "bot06": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "bot07": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "bot08": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "bot09": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "sample_event_encount": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 784,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "15": {
+    "im_sample": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 786,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "16": {
+    "im_sample_batsu": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 787,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "17": {
+    "im_sample_maru": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 788,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "18": {
+    "im_sample_shikaku": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 789,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "19": {
+    "09_ikinari_shikaku": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "10_kyuubyounin": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "11_kami_ga_nai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "12_houkama": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "21_hittakuri": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "25_kuinige": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "32_yopparai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "33_harapeko": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "13_tourima": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "14_kaji": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "16_hungry": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "17_stomachache": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "31": {
+    "18_tabetai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "19_ikitai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "22_suri": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "23_manbiki": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "24_goutou": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "27_twitter": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "28_yokoku": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "29_sos": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "30_clan": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "31_yopparai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "32_deliver": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "34_rakugaki": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "38_toritetsu": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "39_seafood": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "40_tombraider": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "41_missing": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "46_fire": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "47_tsutsumotase": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "48_spam": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "sub_a11_reiko": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "sub_a11_01": {
+            "1": "Ugh, I'm so booored.\nI <font_kind=yakuza_italic>am</font_kind> feeling kind of horny, though.\nAnyone up for a little romp between the\nsheets? Try and find me if you're game.\nI'll be waiting! <symbol=note_with_outline>",
+            "2": 1603,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "sub_a11_02": {
+            "1": "Ughhh, why's nobody talking to me!?\nMaybe I'll just handle things myself at home.\n<font_kind=yakuza_italic>Unlesssss</font_kind> somebody wants to come lend\na hand... Or maybe more. <symbol=note_with_outline>",
+            "2": 1603,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "sub_a11_03": {
+            "1": "Awww, nobody came to say hello.\nI moved somewhere new, though... <symbol=note_with_outline>\nCan anyone guess where I am?",
+            "2": 1604,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "sub_a11_04": {
+            "1": "I'm done waiting around for my white knight. <symbol=note_with_outline>\nTime to get moving again! Although, maybe\nI'll just go handle things myself at home.\nThis is your last chance, so try and find\nme at my new spot! I'll be waiting... <symbol=note_with_outline>",
+            "2": 1605,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 781,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "51": {
+    "42_falling": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "10_kyuubyounin_k00": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "42_falling_k00": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "sns_retweet_test": {
+      "table": {
+        "ROW_COUNT": 21,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "1": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "2": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "3": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "4": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "5": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "6": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "7": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "8": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "9": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "10": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "tm_01": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "tm_02": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "tm_03": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "tm_04": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "tm_05": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "tm_06": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "tm_07": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "tm_08": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "tm_09": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "tm_10": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        }
+      },
+      "picture": 791,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "55": {
+    "tm_09_ikinari_shikaku": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "tm_10_kyuubyounin": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw someone keeled over in pain on\nEast National Route 2, near the pedestrian\nbridge! I can't stop, so I'm hoping someone\nhere on Troublr can!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "My friend just told me that the sick person\nwas saved by some good Samaritan who\ngave them some medicine. There's hope\nfor you yet, Onomichi!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Even though they must have been in\nexcruciating pain, no one came to help...\nPeople are so heartless...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll check it out.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 795,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "57": {
+    "tm_10_kyuubyounin_k00": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I just looked out the window of my car\nand I think I saw someone in serious pain\njust south of the Theater! I can't stop\nthere myself, so can someone help!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "A friend of mine said someone saved that\nsick person. Was it the guy who replied?\nWell, they're apparently recovering fine,\nthanks to you. Kamurocho is in good hands!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I was finally able to turn around, and\nnobody came to help. Kamurocho is such\na disappointment. Nobody cares here.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll look into it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 796,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "58": {
+    "tm_11_kami_ga_nai": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "*Urgent: PLEASE SHARE!*\nI'm inside the Children's Park bathroom and\nit's OUT OF TOILET PAPER! Can you make it\nsnappy? I have an important meeting soon!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "The patron saint of public restrooms himself\nwas able to spare me a square! Thank you,\noh benevolent lord of the lavatory!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Well, please keep my underwear in your\nprayers. The dark price was too steep, and\nit left this world in about as cruel a way as\nany pair of undies could go... I'm so sorry.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "......Fine.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 797,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "59": {
+    "tm_12_houkama": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's been an alarming increase in\narsons here in Onomichi lately, and I\njust saw a suspicious guy near the port.\nHe was clearly trying to keep a low\nprofile, so I didn't want to approach!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "That person really was an arsonist. Too\nbad they got away. Did the guy who\nreplied chase them away? If so, great work!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "A small fire broke out. I saw a firetruck\nheading in that direction. I knew I should've\ncalled the police sooner.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Sounds dangerous. I'll check it out.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 798,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "60": {
+    "tm_21_hittakuri": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I was minding my own business at the\nOyster Shack on Shishido Street, when my\neye caught some shady business. I'm not\nsure what I saw, but I just want to be sure...\nCan anyone check it out? I'm too scared.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "So it WAS shady! And you stopped a purse-\nsnatcher! You've done the world a favor!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Maybe I was just imagining things... But this\nis gonna keep me up at night, I just know it.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll get to the bottom of it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 803,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "61": {
+    "tm_25_kuinige": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 785,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "62": {
+    "tm_33_harapeko": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw a little boy squatting in the middle\nof the shopping center. Maybe he wasn't\nfeeling well? I hope he's all right... I didn't\ncheck, but now I'm kicking myself! Can\nsomeone look in on him?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Apparently that little boy was just really\nhungry. He said a nice tourist gave him\nsome food. I'm glad he wasn't ill, though!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Apparently that little boy was just really\nhungry. He fainted and got hauled away\nin an ambulance.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll see what the problem is.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 789,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "63": {
+    "tm_13_tourima": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 781,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "64": {
+    "tm_14_kaji": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 782,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "65": {
+    "tm_16_hungry": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "66": {
+    "tm_17_stomachache": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "67": {
+    "tm_18_tabetai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "68": {
+    "tm_19_ikitai": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "69": {
+    "tm_22_suri": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 805,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "70": {
+    "tm_23_manbiki": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 783,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "71": {
+    "tm_24_goutou": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 784,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "72": {
+    "tm_27_twitter": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 786,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "73": {
+    "tm_28_yokoku": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "74": {
+    "tm_29_sos": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 787,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "75": {
+    "tm_30_clan": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 788,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "76": {
+    "tm_31_yopparai": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's this drunk in Public Park Three, and\nhe's being a nuisance. He's making me and\nsome other people pretty uncomfortable...\nI wish someone would put a stop to him...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Not how I would have solved the problem,\nbut I guess giving a drunk more alcohol\nworks, as long as it makes him stop\nbothering people!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The drunk guy never did budge. He reeked,\nand he kept muttering stuff to people...\nSometimes Kamurocho feels like a real\ndump.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I know how to handle this.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 808,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "77": {
+    "tm_32_deliver": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "78": {
+    "tm_34_rakugaki": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 781,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "79": {
+    "tm_38_toritetsu": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "80": {
+    "tm_39_seafood": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "81": {
+    "tm_40_tombraider": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 788,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "82": {
+    "tm_41_missing": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There was this woman looking pretty\nfrantic at the shrine. Apparently she and her\nchild got separated. I don't know the area\ntoo well... Can anyone swing by?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Thank goodness, the child was found.\nConsidering how dangerous it's been\ngetting these days, I'm glad this all\nworked out okay.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I guess the police eventually found that kid,\nand the poor little guy was so exhausted\nhe could barely even cry anymore. I'm\ntearing up here.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "He couldn't have gone far. I'll have a look.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 811,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "83": {
+    "tm_42_falling": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw someone dangling from the ceiling\nof the Central Shopping District. It'll\r\nonly be a matter of time until the person\r\nfalls. Someone help them!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I heard the person was safely rescued.\nThey were pretty high up, so if they fell,\nit probably would've been bad. I'm\nrelieved, so relieved.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The person couldn't hang on anymore and\nfell. Apparently they didn't end up with\nsevere injuries, but I bet it hurt.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Got it, I'll go help.\nWait for me.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 812,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "84": {
+    "tm_42_falling_k00": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's someone hanging on for dear life\nfrom the rooftop of the batting center!\nI don't want to imagine what'll happen\nif they fall! Someone help!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I heard some buff guy pulled the person up\nto safety. The world still has some good in it\nafter all!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The person fell to the ground. Luckily, they\nweren't severely injured, but I can't believe\nno one even tried to help...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Got it. I'm on my way.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 813,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "85": {
+    "tm_46_fire": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "picture": 787,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "86": {
+    "tm_47_tsutsumotase": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "87": {
+    "tm_48_spam": {
+      "picture": 0,
+      "notify": "0",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "88": {
+    "tm_01_katsuage_a01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I've heard there's a bunch of guys shaking\npeople down for cash in Theater Alley...\nSeems like there's a new victim every\nday, too. I wish someone would take care\nof those punks...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Apparently someone gave those\nshakedown guys a proper beat down.\nWas it the guy who replied to my post?\nIf so, thanks, man. I'm glad Kamurocho\nstill has people like you around.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "They found some guy beaten half to death\nnear Theater Square. Word is they might\nnot make it... There's no justice in this town\nanymore...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Got it. I don't tolerate shakedowns.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 790,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "89": {
+    "tm_01_katsuage_a02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I heard those shakedown guys showed\nup northwest of Theater Square.\nIf you're still out there... can you do\nsomething about them again?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Man, whoever you are, you're stronger\nthan anyone I know! That should teach\nthose punks a lesson. I just hope they\nknow better than to come back...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Some people ended up getting hurt...\nI heard they were just left to bleed out\non the street, too... Shameful.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "They'll be lucky if they can still walk.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 790,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "90": {
+    "tm_01_katsuage_a03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw someone get pulled into a manhole\nnear the Hotel District! They're supposedly\ntaking victims underground so no one can\nsee them shake people down. Please,\nsomeone save them!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "You're so amazing. I think it finally got\nthrough to those guys. I heard from a friend\nthat they don't think it's worth the pain\nanymore. I bet that's the end of that\nshakedown problem for our city.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Just when I thought they were getting too\nscared, they're back to their old tricks and\nbragging about making easy money on the\nstreets. I wish somebody'd stand up to\nthem.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Time to flush the rats out of the sewers.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 790,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "91": {
+    "tm_02_oyajigari_a01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw a rough-looking crowd harassing a\nmiddle-aged guy near the Millennium\nTower. I bet these are those dad hunters\nI've heard so much about.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I saw this dude in a gray suit beating the\nliving shit out of those thugs. Was it the guy\nwho replied? If so, thanks. It was great\nseeing those guys get taken down a peg!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I just saw those thugs walk out of a\nstore with a whole bunch of expensive\r\nelectronics. Guess they got the money\nfrom that dude after all...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "They won't get away with it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 791,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "92": {
+    "tm_02_oyajigari_a02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I heard another middle-aged man was\ngetting harassed in Pink Alley. Why are\npeople still doing this? If you're still out\nthere, Gray-suited Champion of Justice,\nwe need you!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "The Champion of Justice LIVES!\nThose guys were beaten to bloody pulps!\nServes 'em right, too! LMAO!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Just saw a guy walk out of Pink Alley looking\ntattered and broken. I guess the Champion\nof Justice was too busy.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "On it. And no nicknames, please.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 791,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "93": {
+    "tm_02_oyajigari_a03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Those dad-hunter guys are back again on\nEast Taihei Boulevard. It's in your hands,\nChampion of Justice!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I knew we could depend on you. They\nmust've learned their lesson by now. No\none's going to bother middle-aged men in\nthis city again after what happened to those\nguys.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Man, I guess I was naive to expect a\nchampion of justice to fix everything.\nThat middle-aged man was crying into\nhis hands on the curb.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "...The \"champion\" is on it. Happy?",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 791,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "94": {
+    "tm_03_nanpa_a01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw these gross guys harassing a girl\nin front of the Millennium Tower.\nI've heard rumors about the terrible\nthings these assholes do to those poor\nwomen...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Those perverts got the beat down they\ndeserved. I'd say it was divine punishment\nthat the guy who wrecked them was built\nlike a bulldozer.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Turns out no one wanted to help that poor\ngirl... I sure hope she's okay...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Not on my watch.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 792,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "95": {
+    "tm_03_nanpa_a02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Those perverts don't know when to quit.\nThey're in front of Theater Square now!\nSomeone needs to put these scumbags in\ntheir place...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "ROFLMAO! I saw those guys getting the\nbeating of their lives. They were really\naggressive to all those girls, and that\nreflects poorly on EVERYONE. So, I'm\nreally thankful to whoever beat them up!\nThat'll do, pig!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "No one came to help... People like them\ngive Kamurocho the reputation it deserves.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll shut them down as many times\nas it takes.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 792,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "96": {
+    "tm_03_nanpa_a03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Those guys committing sexual assault\nseem to have moved their operation into\nthe Millennium Tower. I can't believe they\nthink they can get away with messing with\ngirls just because they're inside. Someone\nshould wreck them for good!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Those guys just got REKT, LOL. Serves 'em\nright, if you ask me! I think they're done\nmessing with girls in Kamurocho. Hopefully\nthat makes this city at least a little safer for\nwomen to walk around in...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Of course people just turn a blind eye to\nthis kind of thing. Have been for years. I'm\nangry that I'm not strong enough to stop it\nmyself, but I'm even angrier that the people\nwho are strong enough chose to do nothing!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "This is the last straw.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 792,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "97": {
+    "tm_04_lynch_a01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I saw someone being attacked by a mob\nin the Hotel District. If nobody comes\nsoon, they could be killed...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I'm sure you just saved a life, buddy. Not\nall heroes wear capes, apparently. Some\nwear really outdated suits.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "An ambulance just showed up on the scene.\nI just hope they pull through...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I won't let that happen.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 793,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "98": {
+    "tm_04_lynch_a02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's another mob getting aggressive\non some defenseless person in Theater\nSquare. I don't know why they keep doing\nthis, but they need to be stopped before\nsomeone gets killed.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Someone swooped in to save the victim\nfrom that mob. I sure am glad there are\ngood people on this network and in the\nworld.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I heard the victim is in critical condition.\nThey probably won't even be able to live\na normal life after this... I think about how\nthis could have been avoided if someone\nhad helped them, and it makes me so sad...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I won't let anyone die.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 793,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "99": {
+    "tm_04_lynch_a03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "A mob is forming in Nakamichi Alley.\nI heard it's getting pretty bad. Can't anyone\nhelp!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I saw that the victim made it out unscathed.\nThey told a reporter that a random stranger\nrisked his life in an all-out street fight to put\nthat mob down. Just goes to show, there are\nstill some good people in Kamurocho.\nHopefully this means the mobs will die\ndown now. And if not... I bet this guy will\nshow up to save the day again! Heh.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The victim's supposedly in pretty bad shape.\nThe reporters couldn't even say how badly\nthey were hurt... I wonder if someone could\nhave stopped this...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "On my way.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 793,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "100": {
+    "tm_05_couple_a01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's a group of thugs that hangs out in\nNakamichi Alley to harass passing couples.\nApparently they take some kind of sick\npleasure in making people in love suffer.\nHow screwed up is that?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I watched you fight those guys. You beat\nthem to a bloody pulp without breaking\na sweat! That was awesome!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "No one came to help them. I wonder if\nthey're okay? Makes me sick to my\nstomach...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'm on it. Give me a sec.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 794,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "101": {
+    "tm_05_couple_a02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I heard those jerks are still messing with\ncouples. I saw them leering at people\naround the Millennium Tower. I kinda\nwish they'd just drop dead.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "HAHAHA! Those guys got absolutely LIT UP.\nThat'll teach 'em! Hahaha, I'm dying here!\nLOLOL",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Looks like we ended up with two more\nvictims. This is disgusting.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll see what I can do.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 794,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "102": {
+    "tm_05_couple_a03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Those couple hunters have resurfaced.\nThis time, they're dragging couples into\nan empty room in the Senryo Building.\nSomeone has to help them!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Those guys got so busted up, they could\nbarely stumble out of the building. I bet\nthose punks couldn't harass another couple\nif they tried! Whoever did all this... Love\nhas won, thanks to you!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Looks like another couple is on the way to\nthe ER. When will this nightmare end?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Sit tight, I'm on it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 794,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "103": {
+    "tm_kiryu_reaction": {
+      "table": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "kiryu_accept_00": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "kiryu_accept_01": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "kiryu_accept_02": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "kiryu_accept_03": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "kiryu_accept_a01": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "picture": 2378,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "104": {
+    "sample_encount_boss": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 785,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "105": {
+    "tm_35_suri": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I heard there's a pickpocket who's been\nhanging around Hana-no-kubo. That's\nwhere all the tourists hang out, so this\nis going to escalate quickly...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Looks like the pickpocket got his hand in\nthe wrong pocket. I heard he got the\ncrap kicked out of him.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "It seems that pickpocket is really cleaning\nup out there... Onomichi's reputation is as\ngood as ruined.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll put a stop to it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 810,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "106": {
+    "tm_36_hakaarashi": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I've heard a creepy rumor that some grave\nrobbers have been sighted in the cemetery.\nGeez, talk about feudal-era crimes, right?\nI'd check, but... hell no, man. Hell no.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I guess some dude rolled up into the\ncemetery and took out the whole gang of\ngrave robbers. You, sir, have bigger balls\nthan I do.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Sounds like a whole bunch of graves got dug\nup and a ton of valuables went missing. It's\ndisgusting, in so many ways.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "The dead don't deserve that. I'll check it out.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 789,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "107": {
+    "tm_17_ramen": {
+      "table": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "My chronic back pain has the worst timing!\nIt flared up during my ramen delivery! This\ncustomer will raise hell if his ramen is late\nor his noodles are soggy too! Let's just say...\nUdon wanna mess with him!\n\nI'm by Kyushu No. 1 Star if you can help!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "place": {
+            "1": "I got the order from Lullaby Mahjong!\nPlease, run like the round wind!",
+            "2": 2619,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "success": {
+            "1": "This scary but also kind of sweet guy\nmade my delivery for me! My back was\nhurting soba'd...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "failure": {
+            "1": "I couldn't get the delivery out... The phone\nat the restaurant won't stop ringing, either.\nSorry to be a wet noodle, but I think I'm\ngonna skip town...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "accept": {
+            "1": "Not sure why, but I'll help.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "picture": 799,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "108": {
+    "tm_19_kazi_k_01": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I can see smoke coming from a rooftop\nin Nakamichi Alley. Something's gotta be\non fire. If it doesn't get put out soon, it'll\ntear through the streets!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Looks like someone extinguished that fire.\nI'm glad we didn't have to go through\nanother big fire in the city! Thanks to the\none who made it over there in time!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I think that fire must have burned out on\nits own. We sure got lucky this time...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Got it, I'll go check.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 801,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "109": {
+    "tm_20_kazi_k_02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's smoke coming from a building on\nSenryo Avenue! It's gotta be another fire.\nIs anyone close enough to put it out!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I heard you went in with a fire extinguisher\nand put out that fire single-handedly!\nYou're incredible!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The building burned down... Luckily, the fire\nwent out with it. Hard to believe nobody\ntried to put it out, but... What can you\nexpect from Kamurocho?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll see what I can do.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 802,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "110": {
+    "tm_21_kazi_k_03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I can see smoke billowing from the roof\nof the batting cages. It better not be\nanother big fire...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "The smoke stopped. Did the guy who\nsaid he'd put it out really get to it in time?\nIf so, you're the man, anon!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "The smoke's gone, but... I think all it\ndid was burn itself out. There's probably\nsome pretty bad damage...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll make sure it doesn't spread.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 804,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "111": {
+    "tm_27_burningcar": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "FIRE: Jingai Main Street! A CAR IS ON FIRE!!!\nThe owner is screaming about how\nsomething important is trapped in the car!\nBut the car will never last until the fire truck\ncan get here!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Thank goodness someone had a fire\nextinguisher! I'm sure that car's owner\nreally appreciates you, buddy. And so do\nwe!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I guess sometimes fate takes what's\nimportant to you. But still, what a disaster.\nIsn't there any way this could have been\navoided?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll go. Wait for me.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 807,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "112": {
+    "tm_32_hankouyokoku2": {
+      "table": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Kiryu-san,\nIt's me, Torafuru. This is a DM, so only you\ncan see it. I traced that serial bomber's IP,\nand it seems like he's posting to Troublr\nfrom an internet café. Maybe you could\ncatch him if you dropped in at the right\ncafé!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "You did it, Kiryu-san. I knew you could.\nThat guy was pretty terrible, huh?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "It looks like he signed off, so that must\nmean he left the café. He got away this\ntime, but let's hope there's another chance!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "progress1": {
+            "1": "Kiryu-san, if the serial bomber's patterns\nare anything to go on, he'll be leaving the\ncafé in about five minutes. If you're going\nto get him, now would be the time!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "progress2": {
+            "1": "Kiryu-san, we're down to about two\nminutes before the serial bomber leaves\nthe café! Can you get to him in time!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "accept": {
+            "1": "Yeah, this guy needs to be stopped.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        }
+      },
+      "picture": 2622,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "113": {
+    "tm_35_hankouyokoku": {
+      "table": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "The clock is ticking in Kamurocho...\nI've set up a bomb, and my challenge to you\nis this: Can you find it in the ten minutes\nbefore it blows?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Not bad. You deserve some credit, I\nsuppose... But this isn't over by a long shot.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "You disappoint me. You masquerade as\njustice incarnate, but fall short of the mark\nwhen it really counts. Pathetic.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "hint1": {
+            "1": "Here's the bomb! HaHaHa!\nDo you know this city well enough to figure\nout where it is?",
+            "2": 2616,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "hint2": {
+            "1": "Aww, are you struggling to find it in\na city you claim to know? Here's the hint I\nsnapped in case you turned out to be an idiot.",
+            "2": 2617,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "hint3": {
+            "1": "Still lost? I knew you were stupid, but man,\nwhat a moron! Here's the final hint before\nthe KaBOOM!",
+            "2": 2618,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "accept": {
+            "1": "Challenge accepted. You can't hurt this city.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        }
+      },
+      "picture": 809,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "114": {
+    "tm_22_kazi_k_04": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I see a lot of smoke coming from a\nbuilding on Tenkaichi Street! Is this\nanother arson attempt!? What if it\nspreads!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I hear the fire got put out and they\neven caught they guy who did it!\nTroublr is going nuts saying the guy\nwho posted solved everything!\nWay to go!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I guess you couldn't get there in time.\nStill no idea who the arsonist is,\neither. I bet the fires won't stop here.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll put it out before that happens.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 806,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "115": {
+    "tm_torafuru_reaction": {
+      "table": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 1,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": -1
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "torafuru_tm35_hint": {
+            "1": "Kiryu-san! I got some information from\na friend! Red, cut the red!",
+            "2": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "picture": 2622,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "116": {
+    "tm_24_kazi_o_02": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's smoke coming from an alley on\r\nCemetery Lane. Think it's the arsonist who's\r\nbeen starting all those fires? Someone\r\nshould check it out.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Sounds like we really are dealing with an\r\narsonist. But I guess the guy who responded\r\nmust have put out the fire. I'm glad you\r\nstopped it before it did any real damage.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "Looks like the fire burnt out on its own, but\r\nwe really got lucky this time. I guess nobody\r\nhad time to check it out.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I've had it with fires. I'm on it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 814,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "117": {
+    "tm_25_kazi_o_03": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "There's smoke coming from the Navy\nApartments. That stupid arsonist strikes\nagain! Can someone get down there!?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "Looks like it was another arson attempt, but\nsomeone got to it with a fire extinguisher\nbefore it got out of hand. Was it the guy\nwho replied?",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "It must have been the same arsonist, but\nsince no one came, I guess we'll never know\nfor sure. At least the fire's out... Not like all\nyou cold-blooded reptiles care.",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "That's close to home. I'll go.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 815,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "118": {
+    "tm_26_kazi_o_04": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "I see smoke coming from a house in\nHana-no-kubo! I think it's coming from the\nbalcony, or somewhere above ground,\nanyway. The houses out there are all made\nof wood, so someone needs to get up there\nfast!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "It really WAS arson. This is becoming a real\nproblem. Thank you, whoever put it out!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "No one went to look. The fire didn't spread,\nbut I'll never forget the day you all turned\nyour back on this city...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "Sounds dangerous. I'm on it.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 816,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "119": {
+    "tm_18_houkama_k": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 4,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 1,
+          "3": 2
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 1,
+          "3": 0
+        },
+        "0": {
+          "": {
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "start": {
+            "1": "Ever since that fire in Little Asia,\nthere's been an increase in arsons across\nKamurocho. I saw this shady guy on the\neast side of Taihei Boulevard and I can't\nhelp but think it's related. Pretty creepy!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "success": {
+            "1": "I really DID see an arsonist. Someone said\nhe got away, but maybe it was because the\nguy who replied chased him off? Good job!",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "failure": {
+            "1": "I can't believe another fire broke out in\nKamurocho. Good thing the fire trucks\nmade it before it got out of hand...",
+            "2": 0,
+            "3": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "accept": {
+            "1": "I'll go have a look.",
+            "2": 0,
+            "3": 103,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "picture": 800,
+      "notify": "1",
+      "stage": 0,
+      "tweet_wait_sec_start": 0.0,
+      "tweet_wait_sec_end": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  }
+}
