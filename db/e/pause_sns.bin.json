@@ -1043,7 +1043,7 @@
         },
         "1": {
           "sub_a11_01": {
-            "1": "Ugh, I'm so booored.\nI <font_kind=yakuza_italic>am</font_kind> feeling kind of horny, though.\nAnyone up for a little romp between the\nsheets? Try and find me if you're game.\nI'll be waiting! <symbol=note_with_outline>",
+            "1": "Uf, estoy tan aburrida. \nAunque <font_kind=yakuza_italic>me siento</font_kind> un poco cachonda.\nAlguien quiere un pequeño revolcón entre las\nsábanas? Intenta encontrarme si te apetece.\n¡Te estaré esperando! <symbol=note_with_outline>",
             "2": 1603,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
@@ -1051,7 +1051,7 @@
         },
         "2": {
           "sub_a11_02": {
-            "1": "Ughhh, why's nobody talking to me!?\nMaybe I'll just handle things myself at home.\n<font_kind=yakuza_italic>Unlesssss</font_kind> somebody wants to come lend\na hand... Or maybe more. <symbol=note_with_outline>",
+            "1": "Ughhh, ¿¡por qué nadie me habla!?\nTal vez me ocupe yo misma de las cosas en casa.\n<font_kind=yakuza_italic>A menos</font_kind> que alguien quiera venir a\necharme una mano... O tambien otra cosa quizás. <symbol=note_with_outline>",
             "2": 1603,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
@@ -1059,7 +1059,7 @@
         },
         "3": {
           "sub_a11_03": {
-            "1": "Awww, nobody came to say hello.\nI moved somewhere new, though... <symbol=note_with_outline>\nCan anyone guess where I am?",
+            "1": "Awww, nadie vino a saludarme.\nAunque me mudé a un lugar nuevo..., por cierto... <symbol=note_with_outline>\n¿Puede alguien adivinar dónde estoy?",
             "2": 1604,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
@@ -1067,7 +1067,7 @@
         },
         "4": {
           "sub_a11_04": {
-            "1": "I'm done waiting around for my white knight. <symbol=note_with_outline>\nTime to get moving again! Although, maybe\nI'll just go handle things myself at home.\nThis is your last chance, so try and find\nme at my new spot! I'll be waiting... <symbol=note_with_outline>",
+            "1": "Estoy harta de esperar a mi caballero blanco. <symbol=note_with_outline>\n¡Es hora de volver a moverse! Aunque, tal vez\nme encargaré de las cosas yo misma en casa.\nEsta es tu última oportunidad, ¡así que trata de encontrarme\nen mi nuevo vivienda! Voy a estar esperando... <symbol=note_with_outline>",
             "2": 1605,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
@@ -1360,7 +1360,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw someone keeled over in pain on\nEast National Route 2, near the pedestrian\nbridge! I can't stop, so I'm hoping someone\nhere on Troublr can!",
+            "1": "¡Vi a alguien desplomado de dolor en la\nEast National Route 2, cerca del\npuente eatonal! ¡No puedo parar,\nasí que espero que alguien\naquí en Troublr pueda ayudar!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1369,7 +1369,7 @@
         },
         "2": {
           "success": {
-            "1": "My friend just told me that the sick person\nwas saved by some good Samaritan who\ngave them some medicine. There's hope\nfor you yet, Onomichi!",
+            "1": "Mi amigo me acaba de decir que el enfermo\nfue salvado por un buen samaritano que\nle dio una medicina. ¡Todavía\nhay esperanza para ti, Onomichi!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1378,7 +1378,7 @@
         },
         "3": {
           "failure": {
-            "1": "Even though they must have been in\nexcruciating pain, no one came to help...\nPeople are so heartless...",
+            "1": "A pesar de que deben haber estado\nsufriendo un dolor insoportable, nadie vino a ayudar...\nLa gente es tan despiadada...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1387,7 +1387,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll check it out.",
+            "1": "Ire a comprobarlo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -1447,7 +1447,7 @@
         },
         "1": {
           "start": {
-            "1": "I just looked out the window of my car\nand I think I saw someone in serious pain\njust south of the Theater! I can't stop\nthere myself, so can someone help!?",
+            "1": "Acabo de mirar por la ventanilla de mi auto\ny creo que vi a alguien con mucho dolor\njusto al sur del teatro. No puedo detenerme\n¿habra alguien que puede ayudarlo?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1456,7 +1456,7 @@
         },
         "2": {
           "success": {
-            "1": "A friend of mine said someone saved that\nsick person. Was it the guy who replied?\nWell, they're apparently recovering fine,\nthanks to you. Kamurocho is in good hands!",
+            "1": "Un amigo mío dijo de que alguien salvó a esa persona\nenferma. ¿Fue el tipo que respondió?\nBueno, aparentemente se están recuperando bien,\ngracias a el. ¡Kamurocho está en buenas manos!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1465,7 +1465,7 @@
         },
         "3": {
           "failure": {
-            "1": "I was finally able to turn around, and\nnobody came to help. Kamurocho is such\na disappointment. Nobody cares here.",
+            "1": "Finalmente pude darme la vuelta y\nnadie vino a ayudar. Kamurocho es una\ndecepción. Nadie se preocupa aquí.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1474,7 +1474,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll look into it.",
+            "1": "Lo investigaré.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -1534,7 +1534,7 @@
         },
         "1": {
           "start": {
-            "1": "*Urgent: PLEASE SHARE!*\nI'm inside the Children's Park bathroom and\nit's OUT OF TOILET PAPER! Can you make it\nsnappy? I have an important meeting soon!",
+            "1": "*Urgente: ¡POR FAVOR COMPARTE!*\nEstoy dentro del baño del Parque Infantil y\n¡NO HAY PAPEL HIGIÉNICO! ¿alguien puede pasarme uno\nrápido? ¡Tengo una reunión importante pronto!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1543,7 +1543,7 @@
         },
         "2": {
           "success": {
-            "1": "The patron saint of public restrooms himself\nwas able to spare me a square! Thank you,\noh benevolent lord of the lavatory!",
+            "1": "¡El mismísimo santo patrón de los baños públicos\npudo regalarme un confort! ¡Gracias,\noh benévolo señor del lavabo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1552,7 +1552,7 @@
         },
         "3": {
           "failure": {
-            "1": "Well, please keep my underwear in your\nprayers. The dark price was too steep, and\nit left this world in about as cruel a way as\nany pair of undies could go... I'm so sorry.",
+            "1": "Bueno, por favor mantén mi ropa interior en tus\noraciones. El precio oscuro fue demasiado elevado, y\ndejó este mundo de la manera\nmás cruel que cualquier ropa interior... Lo siento mucho.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1561,7 +1561,7 @@
         },
         "4": {
           "accept": {
-            "1": "......Fine.",
+            "1": "......Esta bien.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -1621,7 +1621,7 @@
         },
         "1": {
           "start": {
-            "1": "There's been an alarming increase in\narsons here in Onomichi lately, and I\njust saw a suspicious guy near the port.\nHe was clearly trying to keep a low\nprofile, so I didn't want to approach!",
+            "1": "Ha habido un aumento alarmante aumento de\npirómanos aquí en Onomichi últimamente, y\nacabo de ver a un tipo sospechoso cerca del puerto.\nEvidentemente, estaba tratando de mantener\nun perfil bajo, ¡así que no quería acercarme!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1630,7 +1630,7 @@
         },
         "2": {
           "success": {
-            "1": "That person really was an arsonist. Too\nbad they got away. Did the guy who\nreplied chase them away? If so, great work!",
+            "1": "Esa persona era realmente un pirómano. Es\nuna pena que escaparan. ¿El tipo que\nrespondió los ahuyentó? Si es así, ¡hizo un buen trabajo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1639,7 +1639,7 @@
         },
         "3": {
           "failure": {
-            "1": "A small fire broke out. I saw a firetruck\nheading in that direction. I knew I should've\ncalled the police sooner.",
+            "1": "Se produjo un pequeño incendio. Vi un camión de bomberos\nque se dirigía en esa dirección. Sabía que tendcria que\nhaber llamado a la policía antes.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1648,7 +1648,7 @@
         },
         "4": {
           "accept": {
-            "1": "Sounds dangerous. I'll check it out.",
+            "1": "Suena peligroso. Lo comprobaré.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -1708,7 +1708,7 @@
         },
         "1": {
           "start": {
-            "1": "I was minding my own business at the\nOyster Shack on Shishido Street, when my\neye caught some shady business. I'm not\nsure what I saw, but I just want to be sure...\nCan anyone check it out? I'm too scared.",
+            "1": "Estaba ocupándome de mis propios asuntos en\nOyster Shack en la calle Shishido, cuando\nmi ojo captó algunos asuntos turbios. No estoy\nseguro de lo que vi, pero solo quiero estar seguro...\n¿Alguien puede comprobarlo? Estoy muy asustado.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1717,7 +1717,7 @@
         },
         "2": {
           "success": {
-            "1": "So it WAS shady! And you stopped a purse-\nsnatcher! You've done the world a favor!",
+            "1": "¡Así que era sospechoso! ¡Y detuviste a un ladrón\nde bolsos! ¡Le has hecho un favor al mundo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1726,7 +1726,7 @@
         },
         "3": {
           "failure": {
-            "1": "Maybe I was just imagining things... But this\nis gonna keep me up at night, I just know it.",
+            "1": "Tal vez solo estaba imaginando cosas... Pero esto\nme mantendrá despierto por la noche, lo sé.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1735,7 +1735,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll get to the bottom of it.",
+            "1": "Llegaré al fondo del asunto.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -1878,7 +1878,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw a little boy squatting in the middle\nof the shopping center. Maybe he wasn't\nfeeling well? I hope he's all right... I didn't\ncheck, but now I'm kicking myself! Can\nsomeone look in on him?",
+            "1": "Vi a un niño pequeño en cuclillas en medio\ndel centro comercial. ¿Tal vez no se sentía bien? Espero que esté bien... No\nme fijé, ¡pero ahora me estoy arrepintiendo!\n¿Puede alguien echarle un vistazo?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1887,7 +1887,7 @@
         },
         "2": {
           "success": {
-            "1": "Apparently that little boy was just really\nhungry. He said a nice tourist gave him\nsome food. I'm glad he wasn't ill, though!",
+            "1": "Aparentemente, ese niño pequeño tenía realmente\nhambre. Dijo que un buen turista le dio algo de comida.\n¡Aunque me alegro de que no estuviera\nenfermo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1896,7 +1896,7 @@
         },
         "3": {
           "failure": {
-            "1": "Apparently that little boy was just really\nhungry. He fainted and got hauled away\nin an ambulance.",
+            "1": "Aparentemente ese niño estaba realmente hambriento.\nSe desmayó y se lo llevaron en ambulancia.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -1905,7 +1905,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll see what the problem is.",
+            "1": "Veré cuál es el problema.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -2636,7 +2636,7 @@
         },
         "1": {
           "start": {
-            "1": "There's this drunk in Public Park Three, and\nhe's being a nuisance. He's making me and\nsome other people pretty uncomfortable...\nI wish someone would put a stop to him...",
+            "1": "Hay un borracho en el Parque Público Tres, y\nestá molestando. Nos pone a mí y a otras personas bastante incómodas...\nDesearía que alguien lo detuviera...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2645,7 +2645,7 @@
         },
         "2": {
           "success": {
-            "1": "Not how I would have solved the problem,\nbut I guess giving a drunk more alcohol\nworks, as long as it makes him stop\nbothering people!",
+            "1": "No sé cómo hubiera resuelto el problema,\npero supongo que darle más alcohol\nfunciona con un borracho, ¡siempre y cuando deje de molestar a la gente!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2654,7 +2654,7 @@
         },
         "3": {
           "failure": {
-            "1": "The drunk guy never did budge. He reeked,\nand he kept muttering stuff to people...\nSometimes Kamurocho feels like a real\ndump.",
+            "1": "El tipo borracho nunca se movió. Apestaba,\ny seguía murmurando cosas a la gente...\nA veces, Kamurocho se siente como un verdadero\nbasurero.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2663,7 +2663,7 @@
         },
         "4": {
           "accept": {
-            "1": "I know how to handle this.",
+            "1": "Sé cómo manejar esto.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -2910,7 +2910,7 @@
         },
         "1": {
           "start": {
-            "1": "There was this woman looking pretty\nfrantic at the shrine. Apparently she and her\nchild got separated. I don't know the area\ntoo well... Can anyone swing by?",
+            "1": "Había una mujer que parecía bastante\nfrenética en el santuario. Aparentemente,\nella y su hijo se separaron. No conozco\nmuy bien la zona... ¿Alguien\npuede pasarse?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2919,7 +2919,7 @@
         },
         "2": {
           "success": {
-            "1": "Thank goodness, the child was found.\nConsidering how dangerous it's been\ngetting these days, I'm glad this all\nworked out okay.",
+            "1": "Gracias a Dios, encontraron al niño.\nTeniendo en cuenta lo peligroso que se ha\nvuelto estos días, me alegro de que todo haya\nsalido bien.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2928,7 +2928,7 @@
         },
         "3": {
           "failure": {
-            "1": "I guess the police eventually found that kid,\nand the poor little guy was so exhausted\nhe could barely even cry anymore. I'm\ntearing up here.",
+            "1": "Supongo que la policía finalmente encontró a ese niño,\ny el pobrecito estaba tan exhausto\nque ya casi no podía llorar.\nEstoy llorando aquí.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -2937,7 +2937,7 @@
         },
         "4": {
           "accept": {
-            "1": "He couldn't have gone far. I'll have a look.",
+            "1": "No pudo haber ido muy lejos. Echaré un vistazo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -2997,7 +2997,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw someone dangling from the ceiling\nof the Central Shopping District. It'll\r\nonly be a matter of time until the person\r\nfalls. Someone help them!",
+            "1": "Vi a alguien colgado del techo\ndel distrito comercial central. Será\r\nsolo cuestión de tiempo hasta que la persona\r\ncaiga. ¡Alguien que los ayude!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3006,7 +3006,7 @@
         },
         "2": {
           "success": {
-            "1": "I heard the person was safely rescued.\nThey were pretty high up, so if they fell,\nit probably would've been bad. I'm\nrelieved, so relieved.",
+            "1": "Escuché que la persona fue rescatada de forma segura.\nEstaba bastante alto, así que si se hubiese caido,\nprobablemente habria sido un desastre. Estoy\naliviada, muy aliviada.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3015,7 +3015,7 @@
         },
         "3": {
           "failure": {
-            "1": "The person couldn't hang on anymore and\nfell. Apparently they didn't end up with\nsevere injuries, but I bet it hurt.",
+            "1": "La persona no aguantó más y\ncayó. Aparentemente no terminaron con\nlesiones graves, pero apuesto a que dolió.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3024,7 +3024,7 @@
         },
         "4": {
           "accept": {
-            "1": "Got it, I'll go help.\nWait for me.",
+            "1": "Entendido, iré a ayudar.\nEspérenme.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3084,7 +3084,7 @@
         },
         "1": {
           "start": {
-            "1": "There's someone hanging on for dear life\nfrom the rooftop of the batting center!\nI don't want to imagine what'll happen\nif they fall! Someone help!",
+            "1": "¡Hay alguien colgando por su vida\ndesde la azotea del centro de bateo!\n¡No quiero imaginar lo que pasará\nsi se cae! Alguien que ayude!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3093,7 +3093,7 @@
         },
         "2": {
           "success": {
-            "1": "I heard some buff guy pulled the person up\nto safety. The world still has some good in it\nafter all!",
+            "1": "Oí que un tipo musculoso sacó a la\npersona a un lugar seguro. ¡Después\nde todo, el mundo todavía tiene\nalgo bueno!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3102,7 +3102,7 @@
         },
         "3": {
           "failure": {
-            "1": "The person fell to the ground. Luckily, they\nweren't severely injured, but I can't believe\nno one even tried to help...",
+            "1": "La persona cayó al suelo. Afortunadamente,\nno resultaron gravemente heridos,\npero no puedo creer que nadie haya\ntratado de ayudar...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3111,7 +3111,7 @@
         },
         "4": {
           "accept": {
-            "1": "Got it. I'm on my way.",
+            "1": "Entendido. Voy para allá.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3264,7 +3264,7 @@
         },
         "1": {
           "start": {
-            "1": "I've heard there's a bunch of guys shaking\npeople down for cash in Theater Alley...\nSeems like there's a new victim every\nday, too. I wish someone would take care\nof those punks...",
+            "1": "Escuché que hay un montón de tipos extorsionando\na la gente por dinero en El callejón del teatro...\nParece que también hay una nueva víctima todos\nlos días. Desearía que alguien se hiciera cargo\nde esos gamberros...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3273,7 +3273,7 @@
         },
         "2": {
           "success": {
-            "1": "Apparently someone gave those\nshakedown guys a proper beat down.\nWas it the guy who replied to my post?\nIf so, thanks, man. I'm glad Kamurocho\nstill has people like you around.",
+            "1": "Aparentemente, alguien le dio una buena paliza a esos\nchicos extorsionadores.\n¿Fue el tipo que respondió a mi publicación?\nSi es así, gracias, hombre. Me alegro de que Kamurocho\ntodavía tenga gente como tú cerca.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3282,7 +3282,7 @@
         },
         "3": {
           "failure": {
-            "1": "They found some guy beaten half to death\nnear Theater Square. Word is they might\nnot make it... There's no justice in this town\nanymore...",
+            "1": "Encontraron a un tipo medio golpeado hasta la muerte\ncerca de Theatre Square. Se dice que es posible\nque no lo logren salvar... Ya no hay\njusticia en esta ciudad...\n",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3291,7 +3291,7 @@
         },
         "4": {
           "accept": {
-            "1": "Got it. I don't tolerate shakedowns.",
+            "1": "Entendido. No tolero los chantajes.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3351,7 +3351,7 @@
         },
         "1": {
           "start": {
-            "1": "I heard those shakedown guys showed\nup northwest of Theater Square.\nIf you're still out there... can you do\nsomething about them again?",
+            "1": "Escuché que esos tipos de extorsión aparecieron\nal noroeste de La plaza del teatro.\nSi todavía estás ahí afuera... ¿puedes\nhacer algo con ellos otra vez?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3360,7 +3360,7 @@
         },
         "2": {
           "success": {
-            "1": "Man, whoever you are, you're stronger\nthan anyone I know! That should teach\nthose punks a lesson. I just hope they\nknow better than to come back...",
+            "1": "Hombre, quienquiera que seas, ¡eres más fuerte\nque cualquiera que yo conozca! Eso debería enseñarles una lección\na esos gamberros. Solo espero que\nsepan que no deberian volver...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3369,7 +3369,7 @@
         },
         "3": {
           "failure": {
-            "1": "Some people ended up getting hurt...\nI heard they were just left to bleed out\non the street, too... Shameful.",
+            "1": "Algunas personas terminaron lastimadas...\nEscuché que también las dejaron desangrarse\nen la calle... Vergonzoso.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3378,7 +3378,7 @@
         },
         "4": {
           "accept": {
-            "1": "They'll be lucky if they can still walk.",
+            "1": "Tendrán suerte si aún pueden caminar.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3438,7 +3438,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw someone get pulled into a manhole\nnear the Hotel District! They're supposedly\ntaking victims underground so no one can\nsee them shake people down. Please,\nsomeone save them!",
+            "1": "¡Vi a alguien caer en una alcantarilla\ncerca del distrito hotelero! Supuestamente, están\nllevando a las víctimas a la clandestinidad para que nadie\npueda verlos sacudir a la gente. ¡Por favor,\nalguien los salve!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3447,7 +3447,7 @@
         },
         "2": {
           "success": {
-            "1": "You're so amazing. I think it finally got\nthrough to those guys. I heard from a friend\nthat they don't think it's worth the pain\nanymore. I bet that's the end of that\nshakedown problem for our city.",
+            "1": "Eres tan increíble. Creo que finalmente llegó\na esos tipos. Escuché de un amigo\nque cree que ya no vale la pena el dolor.\nApuesto a que ese es el final de ese\nproblema de extorsión para nuestra ciudad.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3456,7 +3456,7 @@
         },
         "3": {
           "failure": {
-            "1": "Just when I thought they were getting too\nscared, they're back to their old tricks and\nbragging about making easy money on the\nstreets. I wish somebody'd stand up to\nthem.",
+            "1": "Justo cuando pensaba que se estaban\nasustando demasiado, vuelven a sus viejos trucos y\npresumen de ganar dinero fácil en las\ncalles. Desearía que alguien\nse enfrentara a ellos.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3465,7 +3465,7 @@
         },
         "4": {
           "accept": {
-            "1": "Time to flush the rats out of the sewers.",
+            "1": "Es hora de echar a las ratas de las alcantarillas.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3525,7 +3525,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw a rough-looking crowd harassing a\nmiddle-aged guy near the Millennium\nTower. I bet these are those dad hunters\nI've heard so much about.",
+            "1": "Vi a una multitud de aspecto rudo acosando a un\nhombre de mediana edad cerca de la\nTorre del Milenio. Apuesto a que estos son esos cazadores de papás\nde los que tanto he oído hablar.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3534,7 +3534,7 @@
         },
         "2": {
           "success": {
-            "1": "I saw this dude in a gray suit beating the\nliving shit out of those thugs. Was it the guy\nwho replied? If so, thanks. It was great\nseeing those guys get taken down a peg!",
+            "1": "Vi a este tipo con un traje gris golpeando\na esos matones. ¿Fue el tipo\nque respondió? Si es así, gracias. ¡Fue fantástico\nver cómo derribaban a esos tipos!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3543,7 +3543,7 @@
         },
         "3": {
           "failure": {
-            "1": "I just saw those thugs walk out of a\nstore with a whole bunch of expensive\r\nelectronics. Guess they got the money\nfrom that dude after all...",
+            "1": "Acabo de ver a esos matones salir de una\ntienda con un montón de costosos\r\nelectrónicos. Supongo que obtuvieron el dinero\nde ese tipo después de todo...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3552,7 +3552,7 @@
         },
         "4": {
           "accept": {
-            "1": "They won't get away with it.",
+            "1": "No van a salirse con la suya.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3612,7 +3612,7 @@
         },
         "1": {
           "start": {
-            "1": "I heard another middle-aged man was\ngetting harassed in Pink Alley. Why are\npeople still doing this? If you're still out\nthere, Gray-suited Champion of Justice,\nwe need you!",
+            "1": "Escuché que otro hombre de mediana edad estaba siendo acosado en Pink Alley. ¿Por qué\nla gente sigue haciendo esto? Si todavía estás\npor ahí, Campeón de la Justicia de traje gris,\n¡te necesitamos!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3621,7 +3621,7 @@
         },
         "2": {
           "success": {
-            "1": "The Champion of Justice LIVES!\nThose guys were beaten to bloody pulps!\nServes 'em right, too! LMAO!",
+            "1": "¡El Campeón de la Justicia VIVE!\n¡Esos tipos fueron golpeados hasta\nser convertidos en pulpas ensangrentadas!\n¡Se lo tienen mas que merecido! ¡XDD!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3630,7 +3630,7 @@
         },
         "3": {
           "failure": {
-            "1": "Just saw a guy walk out of Pink Alley looking\ntattered and broken. I guess the Champion\nof Justice was too busy.",
+            "1": "Acabo de ver a un tipo salir de Pink Alley con aspecto\nde estar destrozado. Supongo que el Campeón\nde la Justicia estaba demasiado ocupado.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3639,7 +3639,7 @@
         },
         "4": {
           "accept": {
-            "1": "On it. And no nicknames, please.",
+            "1": "Estoy en ello. Y sin apodos, por favor.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3699,7 +3699,7 @@
         },
         "1": {
           "start": {
-            "1": "Those dad-hunter guys are back again on\nEast Taihei Boulevard. It's in your hands,\nChampion of Justice!",
+            "1": "Esos cazadores de papás están de vuelta en\nEast Taihei Boulevard. ¡Está en tus manos,\nCampeón de la Justicia!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3708,7 +3708,7 @@
         },
         "2": {
           "success": {
-            "1": "I knew we could depend on you. They\nmust've learned their lesson by now. No\none's going to bother middle-aged men in\nthis city again after what happened to those\nguys.",
+            "1": "Sabía que podíamos contar contigo. Ya deben\nhaber aprendido la lección. Nadie\nNadie va a volver a molestar a hombres de mediana edad en\nesta ciudad después de lo que les pasó a esos\ntipos.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3717,7 +3717,7 @@
         },
         "3": {
           "failure": {
-            "1": "Man, I guess I was naive to expect a\nchampion of justice to fix everything.\nThat middle-aged man was crying into\nhis hands on the curb.",
+            "1": "Hombre, creo que fui ingenuo al esperar que un\ncampeón de la justicia arreglara todo.\nEse hombre de mediana edad estaba\nllorando con sus manos en la cera.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3726,7 +3726,7 @@
         },
         "4": {
           "accept": {
-            "1": "...The \"champion\" is on it. Happy?",
+            "1": "...Feliz? El \"campeón\" está en ello",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3786,7 +3786,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw these gross guys harassing a girl\nin front of the Millennium Tower.\nI've heard rumors about the terrible\nthings these assholes do to those poor\nwomen...",
+            "1": "Vi a estos tipos asquerosos acosando a una chica\nfrente a la Torre del Milenio.\nHe oído rumores sobre las terribles\ncosas que estos imbéciles les hacen a esas pobres\nmujeres...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3795,7 +3795,7 @@
         },
         "2": {
           "success": {
-            "1": "Those perverts got the beat down they\ndeserved. I'd say it was divine punishment\nthat the guy who wrecked them was built\nlike a bulldozer.",
+            "1": "Esos pervertidos recibieron la paliza que se\nmerecían. Yo diría que fue castigo divino \nque el tipo que los destrozó\nestuviera hecho como una excavadora.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3804,7 +3804,7 @@
         },
         "3": {
           "failure": {
-            "1": "Turns out no one wanted to help that poor\ngirl... I sure hope she's okay...",
+            "1": "Resulta que nadie quería ayudar a esa pobre\nchica... Espero que esté bien...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3813,7 +3813,7 @@
         },
         "4": {
           "accept": {
-            "1": "Not on my watch.",
+            "1": "No durante mi guardia.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3873,7 +3873,7 @@
         },
         "1": {
           "start": {
-            "1": "Those perverts don't know when to quit.\nThey're in front of Theater Square now!\nSomeone needs to put these scumbags in\ntheir place...",
+            "1": "Esos pervertidos no saben cuándo parar.\n¡Están frente a La plaza del teatro ahora!\nAlguien tiene que poner a estos cabrones en\nsu lugar...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3882,7 +3882,7 @@
         },
         "2": {
           "success": {
-            "1": "ROFLMAO! I saw those guys getting the\nbeating of their lives. They were really\naggressive to all those girls, and that\nreflects poorly on EVERYONE. So, I'm\nreally thankful to whoever beat them up!\nThat'll do, pig!",
+            "1": "¡kjajs! Vi a esos tipos recibiendo\nla paliza de sus vidas. Fueron realmente\nagresivos con todas esas chicas, y eso\nnos deja mal a TODOS. Así que, ¡estoy\nmuy agradecido con quienquiera que los haya golpeado!\n¡Eso es suficiente, cerdo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3891,7 +3891,7 @@
         },
         "3": {
           "failure": {
-            "1": "No one came to help... People like them\ngive Kamurocho the reputation it deserves.",
+            "1": "Nadie vino a ayudar... Gente como ellos\nda a Kamurocho la reputación que se merece.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3900,7 +3900,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll shut them down as many times\nas it takes.",
+            "1": "Les sacare la chucha tantas veces como sea necesario.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -3960,7 +3960,7 @@
         },
         "1": {
           "start": {
-            "1": "Those guys committing sexual assault\nseem to have moved their operation into\nthe Millennium Tower. I can't believe they\nthink they can get away with messing with\ngirls just because they're inside. Someone\nshould wreck them for good!",
+            "1": "Esos tipos que cometen agresiones sexuales\nparecen haber trasladado su operación a\nla Torre del Milenio. No puedo creer que\ncreen que pueden salirse con la suya jugando con\nchicas solo porque están adentro. ¡Alguien\ndebería erradicarlos para siempre!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3969,7 +3969,7 @@
         },
         "2": {
           "success": {
-            "1": "Those guys just got REKT, LOL. Serves 'em\nright, if you ask me! I think they're done\nmessing with girls in Kamurocho. Hopefully\nthat makes this city at least a little safer for\nwomen to walk around in...",
+            "1": "A esos tipos les acaban de sacar la chucha, LOL. \n¡bien, si me preguntas! Creo que ya terminaron de meterse con las chicas en Kamurocho. Con suerte\neso hace que esta ciudad sea al menos un poco más segura\npara que las mujeres caminen...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3978,7 +3978,7 @@
         },
         "3": {
           "failure": {
-            "1": "Of course people just turn a blind eye to\nthis kind of thing. Have been for years. I'm\nangry that I'm not strong enough to stop it\nmyself, but I'm even angrier that the people\nwho are strong enough chose to do nothing!",
+            "1": "Por supuesto, la gente simplemente hace la vista gorda a\neste tipo de cosas. Ha sido asi durante años. Estoy\nenojado porque no soy lo suficientemente fuerte como para\ndetenerlo yo mismo, ¡pero estoy aún más enojado porque las personas\nque son lo suficientemente fuertes optaron por\nno hacer nada!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -3987,7 +3987,7 @@
         },
         "4": {
           "accept": {
-            "1": "This is the last straw.",
+            "1": "Esta es la gota\nque derramo el vaso.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4047,7 +4047,7 @@
         },
         "1": {
           "start": {
-            "1": "I saw someone being attacked by a mob\nin the Hotel District. If nobody comes\nsoon, they could be killed...",
+            "1": "Vi a alguien siendo atacado por una turba\nen el Distrito Hotelero. Si nadie viene\npronto, podrían ser asesinado...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4056,7 +4056,7 @@
         },
         "2": {
           "success": {
-            "1": "I'm sure you just saved a life, buddy. Not\nall heroes wear capes, apparently. Some\nwear really outdated suits.",
+            "1": "Estoy seguro de que acabas de salvar una\nvida, amigo. Aparentemente, no\ntodos los héroes usan capa. Algunos\nusan trajes realmente anticuados.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4065,7 +4065,7 @@
         },
         "3": {
           "failure": {
-            "1": "An ambulance just showed up on the scene.\nI just hope they pull through...",
+            "1": "Una ambulancia acaba de aparecer en la escena.\nSolo espero que se recuperen...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4074,7 +4074,7 @@
         },
         "4": {
           "accept": {
-            "1": "I won't let that happen.",
+            "1": "No dejaré que eso ocurra.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4134,7 +4134,7 @@
         },
         "1": {
           "start": {
-            "1": "There's another mob getting aggressive\non some defenseless person in Theater\nSquare. I don't know why they keep doing\nthis, but they need to be stopped before\nsomeone gets killed.",
+            "1": "Hay otra turba agrediendo\na una persona indefensa en la Plaza del\nTeatro. No sé por qué siguen haciendo\nesto, pero hay que detenerlos antes\nde que maten a alguien.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4143,7 +4143,7 @@
         },
         "2": {
           "success": {
-            "1": "Someone swooped in to save the victim\nfrom that mob. I sure am glad there are\ngood people on this network and in the\nworld.",
+            "1": "Alguien se abalanzó para salvar a la víctima\nde esa turba. Me alegro de que haya\nbuenas personas en esta red y en el\nmundo.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4152,7 +4152,7 @@
         },
         "3": {
           "failure": {
-            "1": "I heard the victim is in critical condition.\nThey probably won't even be able to live\na normal life after this... I think about how\nthis could have been avoided if someone\nhad helped them, and it makes me so sad...",
+            "1": "Escuché que la víctima está en estado crítico.\nProbablemente ni siquiera podrá vivir\nuna vida normal después de esto... Pienso en cómo\nesto podría haberse evitado si alguien\nlo hubiera ayudado, eso me hace sentir muy triste...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4161,7 +4161,7 @@
         },
         "4": {
           "accept": {
-            "1": "I won't let anyone die.",
+            "1": "No voy a dejar que nadie muera.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4221,7 +4221,7 @@
         },
         "1": {
           "start": {
-            "1": "A mob is forming in Nakamichi Alley.\nI heard it's getting pretty bad. Can't anyone\nhelp!?",
+            "1": "Se está formando una turba en el Callejón Nakamichi.\nHe oído que se está poniendo\nbastante mal. ¿Acaso nadie\npuede ayudar?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4230,7 +4230,7 @@
         },
         "2": {
           "success": {
-            "1": "I saw that the victim made it out unscathed.\nThey told a reporter that a random stranger\nrisked his life in an all-out street fight to put\nthat mob down. Just goes to show, there are\nstill some good people in Kamurocho.\nHopefully this means the mobs will die\ndown now. And if not... I bet this guy will\nshow up to save the day again! Heh.",
+            "1": "Vi que la víctima salió ilesa.\nLe dijeron a un reportero que un extraño al azar\narriesgó su vida en una pelea callejera para\nacabar a esa turba. Esto sirve para demostrar que\ntodavía hay buenas personas en Kamurocho.\nEsperemos que esto signifique que las turbas se extinguirán\nahora. Y si no... ¡Apuesto a que este\ntipo aparecerá para salvar el día\notra vez! je.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4239,7 +4239,7 @@
         },
         "3": {
           "failure": {
-            "1": "The victim's supposedly in pretty bad shape.\nThe reporters couldn't even say how badly\nthey were hurt... I wonder if someone could\nhave stopped this...",
+            "1": "Supuestamente, la víctima está en muy mal estado.\nLos reporteros ni siquiera pudieron decir cuán gravemente\nfue herida... Me pregunto si alguien podría\nhaber detenido esto...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4248,7 +4248,7 @@
         },
         "4": {
           "accept": {
-            "1": "On my way.",
+            "1": "Voy para allá.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4308,7 +4308,7 @@
         },
         "1": {
           "start": {
-            "1": "There's a group of thugs that hangs out in\nNakamichi Alley to harass passing couples.\nApparently they take some kind of sick\npleasure in making people in love suffer.\nHow screwed up is that?",
+            "1": "Hay un grupo de matones que se juntan en el\nCallejón Nakamichipara acosar a las parejas que pasan.\nAparentemente, sienten algún tipo de placer\nenfermizo al hacer sufrir a las personas enamoradas.\n¿Qué tan jodido es eso?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4317,7 +4317,7 @@
         },
         "2": {
           "success": {
-            "1": "I watched you fight those guys. You beat\nthem to a bloody pulp without breaking\na sweat! That was awesome!",
+            "1": "Te vi luchar contra esos tipos. ¡Los golpeaste\nhasta hacerlos papilla sin sudar!\n¡Eso fue impresionante!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4326,7 +4326,7 @@
         },
         "3": {
           "failure": {
-            "1": "No one came to help them. I wonder if\nthey're okay? Makes me sick to my\nstomach...",
+            "1": "Nadie vino a ayudarlos. Me pregunto si\nestán bien. Pensar en eso me revuelve el\nestómago...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4335,7 +4335,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'm on it. Give me a sec.",
+            "1": "Estoy en ello. Denme un segundo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4395,7 +4395,7 @@
         },
         "1": {
           "start": {
-            "1": "I heard those jerks are still messing with\ncouples. I saw them leering at people\naround the Millennium Tower. I kinda\nwish they'd just drop dead.",
+            "1": "Escuché que esos idiotas siguen molestando a las\nparejas. Los vi mirando lascivamente a la gente\nen la Torre del Milenio. Desearía\nque cayeran muertos.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4404,7 +4404,7 @@
         },
         "2": {
           "success": {
-            "1": "HAHAHA! Those guys got absolutely LIT UP.\nThat'll teach 'em! Hahaha, I'm dying here!\nLOLOL",
+            "1": "¡JAJAJA! Esos muchachos se ILUMINARON por completo.\n¡Eso les enseñará! Jajaja, me muero de risa!\nLOLOL",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4413,7 +4413,7 @@
         },
         "3": {
           "failure": {
-            "1": "Looks like we ended up with two more\nvictims. This is disgusting.",
+            "1": "Parece que terminamos con dos\nvíctimas más. Esto es desagradable.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4422,7 +4422,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll see what I can do.",
+            "1": "Veré lo que puedo hacer.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4482,7 +4482,7 @@
         },
         "1": {
           "start": {
-            "1": "Those couple hunters have resurfaced.\nThis time, they're dragging couples into\nan empty room in the Senryo Building.\nSomeone has to help them!",
+            "1": "Esos cazadores de parejas han resurgido.\nEsta vez, están arrastrando parejas a\nuna habitación vacía en el edificio Senryo.\n¡Alguien tiene que ayudarlos!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4491,7 +4491,7 @@
         },
         "2": {
           "success": {
-            "1": "Those guys got so busted up, they could\nbarely stumble out of the building. I bet\nthose punks couldn't harass another couple\nif they tried! Whoever did all this... Love\nhas won, thanks to you!",
+            "1": "Esos tipos estaban tan destrozados que\napenas podían salir a trompicones del edificio. ¡Apuesto\nque esos gamberros no podrían acosar a otra pareja\nsi lo intentaran! Quien haya hecho todo esto... ¡El amor\nha ganado, gracias a ti!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4500,7 +4500,7 @@
         },
         "3": {
           "failure": {
-            "1": "Looks like another couple is on the way to\nthe ER. When will this nightmare end?",
+            "1": "Parece que hay otra pareja de camino a\nla sala de emergencias. ¿Cuándo terminará esta pesadilla?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4509,7 +4509,7 @@
         },
         "4": {
           "accept": {
-            "1": "Sit tight, I'm on it.",
+            "1": "No se muevan, estoy en ello.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4732,7 +4732,7 @@
         },
         "1": {
           "start": {
-            "1": "I heard there's a pickpocket who's been\nhanging around Hana-no-kubo. That's\nwhere all the tourists hang out, so this\nis going to escalate quickly...",
+            "1": "Escuché que hay un carterista que ha estado\nmerodeando por Hana-no-kubo. Ahí es\ndonde se reúnen todos los turistas, así que esto\nva a escalar rápidamente...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4741,7 +4741,7 @@
         },
         "2": {
           "success": {
-            "1": "Looks like the pickpocket got his hand in\nthe wrong pocket. I heard he got the\ncrap kicked out of him.",
+            "1": "Parece que el carterista metió la mano\nen el bolsillo equivocado.\nEscuché que le sacaron la chucha.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4750,7 +4750,7 @@
         },
         "3": {
           "failure": {
-            "1": "It seems that pickpocket is really cleaning\nup out there... Onomichi's reputation is as\ngood as ruined.",
+            "1": "Parece que los carteristas realmente están\nrobando a diestra y siniestra ahí fuera...\nLa reputación de Onomichi está\ncasi arruinada.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4759,7 +4759,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll put a stop to it.",
+            "1": "Pondré fin a esto.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4819,7 +4819,7 @@
         },
         "1": {
           "start": {
-            "1": "I've heard a creepy rumor that some grave\nrobbers have been sighted in the cemetery.\nGeez, talk about feudal-era crimes, right?\nI'd check, but... hell no, man. Hell no.",
+            "1": "Escuché un rumor espeluznante de que algunos\nladrones de tumbas han sido vistos en el cementerio.\nVaya, hablando de crímenes de la era feudal, ¿verdad?\nLo verificaría, pero... demonios, no,\nhombre. por favor no.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4828,7 +4828,7 @@
         },
         "2": {
           "success": {
-            "1": "I guess some dude rolled up into the\ncemetery and took out the whole gang of\ngrave robbers. You, sir, have bigger balls\nthan I do.",
+            "1": "Supongo que algún tipo llegó al\ncementerio y eliminó a toda la banda de\nladrones de tumbas. Usted,\nseñor, tiene pelotas más grandes que yo.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4837,7 +4837,7 @@
         },
         "3": {
           "failure": {
-            "1": "Sounds like a whole bunch of graves got dug\nup and a ton of valuables went missing. It's\ndisgusting, in so many ways.",
+            "1": "Parece que un montón de tumbas fueron\nexcavadas y una tonelada de objetos de\nvalor desaparecieron.\nEs repugnante, de muchas maneras.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4846,7 +4846,7 @@
         },
         "4": {
           "accept": {
-            "1": "The dead don't deserve that. I'll check it out.",
+            "1": "Los muertos no se merecen esto. Lo comprobaré.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -4906,7 +4906,7 @@
         },
         "1": {
           "start": {
-            "1": "My chronic back pain has the worst timing!\nIt flared up during my ramen delivery! This\ncustomer will raise hell if his ramen is late\nor his noodles are soggy too! Let's just say...\nUdon wanna mess with him!\n\nI'm by Kyushu No. 1 Star if you can help!",
+            "1": "¡Mi dolor de espalda crónico esta en su peor momento!\n¡Estalló durante mi entrega de ramen! ¡Este\ncliente armará un escándalo si su ramen se retrasa\nsus fideos también están empapados! Solo digamos...\n¡no quiero meterme con él!\n\n¡Estoy en Kyushu No. 1 Star si puedes ayudarme!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4915,7 +4915,7 @@
         },
         "2": {
           "place": {
-            "1": "I got the order from Lullaby Mahjong!\nPlease, run like the round wind!",
+            "1": "¡Recibí la orden de Lullaby Mahjong!\n¡Por favor, corre como el viento redondo!",
             "2": 2619,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4924,7 +4924,7 @@
         },
         "3": {
           "success": {
-            "1": "This scary but also kind of sweet guy\nmade my delivery for me! My back was\nhurting soba'd...",
+            "1": "¡Este tipo aterrador pero también dulce\nme hizo la entrega! Me dolía mucho la espalda...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4933,7 +4933,7 @@
         },
         "4": {
           "failure": {
-            "1": "I couldn't get the delivery out... The phone\nat the restaurant won't stop ringing, either.\nSorry to be a wet noodle, but I think I'm\ngonna skip town...",
+            "1": "No pude sacar la entrega... El teléfono\ndel restaurante tampoco deja de sonar.\nLamento ser un fideo húmedo, pero creo\nque me voy a ir de la ciudad...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -4942,7 +4942,7 @@
         },
         "5": {
           "accept": {
-            "1": "Not sure why, but I'll help.",
+            "1": "No sé por qué, pero ayudaré.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5002,7 +5002,7 @@
         },
         "1": {
           "start": {
-            "1": "I can see smoke coming from a rooftop\nin Nakamichi Alley. Something's gotta be\non fire. If it doesn't get put out soon, it'll\ntear through the streets!",
+            "1": "Puedo ver humo saliendo de una azotea\nen el Callejón Nakamichi. Algo tiene que estar ardiendo. \n¡Si no se apaga pronto, \narrasará las calles!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5011,7 +5011,7 @@
         },
         "2": {
           "success": {
-            "1": "Looks like someone extinguished that fire.\nI'm glad we didn't have to go through\nanother big fire in the city! Thanks to the\none who made it over there in time!",
+            "1": "Parece que alguien extinguió ese fuego.\n¡Me alegro de que no tuviéramos que pasar\npor otro gran incendio en la ciudad! ¡Gracias a los que llegaron allí a tiempo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5020,7 +5020,7 @@
         },
         "3": {
           "failure": {
-            "1": "I think that fire must have burned out on\nits own. We sure got lucky this time...",
+            "1": "Creo que el fuego debe haberse extinguido por sí solo.\nSeguro que tuvimos suerte esta vez...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5029,7 +5029,7 @@
         },
         "4": {
           "accept": {
-            "1": "Got it, I'll go check.",
+            "1": "Entendido, iré a comprobarlo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5089,7 +5089,7 @@
         },
         "1": {
           "start": {
-            "1": "There's smoke coming from a building on\nSenryo Avenue! It's gotta be another fire.\nIs anyone close enough to put it out!?",
+            "1": "¡Sale humo de un edificio de\nAvenida Senryo! Tiene que ser otro incendio.\n¿Hay alguien lo suficientemente cerca para apagarlo?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5098,7 +5098,7 @@
         },
         "2": {
           "success": {
-            "1": "I heard you went in with a fire extinguisher\nand put out that fire single-handedly!\nYou're incredible!",
+            "1": "¡Escuché que entraste con un extintor de incendios\ny apagaste el fuego tú solo!\n¡Eres increíble!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5107,7 +5107,7 @@
         },
         "3": {
           "failure": {
-            "1": "The building burned down... Luckily, the fire\nwent out with it. Hard to believe nobody\ntried to put it out, but... What can you\nexpect from Kamurocho?",
+            "1": "El edificio se quemó... Afortunadamente, el fuego\nse apagó con él. Difícil de creer que nadie\ntrató de apagarlo, pero... ¿Qué puedes\nesperar de Kamurocho?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5116,7 +5116,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll see what I can do.",
+            "1": "Veré lo que puedo hacer.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5176,7 +5176,7 @@
         },
         "1": {
           "start": {
-            "1": "I can see smoke billowing from the roof\nof the batting cages. It better not be\nanother big fire...",
+            "1": "Puedo ver humo saliendo del techo\nde las jaulas de bateo. Más vale que no sea\notro gran incendio...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5185,7 +5185,7 @@
         },
         "2": {
           "success": {
-            "1": "The smoke stopped. Did the guy who\nsaid he'd put it out really get to it in time?\nIf so, you're the man, anon!",
+            "1": "El humo se detuvo. ¿El tipo que\ndijo que lo apagaría realmente llegó a tiempo?\nSi es así, ¡usted es increible, hombre!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5194,7 +5194,7 @@
         },
         "3": {
           "failure": {
-            "1": "The smoke's gone, but... I think all it\ndid was burn itself out. There's probably\nsome pretty bad damage...",
+            "1": "El humo se ha ido, pero... Creo que todo\nlo que hizo fue quemarse. Probablemente\nhay algunos daños bastante graves...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5203,7 +5203,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll make sure it doesn't spread.",
+            "1": "Me aseguraré de que no se extienda.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5263,7 +5263,7 @@
         },
         "1": {
           "start": {
-            "1": "FIRE: Jingai Main Street! A CAR IS ON FIRE!!!\nThe owner is screaming about how\nsomething important is trapped in the car!\nBut the car will never last until the fire truck\ncan get here!",
+            "1": "FUEGO: ¡Calle principal de Jingai! ¡¡¡UN AUTO ESTÁ EN LLAMAS!!!\n¡El propietario está gritando que\nalgo importante está atrapado en el auto!\n¡Pero el auto no aguantara hasta que el camión de bomberos\npueda llegar aquí!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5272,7 +5272,7 @@
         },
         "2": {
           "success": {
-            "1": "Thank goodness someone had a fire\nextinguisher! I'm sure that car's owner\nreally appreciates you, buddy. And so do\nwe!",
+            "1": "¡Gracias a Dios que alguien tenía un \nextintor! Estoy seguro de que el dueño de ese auto\nte aprecia de verdad, hermano. ¡Y nosotros \ntambién!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5281,7 +5281,7 @@
         },
         "3": {
           "failure": {
-            "1": "I guess sometimes fate takes what's\nimportant to you. But still, what a disaster.\nIsn't there any way this could have been\navoided?",
+            "1": "Supongo que a veces el destino te quita lo mas\nimportante. Pero aun así, qué desastre.\n¿No hay alguna manera de que esto se\npudiera haber evitado?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5290,7 +5290,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll go. Wait for me.",
+            "1": "Yo iré. Espérenme.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5350,7 +5350,7 @@
         },
         "1": {
           "start": {
-            "1": "Kiryu-san,\nIt's me, Torafuru. This is a DM, so only you\ncan see it. I traced that serial bomber's IP,\nand it seems like he's posting to Troublr\nfrom an internet café. Maybe you could\ncatch him if you dropped in at the right\ncafé!",
+            "1": "Kiryu-san,\nSoy yo, Torafuru. Este es un DM, así que solo tú puedes verlo. Rastreé la IP de ese atacante en serie,\ny parece que está publicando en Troublr\ndesde un cibercafé. ¡Tal vez podrías atraparlo si pasas por el café correcto!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5359,7 +5359,7 @@
         },
         "2": {
           "success": {
-            "1": "You did it, Kiryu-san. I knew you could.\nThat guy was pretty terrible, huh?",
+            "1": "Lo hiciste, Kiryu-san. Sabía que podías.\nEse tipo era bastante terrible, ¿eh?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5368,7 +5368,7 @@
         },
         "3": {
           "failure": {
-            "1": "It looks like he signed off, so that must\nmean he left the café. He got away this\ntime, but let's hope there's another chance!",
+            "1": "Parece que firmo su salida, por lo que debe\nsignificar que abandonó la cafetería. Se escapó esta\nvez, ¡pero esperemos que haya otra oportunidad!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5377,7 +5377,7 @@
         },
         "4": {
           "progress1": {
-            "1": "Kiryu-san, if the serial bomber's patterns\nare anything to go on, he'll be leaving the\ncafé in about five minutes. If you're going\nto get him, now would be the time!",
+            "1": "Kiryu-san, si los patrones del terrorista en serie\nson válidos, saldrá del\ncafé en unos cinco minutos. Si vas\na atraparlo, ¡ahora sería el momento!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5386,7 +5386,7 @@
         },
         "5": {
           "progress2": {
-            "1": "Kiryu-san, we're down to about two\nminutes before the serial bomber leaves\nthe café! Can you get to him in time!?",
+            "1": "Kiryu-san, ¡quedamos unos dos\nminutos antes de que el terrorista en serie abandone\nla cafetería! ¿Puedes llegar a él a tiempo?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5395,7 +5395,7 @@
         },
         "6": {
           "accept": {
-            "1": "Yeah, this guy needs to be stopped.",
+            "1": "Sí, hay que detener a este tipo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5455,7 +5455,7 @@
         },
         "1": {
           "start": {
-            "1": "The clock is ticking in Kamurocho...\nI've set up a bomb, and my challenge to you\nis this: Can you find it in the ten minutes\nbefore it blows?",
+            "1": "El tiempo corre en Kamurocho...\nHe puesto una bomba, y mi desafío para ti\nes este: ¿Puedes encontrarla en los diez minutos\nantes de que explote?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5464,7 +5464,7 @@
         },
         "2": {
           "success": {
-            "1": "Not bad. You deserve some credit, I\nsuppose... But this isn't over by a long shot.",
+            "1": "Nada mal. Te mereces algo de crédito,\nsupongo... Pero esto no ha terminado ni mucho menos.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5473,7 +5473,7 @@
         },
         "3": {
           "failure": {
-            "1": "You disappoint me. You masquerade as\njustice incarnate, but fall short of the mark\nwhen it really counts. Pathetic.",
+            "1": "Me decepcionas. Te disfrazas como si\nueras la encarnación de la justicia, pero fallas\ncuando realmente importa. Patético.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5482,7 +5482,7 @@
         },
         "4": {
           "hint1": {
-            "1": "Here's the bomb! HaHaHa!\nDo you know this city well enough to figure\nout where it is?",
+            "1": "¡Aquí está la bomba! ¡HaHaHa!\n¿Conoces esta ciudad lo suficientemente bien como para saber\ndónde está?",
             "2": 2616,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5491,7 +5491,7 @@
         },
         "5": {
           "hint2": {
-            "1": "Aww, are you struggling to find it in\na city you claim to know? Here's the hint I\nsnapped in case you turned out to be an idiot.",
+            "1": "Aww, ¿estás luchando por encontrarlo en\nuna ciudad que dices conocer? Esta es la pista que\nte di en caso de que resultes ser\nun idiota.",
             "2": 2617,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5500,7 +5500,7 @@
         },
         "6": {
           "hint3": {
-            "1": "Still lost? I knew you were stupid, but man,\nwhat a moron! Here's the final hint before\nthe KaBOOM!",
+            "1": "¿Aún sigues perdido? Sabía que eras estúpido,\npero hombre, ¡qué idiota!\n¡Aquí está la pista final antes\ndel KaBOOM!",
             "2": 2618,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5509,7 +5509,7 @@
         },
         "7": {
           "accept": {
-            "1": "Challenge accepted. You can't hurt this city.",
+            "1": "Desafio aceptado. No puedes hacerle daño a esta ciudad.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5569,7 +5569,7 @@
         },
         "1": {
           "start": {
-            "1": "I see a lot of smoke coming from a\nbuilding on Tenkaichi Street! Is this\nanother arson attempt!? What if it\nspreads!?",
+            "1": "¡Veo mucho humo saliendo de un\nedificio en la calle Tenkaichi! ¿¡Es este otro\nintento de incendio provocado!? ¿¡Qué pasa si se\npropaga!?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5578,7 +5578,7 @@
         },
         "2": {
           "success": {
-            "1": "I hear the fire got put out and they\neven caught they guy who did it!\nTroublr is going nuts saying the guy\nwho posted solved everything!\nWay to go!",
+            "1": "¡Escuché que apagaron el fuego y que\nni siquiera atraparon al tipo que lo hizo!\n¡El problema se está volviendo loco diciendo que el tipo\nque publicó lo resolvió todo!\n¡Muy bien!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5587,7 +5587,7 @@
         },
         "3": {
           "failure": {
-            "1": "I guess you couldn't get there in time.\nStill no idea who the arsonist is,\neither. I bet the fires won't stop here.",
+            "1": "Supongo que no pudiste llegar a tiempo.\nTodavía no tengo idea de quién es el pirómano,\tampoco. Apuesto a que los incendios no se detendrán aquí.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5596,7 +5596,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll put it out before that happens.",
+            "1": "Lo sacaré antes de que eso ocurra.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5655,7 +5655,7 @@
         },
         "1": {
           "torafuru_tm35_hint": {
-            "1": "Kiryu-san! I got some information from\na friend! Red, cut the red!",
+            "1": "¡Kiryu-san! ¡Obtuve información de\nun amigo! ¡Es el rojo, corta el rojo!",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
@@ -5714,7 +5714,7 @@
         },
         "1": {
           "start": {
-            "1": "There's smoke coming from an alley on\r\nCemetery Lane. Think it's the arsonist who's\r\nbeen starting all those fires? Someone\r\nshould check it out.",
+            "1": "Sale humo de un callejón en la\r\nCalle del Cementerio. ¿Crees que es el pirómano que\r\nha estado provocando todos esos incendios? Alguien\r\ndebería comprobarlo.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5723,7 +5723,7 @@
         },
         "2": {
           "success": {
-            "1": "Sounds like we really are dealing with an\r\narsonist. But I guess the guy who responded\r\nmust have put out the fire. I'm glad you\r\nstopped it before it did any real damage.",
+            "1": "Parece que realmente estamos tratando con un\r\npirómano. Pero supongo que el tipo que respondió\r\ndebe haber apagado el fuego. Me alegro de que\r\nlo detuvieras antes de que causara un daño real.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5732,7 +5732,7 @@
         },
         "3": {
           "failure": {
-            "1": "Looks like the fire burnt out on its own, but\r\nwe really got lucky this time. I guess nobody\r\nhad time to check it out.",
+            "1": "Parece que el fuego se apagó solo, pero\r\nesta vez tuvimos mucha suerte. Supongo que nadie\r\ntuvo tiempo de comprobarlo.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5741,7 +5741,7 @@
         },
         "4": {
           "accept": {
-            "1": "I've had it with fires. I'm on it.",
+            "1": "Estoy harto de los incendios. Estoy en ello.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5801,7 +5801,7 @@
         },
         "1": {
           "start": {
-            "1": "There's smoke coming from the Navy\nApartments. That stupid arsonist strikes\nagain! Can someone get down there!?",
+            "1": "Hay humo saliendo de los apartamentos de la Marina.\n¡Ese estúpido pirómano ha vuelto\na atacar! ¿Alguien puede ir para allá?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5810,7 +5810,7 @@
         },
         "2": {
           "success": {
-            "1": "Looks like it was another arson attempt, but\nsomeone got to it with a fire extinguisher\nbefore it got out of hand. Was it the guy\nwho replied?",
+            "1": "Parece que fue otro intento de incendio provocado, pero\nalguien llegó con un extintor\nantes de que se saliera de control. ¿Acaso fue el tipo\nque respondió?",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5819,7 +5819,7 @@
         },
         "3": {
           "failure": {
-            "1": "It must have been the same arsonist, but\nsince no one came, I guess we'll never know\nfor sure. At least the fire's out... Not like all\nyou cold-blooded reptiles care.",
+            "1": "Debe haber sido el mismo pirómano, pero como no\nvino nadie, supongo que nunca lo sabremos\ncon certeza. Al menos el fuego está apagado...\nNo como todo lo que les importa a ustedes,\nlos reptiles de sangre fría.",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5828,7 +5828,7 @@
         },
         "4": {
           "accept": {
-            "1": "That's close to home. I'll go.",
+            "1": "Eso está cerca de casa. Yo iré.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5888,7 +5888,7 @@
         },
         "1": {
           "start": {
-            "1": "I see smoke coming from a house in\nHana-no-kubo! I think it's coming from the\nbalcony, or somewhere above ground,\nanyway. The houses out there are all made\nof wood, so someone needs to get up there\nfast!",
+            "1": "¡Veo humo saliendo de una casa en\nHana-no-kubo! Creo que viene del\nbalcón, o de algún lugar sobre el suelo,\nde todos modos. Todas las casas están hechas\nde madera, ¡así que alguien tiene que llegar allí\nrápido!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5897,7 +5897,7 @@
         },
         "2": {
           "success": {
-            "1": "It really WAS arson. This is becoming a real\nproblem. Thank you, whoever put it out!",
+            "1": "Realmente fue un incendio provocado.\nEsto se está convirtiendo en un\nproblema real. ¡Gracias, a quien lo\nhaya apagado!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5906,7 +5906,7 @@
         },
         "3": {
           "failure": {
-            "1": "No one went to look. The fire didn't spread,\nbut I'll never forget the day you all turned\nyour back on this city...",
+            "1": "Nadie fue a mirar. El fuego no se\npropagó, pero nunca olvidaré el día\nen que le dieron la espalda a esta\nciudad...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5915,7 +5915,7 @@
         },
         "4": {
           "accept": {
-            "1": "Sounds dangerous. I'm on it.",
+            "1": "Suena peligroso. Estoy en ello.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
@@ -5975,7 +5975,7 @@
         },
         "1": {
           "start": {
-            "1": "Ever since that fire in Little Asia,\nthere's been an increase in arsons across\nKamurocho. I saw this shady guy on the\neast side of Taihei Boulevard and I can't\nhelp but think it's related. Pretty creepy!",
+            "1": "Desde ese incendio en Pequeña Asia,\nha habido un aumento en los incendios provocados\nen Kamurocho. Vi a este tipo sombrío en el\nlado este de Taihei Boulevard y no puedo\nevitar pensar que está relacionado.\n¡Bastante espeluznante!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5984,7 +5984,7 @@
         },
         "2": {
           "success": {
-            "1": "I really DID see an arsonist. Someone said\nhe got away, but maybe it was because the\nguy who replied chased him off? Good job!",
+            "1": "Realmente vi a un pirómano. Alguien dijo\nque se escapó, pero tal vez fue porque\nel tipo que respondió lo persiguió.\n¡Buen trabajo!",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -5993,7 +5993,7 @@
         },
         "3": {
           "failure": {
-            "1": "I can't believe another fire broke out in\nKamurocho. Good thing the fire trucks\nmade it before it got out of hand...",
+            "1": "No puedo creer que se haya\nproducido otro incendio en Kamurocho.\nMenos mal que los camiones de bomberos\nlo lograron antes de que se les\nfuera de las manos...",
             "2": 0,
             "3": 0,
             "reARMP_isValid": "1",
@@ -6002,7 +6002,7 @@
         },
         "4": {
           "accept": {
-            "1": "I'll go have a look.",
+            "1": "Iré a echar un vistazo.",
             "2": 0,
             "3": 103,
             "reARMP_isValid": "1",
