@@ -37,35 +37,35 @@
   },
   "1": {
     "wait_min": {
-      "text": "Installation must complete\r\nto proceed beyond here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+      "text": "La instalación debe completarse\r\npara poder avanzar mas allá de esta pantalla.\r\n(Tiempo restante: ${hour} hora(s) ${min} minuto(s))",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
     }
   },
   "2": {
     "download_completed": {
-      "text": "Installation complete.",
+      "text": "Instalación finalizada.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
     }
   },
   "3": {
     "wait_min2": {
-      "text": "Installation must complete to play here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+      "text": "La instalación debe completarse para que puedas jugar.\r\n(Tiempo restante: ${hour} hora(s) ${min} minuto(s))",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
   },
   "4": {
     "wait_f2p": {
-      "text": "You cannot proceed beyond\r\nthis point in the trial version.",
+      "text": "No puede avanzar más allá\r\nde este punto en la versión de prueba.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
   },
   "5": {
     "wait_f2p2": {
-      "text": "This content is not available\r\nin the trial version.",
+      "text": "Este contenido no está disponible\r\nen la versión de prueba.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
