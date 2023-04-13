@@ -104,7 +104,7 @@
   },
   "7": {
     "movie": {
-      "name": "REPLAY",
+      "name": "REPLAY ",
       "explanation": "Ver los eventos vistos anteriormente.",
       "category": 1,
       "reARMP_isValid": "1",
