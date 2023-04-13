@@ -117,7 +117,7 @@
   },
   "1": {
     "onomichi": {
-      "text": "Onomichi\n\nA small port town in Hiroshima Prefecture in the south of Japan,\nOnomichi is famous for its unique style of ramen. It is also known\nfor the great number of traditional temples in and around the town\nand carved stones engraved with Onomichi-related poems, originally\npenned by various famous Japanese authors.",
+      "text": "Onomichi\n\nUna pequeña ciudad portuaria en la prefectura de Hiroshima en el sur de Japón,\nOnomichi es famosa por su estilo único de ramen. También es conocida\npor la gran cantidad de templos tradicionales en y alrededor de la ciudad\ny piedras talladas grabadas con poemas relacionados con Onomichi, originalmente\nescritos por varios autores japoneses famosos.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -140,7 +140,7 @@
   },
   "2": {
     "aniki": {
-      "text": "Aniki\n \nA term that roughly translates to \"big brother,\" often used in\ndeference to a more senior member of a yakuza organization.",
+      "text": "Aniki\n \nEs un término que se traduce aproximadamente como \"hermano mayor\", y se usa comúnmente para hacer referencia a un miembro más antiguo de una\norganización yakuza.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "1",
@@ -163,7 +163,7 @@
   },
   "3": {
     "shun_akiyama": {
-      "text": "Shun Akiyama\n \nFounder of Sky Finance, a Kamurocho-based loan company that\nearned him the nickname \"The Lifeline of Kamurocho.\"",
+      "text": "Shun Akiyama\n \nFundador de Finanzas del Cielo, una empresa de préstamos con sede en Kamurocho que le hizo con el apodo. \"El salvavidas de Kamurocho.\"",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -186,7 +186,7 @@
   },
   "4": {
     "new_serena": {
-      "text": "New Serena\n\nThe second coming of the Serena bar, which closed after the death\nof its original owner, Reina. One of Kiryu and Date's usual haunts.",
+      "text": "New Serena\n\nLa segunda versión del bar Serena, que cerró tras la muerte de su propietaria original, Reina. Uno de los lugares habituales de Kiryu y Date.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -209,7 +209,7 @@
   },
   "5": {
     "tgs": {
-      "text": "This demo represents a work in-progress.\nFinal version is subject to change.",
+      "text": "Esta demostración representa un trabajo en progreso.\nLa versión final está sujeta a cambios.",
       "is_tgs": "1",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -232,7 +232,7 @@
   },
   "6": {
     "hiroshima_prefecture": {
-      "text": "Hiroshima Prefecture\n\nNamed for its capital city meaning \"broad island,\" this region of Japan\nis known for its oysters, ocean views, rolling mountains, and its\nbaked treat, the \"momiji manju,\" a type of steamed bun.\n",
+      "text": "Hiroshima Prefecture\n\nNombrada por su ciudad capital que significa \"isla amplia\", esta región de Japón es conocida \npor sus ostras, vistas al océano, montañas ondulantes y \nsu delicia horneada, el \"momiji manju,\" un tipo de bollo al vapor.\n",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "1",
@@ -255,7 +255,7 @@
   },
   "7": {
     "the_omi_alliance": {
-      "text": "The Omi Alliance\n\nThe reigning yakuza faction in the Kansai region, based in\nSotenbori, Osaka. Their power rivals that of the Tojo Clan.",
+      "text": "La Alianza Omi\n\nLa facción yakuza reinante en la región de Kansai, con sede en\nSotenbori, Osaka. Su poder rivaliza con el del Clan Tojo.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "1",
@@ -278,7 +278,7 @@
   },
   "8": {
     "the_tojo_clan": {
-      "text": "The Tojo Clan\n\nThe reigning yakuza faction over the Kanto region, based in Tokyo.\nWith its senior members in prison, its grip on the territory is waning.",
+      "text": "El clan Tojo\n\nLa facción yakuza reinante en la región de Kanto, con sede en Tokio.\nCon sus miembros principales en prisión, su control sobre el territorio está disminuyendo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -301,7 +301,7 @@
   },
   "9": {
     "chairman": {
-      "text": "Chairman\n\nThe topmost figure of an entire yakuza organization.\nDaigo Dojima currently serves as the Tojo Clan's sixth chairman.",
+      "text": "Presidente\n\nLa figura más alta de toda la organización yakuza.\nDaigo Dojima actualmente es el sexto presidente del Clan Tojo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -324,7 +324,7 @@
   },
   "10": {
     "patriarch": {
-      "text": "Patriarch\n\nThe head of a yakuza family, a single group in a yakuza organization.",
+      "text": "Patriarca\n\nEl jefe de una familia yakuza, un solo grupo en una organización yakuza.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -347,7 +347,7 @@
   },
   "11": {
     "captain": {
-      "text": "Captain\n\nA rank reserved for the right-hand man of a patriarch.\nCaptains of larger families often have their own sub-families.",
+      "text": "Capitán\n\nUn rango reservado para la mano derecha de un patriarca.\nLos capitanes de familias numerosas suelen tener sus propias subfamilias.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -370,7 +370,7 @@
   },
   "12": {
     "lieutenant_advisor": {
-      "text": "Lieutenant Advisor\n\nA higher-ranking lieutenant, given this term because he has the\near of the captain.",
+      "text": "Teniente Consejero\n\nUn teniente de mayor rango, se le ha dado este término porque tiene la\ncercanía del capitán.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -393,7 +393,7 @@
   },
   "13": {
     "lieutenant": {
-      "text": "Lieutenant\n\nAn officer of a family with influence over the day-to-day operation and\ncollections. Some lieutenants have sub-families of their own.",
+      "text": "Teniente\n\nUn oficial de una familia con influencia sobre las operaciones y\ncolecciones diarias. Algunos tenientes tienen subfamilias propias.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -416,7 +416,7 @@
   },
   "14": {
     "family": {
-      "text": "Family\n\nA general term for a single yakuza unit, large or small,\nled by a patriarch.",
+      "text": "Familia\n\nUn término general para una sola unidad yakuza, grande o pequeña,\ndirigida por un patriarca.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -439,7 +439,7 @@
   },
   "15": {
     "the_dragon_of_dojima": {
-      "text": "The Dragon of Dojima\n\nThough the Dojima Family itself has long-since faded from existence,\nthe dragon on Kiryu's back earned him this nickname, now legendary\namong yakuza across Japan.",
+      "text": "El dragón de Dojima\n\nAunque la propia familia Dojima desapareciera hace tiempo,\nel dragón en la espalda de Kiryu le valió este apodo, ahora es legendario\nentre los yakuza de todo Japón.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -462,7 +462,7 @@
   },
   "16": {
     "yakuza_the_meaning": {
-      "text": "Yakuza - The Meaning\n\nThe word comes from a losing hand in the gambling game oicho-kabu\nand came to be associated with those lost to gambling. Yakuza\nthemselves prefer a word with a more righteous connotation: \"gokudo.\"",
+      "text": "Yakuza - El significado\n\nLa palabra proviene de una mano perdedora en el juego de apuestas oicho-kabu\ny llegó a asociarse con los perdidos en las apuestas. Yakuza\nellos mismos prefieren una palabra con una connotación más justa: \"gokudo.\"",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -485,7 +485,7 @@
   },
   "17": {
     "chinpira": {
-      "text": "Chinpira\n\nA word that translates roughly to \"punk,\" used to describe\nlow-level yakuza or the street thugs who pick fights with Kiryu.",
+      "text": "Chinpira\n\nUna palabra que se traduce aproximadamente como \"Gamberro\", que se utiliza para describir\na la yakuza de bajo nivel o los matones callejeros que se pelean con Kiryu.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -508,7 +508,7 @@
   },
   "18": {
     "kyodai": {
-      "text": "Kyodai\n\nWhen yakuza swear their oath, they often do so in pairs, tying their\nfates to one another as sworn brothers. It follows that if one succeeds,\nso does the other, and if one fails, the other is brought down with him.",
+      "text": "Kyodai\n\nCuando los yakuza hacen su juramento, a menudo lo hacen en parejas, uniendo sus\ndestinos como hermanos jurados. De ello se deduce que si uno tiene éxito,\ntambién lo hace el otro, y si uno falla, el otro es derribado con él.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -531,7 +531,7 @@
   },
   "19": {
     "history_of_the_tojo_clan_1": {
-      "text": "History of the Tojo Clan\n\nDetails are scant about the founder of the Tojo Clan, Makoto Tojo,\nbut it is said he enjoyed Japanese gardens and was known for his\npack of vicious dogs.",
+      "text": "Historia del Clan Tojo\n\nLos detalles sobre el fundador del Clan Tojo, Makoto Tojo, son escasos,\npero se dice que disfrutaba de los jardines japoneses y era conocido por su\nmanada de perros feroces.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -554,7 +554,7 @@
   },
   "20": {
     "history_of_the_tojo_clan_2": {
-      "text": "History of the Tojo Clan\n\nWith the death of Makoto Tojo and no captain to replace him, Takashi\nNihara stepped in as acting second chairman. The clan secured the\nKamurocho Revitalization Project in 1988 under his leadership.",
+      "text": "Historia del clan Tojo\n\nCon la muerte de Makoto Tojo y sin un capitán para reemplazarlo, Takashi\nNihara intervino como segundo presidente interino. El clan aseguró el\nProyecto de Revitalización de Kamurocho en 1988 bajo su liderazgo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -577,7 +577,7 @@
   },
   "21": {
     "history_of_the_tojo_clan_3": {
-      "text": "History of the Tojo Clan\n\nNot long after his promotion to clan captain, Masaru Sera became\nthe third chairman. His political ties led to an era of prosperity, but\nwhen ten billion yen turned up missing, he was assassinated in 2005.",
+      "text": "Historia del clan Tojo\n\nNo mucho después de su ascenso a capitán del clan, Masaru Sera se convirtió\nen el tercer presidente. Sus lazos políticos lo llevaron a una era de prosperidad, pero cuando desaparecieron diez mil millones de yenes, fue asesinado en 2005.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -600,7 +600,7 @@
   },
   "22": {
     "history_of_the_tojo_clan_4": {
-      "text": "History of the Tojo Clan\n\nWith the Tojo Clan in civil war, the fourth chairman was named in the\nwill of Masaru Sera: Kazuma Kiryu. He was inducted and retired from\nthe role on the same day.",
+      "text": "Historia del Clan Tojo\n\nCon el Clan Tojo en guerra civil, el cuarto presidente fue nombrado en el\ntestamento de Masaru Sera: Kazuma Kiryu. Fue admitido y se retiró\ndel puesto el mismo día.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -623,7 +623,7 @@
   },
   "23": {
     "history_of_the_tojo_clan_5": {
-      "text": "History of the Tojo Clan\n\nKazuma Kiryu passed the chairmanship to the fifth chairman, Yukio\nTerada. But Terada was compromised in a way that nearly led to\nwar with the Jingweon Mafia and the Omi Alliance.",
+      "text": "Historia del Clan Tojo\n\nKazuma Kiryu pasó la presidencia al quinto presidente, Yukio\nTerada. Pero Terada se vio comprometida de una manera que casi lo llevó a una guerra con la Mafia Jingweon y la Alianza Omi.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -646,7 +646,7 @@
   },
   "24": {
     "history_of_the_tojo_clan_6": {
-      "text": "History of the Tojo Clan\n\nWithout a chairman in 2006, the Tojo Clan was held together by\nOsamu Kashiwagi and Sohei Dojima's widow, Yayoi Dojima, until her\nson, Daigo Dojima, became the sixth chairman at Kiryu's insistence.",
+      "text": "Historia del Clan Tojo\n\nSin un presidente en 2006, el Clan Tojo se mantuvo unido por\nOsamu Kashiwagi y la viuda de Sohei Dojima, Yayoi Dojima, hasta que su\nhijo, Daigo Dojima, se convirtió en el sexto presidente ante la insistencia de Kiryu.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -669,7 +669,7 @@
   },
   "25": {
     "the_jingweon_mafia": {
-      "text": "The Jingweon Mafia\n\nA Korean crime syndicate that was all but eradicated by the Dojima\nFamily in the early 80s but resurfaced in 2006 in a plot to destroy \nthe entire Tojo Clan. They were pushed back by Kazuma Kiryu and\nhis allies.",
+      "text": "La mafia Jingweon\n\nUn sindicato del crimen coreano que fue casi erradicado por la familia Dojima\na principios de los años 80, pero resurgió en 2006 en un complot para destruir \ntodo el clan Tojo. Fueron rechazados por Kazuma Kiryu y\nsus aliados.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -692,7 +692,7 @@
   },
   "26": {
     "the_jingweon_massacre": {
-      "text": "The Jingweon Massacre\n\nIn the early 1980s, two members of the Dojima Family ambushed\nthis Korean mafia syndicate, killing nearly every member of its\nranks. The Jingweon never forgot and never forgave.",
+      "text": "La masacre de Jingweon\n\nA principios de la década de 1980, dos miembros de la familia Dojima tendieron una emboscada\na este sindicato mafioso coreano y mataron a casi todos sus miembros. El Jingweon nunca olvidó y nunca perdonó.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -715,7 +715,7 @@
   },
   "27": {
     "poem_stones": {
-      "text": "Poem Stones\n\nInspired by Onomichi's natural beauty, many famous poets have had\ntheir verses inscribed on the stones dotting the streets. Pause for\na moment and read them if you spot one.",
+      "text": "Piedras poéticas\n\nInspirados por la belleza natural de Onomichi, muchos poetas famosos han\ninscrito sus versos en las piedras que salpican las calles. Haz una pausa por un momento y léelas\nsi ves alguna.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -738,7 +738,7 @@
   },
   "28": {
     "the_ropeway": {
-      "text": "The Ropeway\n\nWhile visiting Onomichi, one would be remiss not to ride\nthe ropeway on their trip up the hillside to Senkoji Temple.\nMost who visit choose to ride up and walk back down.",
+      "text": "El teleférico\n\nAl visitar Onomichi, sería un error no tomar\nel teleférico en el viaje hacia la colina del Templo Senkoji.\nLa mayoría de los visitantes eligen subir en el teleférico y bajar caminando.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -761,7 +761,7 @@
   },
   "29": {
     "ono_michio": {
-      "text": "Ono Michio\n\nJapanese citizens are instilled with pride in their cities by colorful\nmascot characters, representing a city's unique culture in various\nways. Ono Michio is kind of unofficial.",
+      "text": "Ono Michio\n\nLos ciudadanos japoneses se sienten orgullosos de sus ciudades por sus coloridos\npersonajes \"mascotas\", que representan la cultura única de una ciudad\nde todos modos. Ono Michio es algo no oficial.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -784,7 +784,7 @@
   },
   "30": {
     "seto_inner_sea": {
-      "text": "Seto Inner Sea\n\nThis body of water is nestled between Honshu and Shikoku, providing \nsafe harbor from seasonal typhoons. It has a long history and \nculture based around shipbuilding and fishing.",
+      "text": "Mar interior de Seto\n\nEsta masa de agua se encuentra entre Honshu y Shikoku, lo que proporciona \nun puerto seguro contra los tifones estacionales. Tiene una larga \nhistoria y cultura basada en la construcción naval y la pesca.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -807,7 +807,7 @@
   },
   "31": {
     "mikan": {
-      "text": "Mikan\n\nA favorite winter treat in western Japan, the mikan is a small, easy-to-peel\nvariety of tangerine. They are plentiful on the islands off the shore of \nOnomichi.",
+      "text": "Mikan\n\nUna golosina de invierno favorita en el oeste de Japón, la mikan es una variedad de mandarina pequeña y fácil de pelar. Son abundantes en las islas frente a la costa de \nOnomichi.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -830,7 +830,7 @@
   },
   "32": {
     "onomichi_ramen": {
-      "text": "Onomichi Ramen\n\nEvery region of Japan has its own style of noodles, and Onomichi is\nno different. This ramen is notable for its straight noodles and bits\nof pork fat floating in soy-sauce-based broth.",
+      "text": "Onomichi Ramen\n\nCada región de Japón tiene su propio estilo de fideos, y Onomichi\nno es diferente. Este ramen se destaca por sus fideos rectos y trozos de grasa de cerdo que flotan en un caldo a base de salsa de soya.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -853,7 +853,7 @@
   },
   "33": {
     "jingaicho_onomichi": {
-      "text": "Jingaicho, Onomichi\n\nQuiet streets lined by the softly glowing signs of snack bars, \nJingaicho is home to numerous dives that service the locals.\nOften run by a single \"mama,\" they cater to clientele looking for\na drink and a conversation.",
+      "text": "Jingaicho, Onomichi\n\nCalles tranquilas bordeadas por letreros suavemente iluminados de bares de snacks, \nJingaicho alberga numerosos bares que atienden a los lugareños.\nA menudo dirigidos por una sola \"mamá\", atienden a una clientela que busca una bebida y una conversación.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -876,7 +876,7 @@
   },
   "34": {
     "senkoji_temple": {
-      "text": "Senkoji Temple\n\nSaid to have been established over 1200 years ago, this temple is\nperched on a hill overlooking Onomichi and has been the \nsubject of artists and writers since times immemorable.",
+      "text": "Templo Senkoji\n\nSe dice que se estableció hace más de 1200 años, este templo\nse alza sobre una colina que domina Onomichi y ha sido objeto de \nartistas y escritores desde tiempos inmemorables.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -899,7 +899,7 @@
   },
   "35": {
     "hiroshima_oysters": {
-      "text": "Hiroshima Oysters\n\nCaught fresh out of the Seto Inner Sea, Hiroshima \"kaki\" are known\nthroughout the country as being some of the finest.\n\n",
+      "text": "Ostras de Hiroshima\n\nPescadas frescas en el Mar Interior de Seto, las \"kaki\" de Hiroshima son conocidas\nen todo el país como algunas de las mejores.\n\n",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -922,7 +922,7 @@
   },
   "36": {
     "jingaicho_central_shopping_district": {
-      "text": "Jingaicho Central Shopping District\n\nOnce a bustling market during the boom years, this local shopping\nalley now sits quietly with many of the storefronts shuttered.",
+      "text": "Distrito comercial central de Jingaicho\n\nEl distrito comercial central de Jingaicho solía ser un mercado muy concurrido durante los \naños de auge, pero ahora permanece en silencio con muchos de los escaparates cerrados.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -945,7 +945,7 @@
   },
   "37": {
     "haruka_sawamura": {
-      "text": "Haruka Sawamura\n\nThe daughter of Kiryu's first love, Yumi Sawamura. The two met in\n2005 and a father-daughter relationship bloomed as Kiryu risked his\nlife to protect hers.",
+      "text": "Haruka Sawamura\n\nLa hija del primer amor de Kiryu, Yumi Sawamura. Los dos se conocieron en\n2005 y una relación padre-hija floreció cuando Kiryu arriesgó su\nvida para proteger la de ella.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -968,7 +968,7 @@
   },
   "38": {
     "daigo_dojima": {
-      "text": "Daigo Dojima\n\nThe sixth chairman of the Tojo Clan, inducted in 2006. Daigo's road to\nleadership has been rocky, but Kiryu has supported him since he was\na child.",
+      "text": "Daigo Dojima\n\nEl sexto presidente del Clan Tojo, iniciado en 2006. El camino de Daigo hacia el\nliderazgo ha sido difícil, pero Kiryu lo ha apoyado desde que era un\nniño.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -991,7 +991,7 @@
   },
   "39": {
     "makoto_date": {
-      "text": "Makoto Date\n\nOnce in charge of Kiryu's murder case in 1995, the two became friends\nafter his release. Date has been a cop, a journalist, and a bartender,\nbut police work runs in his blood.",
+      "text": "Makoto Date\n\nUna vez a cargo del caso de asesinato de Kiryu en 1995, los dos se hicieron amigos\ndespués de su liberación. Date ha sido policía, periodista y cantinero,\npero el trabajo policial lo lleva en la sangre.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1014,7 +1014,7 @@
   },
   "40": {
     "shintaro_kazama": {
-      "text": "Shintaro Kazama\n\nThe founder of Sunflower Orphanage, where both Kiryu and Haruka\ngrew up. He was a model yakuza, earning the trust and respect of the\nentire city. Kiryu considered him a father.",
+      "text": "Shintaro Kazama\n\nEl fundador del orfanato \"el girasol\", donde tanto Kiryu como Haruka se criaron. Era un yakuza modelo, ganándose la confianza y el respeto de toda la ciudad. Kiryu lo consideraba un padre.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1037,7 +1037,7 @@
   },
   "41": {
     "akira_nishikiyama": {
-      "text": "Akira Nishikiyama\n\nOnce Kiryu's oath brother, the two were torn apart by Nishiki's ambition\nto claim the Tojo Clan chairmanship. Their relationship ended in blows\nand an explosion atop the Millennium Tower.",
+      "text": "Akira Nishikiyama\n\nUna vez siendo hermano jurado de Kiryu, los dos fueron separados por la \nambición de Nishiki de reclamar la presidencia del Clan Tojo. Su relación terminó en golpes\ny una explosión en la cima de la Torre del Milenio.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1060,7 +1060,7 @@
   },
   "42": {
     "goro_majima": {
-      "text": "Goro Majima\n\nKnown as the Mad Dog of Shimano, his unpredictable nature\nhas made him a force to be reckoned with both in the Tojo\nClan and to Kiryu, his long-time friend and nemesis.",
+      "text": "Goro Majima\n\nConocido como el Perro Loco de Shimano, su naturaleza impredecible lo ha convertido\nen una fuerza a tener en cuenta tanto en el Clan Tojo como para Kiryu,\nsu viejo amigo y némesis.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1083,7 +1083,7 @@
   },
   "43": {
     "taiga_saejima": {
-      "text": "Taiga Saejima\n\nOnce sentenced to death row for the murder of 18 men, this massive\nman became a yakuza legend. After clearing his name, Saejima has\nbeen in and out of prison, escaping whenever the need arises.",
+      "text": "Taiga Saejima\n\nUna vez sentenciado al corredor de la muerte por el asesinato de 18 hombres, este enorme\nhombre se convirtió en una leyenda yakuza. Después de limpiar su nombre, Saejima ha estado entrando y \nsaliendo de prisión, escapando cada vez que surge la necesidad.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1106,7 +1106,7 @@
   },
   "44": {
     "the_snake_flower_triad": {
-      "text": "The Snake Flower Triad\n\nOnce a prominent foreign crime organization in Kamurocho, they lost\ntheir footing after their leader, Lau Ka Long, was killed by the CIA.",
+      "text": "La tríada de la flor de serpiente\n\nUna vez que una destacada organización criminal extranjera en Kamurocho, perdieron\nsu equilibrio después de que su líder, Lau Ka Long, fuera asesinado por la CIA.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1129,7 +1129,7 @@
   },
   "45": {
     "club_stardust": {
-      "text": "Club Stardust\n\nOnce owned by Kazuki and Yuya, close friends of Kiryu's, this host\nclub has changed ownership and no longer offers Kiryu asylum from\nthe busy streets of the city.",
+      "text": "Club Stardust\n\nUna vez propiedad de Kazuki y Yuya, amigos cercanos de Kiryu, este club de anfitriónes ha cambiado de\npropietario y ya no ofrece asilo a Kiryu de las concurridas calles de la ciudad.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1152,7 +1152,7 @@
   },
   "46": {
     "morning_glory_orphanage": {
-      "text": "Morning Glory Orphanage\n\nFounded in Okinawa by Kiryu after he retired from the yakuza, this\nbeachfront property is home to eight now-teenage orphans.",
+      "text": "Orfanato Morning Glory \n\nFundada en Okinawa por Kiryu después de retirarse de la yakuza, esta\npropiedad frente al mar es el hogar de ocho huérfanos ahora adolescentes.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1175,7 +1175,7 @@
   },
   "47": {
     "kamurocho": {
-      "text": "Kamurocho\n\nAn area of Tokyo, this red-light district is home to cabaret clubs,\ngambling houses, a thriving nightlife, and all the ills that follow suit.",
+      "text": "Kamurocho\n\nUna ciudad de Tokio, este distrito de luz roja alberga clubes de cabaret, casas de juego, una vida nocturna próspera y todos los males que la acompañan.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1198,7 +1198,7 @@
   },
   "48": {
     "the_millennium_tower": {
-      "text": "The Millennium Tower\n\nThe pride of Kamurocho, this skyscraper was built on the blood\nspilled over an empty lot in the late 80s. When the fighting among\nyakuza gets serious, the roof often becomes an arena.",
+      "text": "La Torre del Milenio\n\nEl orgullo de Kamurocho, este rascacielos fue construido sobre la sangre\nderramada sobre un solar baldío a finales de los 80. Cuando la lucha entre\nyakuza se vuelve seria, el techo a menudo se convierte en una arena.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1221,7 +1221,7 @@
   },
   "49": {
     "shangri_la": {
-      "text": "Shangri-La\n\nA derelict \"soapland\" that Kiryu and Haruka infiltrated in 2005\nto gain crucial information. Goro Majima found him though,\ndriving a dump truck through the front doors in an attack.",
+      "text": "Shangri-La\n\nUn \"soapland\" abandonado en la que Kiryu y Haruka se infiltraron en 2005\npara obtener información crucial. Sin embargo, Goro Majima lo encontró, conduciendo\nun camión volquete a través de las puertas delanteras en un ataque.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1244,7 +1244,7 @@
   },
   "50": {
     "taxis": {
-      "text": "Taxis\n\nTaxis offer convenient shortcuts to other parts of the city, marked\non your map by a car icon. You can also travel between cities\nwhen the story allows. Get in from the left side.",
+      "text": "Taxis\n\nLos taxis ofrecen accesos directos convenientes a otras partes de la ciudad,\no marcados en su mapa con un ícono de automóvil. También puedes viajar entre ciudades\ncuando la historia lo permita. Entra por el lado izquierdo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1267,7 +1267,7 @@
   },
   "51": {
     "green_marks_the_spot": {
-      "text": "Green Marks the Spot\n\nDid you know you can create a marker on your map? Press the\nX button on the map to create the marker, and a green arrow will\nappear on your minimap directing you to it.",
+      "text": "El color verde marca el lugar\n\n¿Sabía que puede marcar un punto de destino en el mapa? Presiona el botón\nX en el mapa para marcar algun sitio de interes y aparecerán una flecha verde en tu minimapa que te indicarán cómo llegar.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1290,7 +1290,7 @@
   },
   "52": {
     "sprinting": {
-      "text": "Sprinting\n\nHold the X button to sprint. Best used in short bursts, it's worth noting\nthat sprinting draws more attention from thugs looking for a fight.",
+      "text": "Correr\n\nMantén pulsado el botón X para correr. Es mejor usarlo en ráfagas cortas, vale la pena señalar\nque correr atrae más la atención de los matones que buscan pelea.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1313,7 +1313,7 @@
   },
   "53": {
     "all_things_in_moderation": {
-      "text": "All Things in Moderation\n\nKiryu has been known to enjoy a good drink, but if you overdo it,\nyou'll find it more difficult to walk in a straight line.",
+      "text": "Hay que beber todo pero con moderacion\n\nSe sabe que Kiryu disfruta de una buena bebida, pero si te excedes,\nte resultará más difícil caminar en línea recta.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1336,7 +1336,7 @@
   },
   "54": {
     "jizo_statues": {
-      "text": "Jizo Statues\n\nLining temples and cemeteries across Japan, these small childlike\nstatues are said to protect travelers and children.",
+      "text": "Estatuas de Jizo\n\nRevestidas de templos y cementerios en todo Japón, se dice que estas pequeñas\nestatuas infantiles protegen a los viajeros y a los niños.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1359,7 +1359,7 @@
   },
   "55": {
     "cabaret_clubs": {
-      "text": "Cabaret Clubs\n\nThese popular nightlife spots are frequented by men looking for a\ndrink and a conversation or businessmen taking clients for a fun\nnight out. Sometimes negotiations require a woman's touch.",
+      "text": "Clubes de cabaret\n\nEstos populares lugares de vida nocturna son frecuentados por hombres que buscan\nuna bebida y una conversación o hombres de negocios que llevan a los clientes a divertirse\npor la noche. A veces, las negociaciones requieren el toque de una mujer.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1382,7 +1382,7 @@
   },
   "56": {
     "salarymen": {
-      "text": "Salarymen\n\nA term used to describe men who dedicate their lives to a company.\nIt can have a derogatory connotation when used to describe a man who\nhas lost sight of his individuality or been broken by work-related stress.",
+      "text": "Asalariados\n\nTérmino que se usa para describir a los hombres que dedican su vida a una empresa.\nPuede tener una connotación despectiva cuando se usa para describir a un hombre que\nha perdido de vista su individualidad o se ha quebrantado por el estrés relacionado con el trabajo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1405,7 +1405,7 @@
   },
   "57": {
     "before_eating": {
-      "text": "Before Eating\n\nJapanese people often utter the phrase \"itadakimasu\" while clasping their\nhands together with a short bow before eating. Originating in Buddhism,\nthis practice is grounded in gratitude for the lives of the organisms\nabout to be consumed.",
+      "text": "Antes de comer\n\nLos japoneses suelen pronunciar la frase \"itadakimasu\" mientras juntan las\nmanos con una pequeña reverencia antes de comer. Con origen en el budismo,\nesta práctica se basa en la gratitud por las vidas de los organismos\nque están a punto de ser consumidos.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1428,7 +1428,7 @@
   },
   "58": {
     "yubitsume": {
-      "text": "Yubitsume\n\nThe ritual act of cutting off one's finger in repentance or atonement.\nPracticed almost exclusively by the yakuza, it makes it more difficult\nto hold a sword, forcing the perpetrator to act more cautiously.",
+      "text": "Yubitsume\n\nEl ritual de cortarse un dedo como arrepentimiento o expiación.\nPracticado casi exclusivamente por la yakuza, hace que sea más difícil\nmantener una espada, lo que obliga al perpetrador a actuar con más cautela.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1451,7 +1451,7 @@
   },
   "59": {
     "pocket_tissues": {
-      "text": "Pocket Tissues\n\nOften handed out on the streets of Japan, these \"free gifts\" bear\nadvertisements and phone numbers for local clubs and hot spots.",
+      "text": "Pañuelos de bolsillo\n\nA menudo repartidos en las calles de Japón, estos \"obsequios\" llevan\nanuncios y números de teléfono de clubes locales y lugares de moda.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1474,7 +1474,7 @@
   },
   "60": {
     "onigiri": {
-      "text": "Onigiri\n\nA ball of rice wrapped around various things such as pickled plums, \nsalmon, or other delights, \"onigiri\" are a staple of the Japanese diet.",
+      "text": "Onigiri\n\nUna bola de arroz envuelta alrededor de varias cosas, como ciruelas en escabeche, \nsalmón u otras delicias, \"onigiri\" son un elemento básico de la dieta japonesa.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1497,7 +1497,7 @@
   },
   "61": {
     "tea": {
-      "text": "Tea\n\nThe quintessential Japanese beverage \"ocha\" comes in many varieties,\nsuch as black (oolong), roasted (hoji), rice-infused (genmai), or \neven barley (mugi).",
+      "text": "Tea\n\nLa bebida japonesa por excelencia \"ocha\" viene en muchas variedades,\ncomo negra (oolong), tostada (hoji), con infusión de arroz (genmai) o \nincluso cebada (mugi).",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1520,7 +1520,7 @@
   },
   "62": {
     "vending_machines": {
-      "text": "Vending Machines\n\nThe Japanese \"jido hanbaiki\" is a global marvel, dispensing all sorts of\nconsumable delights, from tea to coffee to beer, in hot and cold varieties!",
+      "text": "Máquinas expendedoras\n\nEl \"jido hanbaiki\" (en japonés) es una maravilla mundial, que dispensa todo tipo\ndelicias consumibles, desde té hasta café y cerveza, ¡en variedades frías y calientes!",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1543,7 +1543,7 @@
   },
   "63": {
     "karaoke": {
-      "text": "Karaoke\n\nA popular pastime that has picked up steam even in Western cultures.\nGroups of friends can reserve a room with a hot mic and belt out all\nthe latest hits and classics.",
+      "text": "Karaoke\n\nUn pasatiempo popular que ha cobrado fuerza incluso en las culturas occidentales.\nLos grupos de amigos pueden reservar una habitación con un micrófono potente y cantar\nlos últimos éxitos y clásicos.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1566,7 +1566,7 @@
   },
   "64": {
     "cat_cafes": {
-      "text": "Cat Cafés\n\nLove cats but can't have one at home? Why not drop by a\ncat café and enjoy coffee, sweets, and amorous kitties?",
+      "text": "Cafes Gatunos\n\n¿Te encantan los gatos pero no puedes tener uno en casa? ¿Por qué no pasas por un\ncafe gatuno y disfrutas de un café, dulces y gatitos enamorados?",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
