@@ -1,0 +1,3868 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 69,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 104,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "explanation": "1",
+    "subtable": "1",
+    "control": "1",
+    "min_value": "1",
+    "max_value": "1",
+    "category": "1",
+    "explanation2": "0"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "explanation": 0,
+    "subtable": 9,
+    "control": 2,
+    "min_value": 7,
+    "max_value": 7,
+    "category": 2,
+    "explanation2": -1
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "explanation": 12,
+    "subtable": 13,
+    "control": 0,
+    "min_value": 9,
+    "max_value": 9,
+    "category": 0,
+    "explanation2": -1
+  },
+  "COLUMN_INDICES": [
+    0,
+    7,
+    8,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "difficulty": {
+      "name": "Difficulty",
+      "explanation": "You can set the difficulty.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 3,
+        "TEXT_COUNT": 8,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1",
+          "explanation": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0,
+          "explanation": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12,
+          "explanation": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1,
+          2
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "easy": {
+            "name": "Easy",
+            "explanation": "An easy difficulty recommended for people new to action games.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "normal": {
+            "name": "Normal",
+            "explanation": "Recommended for people who want to enjoy Yakuza 6 normally.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "hard": {
+            "name": "Hard",
+            "explanation": "A harder difficulty for people who are skilled at playing action games.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "legend": {
+            "name": "Legend",
+            "explanation": "The toughest difficulty for anyone who wishes to master Yakuza 6 to\r\nits fullest.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "tips": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "free_camera_vertical": {
+      "name": "Camera Control (Vertical)",
+      "explanation": "Change how to move the camera vertically.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inverted",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "4": {
+    "free_camera_horizontal": {
+      "name": "Camera Control (Horizontal)",
+      "explanation": "Change how to move the camera horizontally.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inverted",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "5": {
+    "first_person_camera_vertical": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "6": {
+    "first_person_camera_horizontal": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "7": {
+    "minimap": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "8": {
+    "subtitle": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "9": {
+    "blood_mode": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "10": {
+    "test": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "11": {
+    "brightness": {
+      "name": "Brightness",
+      "explanation": "Slide the cursor to adjust the brightness.",
+      "control": 12,
+      "min_value": -10.0,
+      "max_value": 10.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "12": {
+    "gamma": {
+      "name": "Gamma",
+      "explanation": "Slide the cursor to adjust the gamma correction.",
+      "control": 12,
+      "min_value": -10.0,
+      "max_value": 10.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "13": {
+    "camera_sensitivity": {
+      "name": "Camera Movement Speed",
+      "explanation": "Set the speed the camera moves at. \r\nSlide the cursor to adjust the speed.",
+      "control": 12,
+      "min_value": -5.0,
+      "max_value": 5.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "14": {
+    "pov_camera_vertical": {
+      "name": "First-Person View (Vertical)",
+      "explanation": "Change how to move the first-person camera vertically.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inverted",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "15": {
+    "pov_camera_horizontal": {
+      "name": "First-Person View (Horizontal)",
+      "explanation": "Change how to move the first-person camera horizontally.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inverted",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "16": {
+    "minimap_visible": {
+      "name": "Minimap Display",
+      "explanation": "Switch on/off the minimap that appears in the lower\r\nleft part of the screen.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "show": {
+            "name": "Show",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hide": {
+            "name": "Hide",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "17": {
+    "blood_type": {
+      "name": "Blood Level",
+      "explanation": "Set the level of blood to display.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "mild": {
+            "name": "Mild",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "18": {
+    "font_kind": {
+      "name": "Set Font",
+      "explanation": "Change the font used during the game.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "mincho": {
+            "name": "Serif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "gothic": {
+            "name": "Sans Serif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "19": {
+    "minimap_direction": {
+      "name": "Minimap Rotation",
+      "explanation": "Switch on/off minimap rotation. If turned on,\r\nthe minimap will rotate with the camera.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "fixed": {
+            "name": "Fixed",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "free": {
+            "name": "Rotate",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "20": {
+    "subtitles_display": {
+      "name": "Subtitles",
+      "explanation": "Switch on/off subtitles for movie scenes.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "show": {
+            "name": "Show",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hide": {
+            "name": "Hide",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "21": {
+    "battle_support": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "22": {
+    "headphone_volume": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "23": {
+    "controller_speaker": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "24": {
+    "controller_speaker_volume": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "25": {
+    "speaker_type": {
+      "name": "Speaker Type",
+      "explanation": "Select between stereo, surround 5.1 or surround 7.1 sound.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "stereo": {
+            "name": "Stereo",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "surround": {
+            "name": "Surround 5.1",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "surround_7_1": {
+            "name": "Surround 7.1",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "26": {
+    "speaker_front_angle": {
+      "name": "Front",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 17,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 16,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree15": {
+            "name": "15",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree20": {
+            "name": "20",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree25": {
+            "name": "25",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree30": {
+            "name": "30",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree35": {
+            "name": "35",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree40": {
+            "name": "40",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree45": {
+            "name": "45",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree50": {
+            "name": "50",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree55": {
+            "name": "55",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree60": {
+            "name": "60",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree65": {
+            "name": "65",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "degree70": {
+            "name": "70",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "degree75": {
+            "name": "75",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "degree80": {
+            "name": "80",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "degree85": {
+            "name": "85",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "degree90": {
+            "name": "90",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "27": {
+    "speaker_rear_angle": {
+      "name": "Back",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 16,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 15,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree95": {
+            "name": "95",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree100": {
+            "name": "100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree105": {
+            "name": "105",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree110": {
+            "name": "110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree115": {
+            "name": "115",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree125": {
+            "name": "125",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree130": {
+            "name": "130",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree135": {
+            "name": "135",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree140": {
+            "name": "140",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree145": {
+            "name": "145",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "degree150": {
+            "name": "150",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "degree155": {
+            "name": "155",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "degree160": {
+            "name": "160",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "degree165": {
+            "name": "165",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "28": {
+    "auto_camera": {
+      "name": "Auto Camera",
+      "explanation": "The camera's point of view will move automatically\r\ndepending on the situation. If you select Off, it\r\nwill not move unless the player moves it themselves.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "enabled": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "disabled": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "29": {
+    "ringtone": {
+      "name": "Ringtone",
+      "explanation": "Change your smartphone's ringtone.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "voices": {
+            "name": "Soundwaves",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "simple": {
+            "name": "Basic Tone",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "silent": {
+            "name": "Vibrate",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "30": {
+    "hud_enabled": {
+      "name": "HUD Visible",
+      "explanation": "Toggle ingame HUD on or off.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "hud_enabled_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hud_enabled_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "31": {
+    "graphics_adapter": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "32": {
+    "graphics_output": {
+      "name": "Output Device",
+      "explanation": "Select output device for given adapter.",
+      "subtable": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "output_default": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "33": {
+    "graphics_display_mode": {
+      "name": "Display Mode",
+      "explanation": "Set display mode for your device.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "display_windowed": {
+            "name": "Windowed",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "display_fullscreen": {
+            "name": "Fullscreen",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "display_borderless": {
+            "name": "Borderless",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "34": {
+    "graphics_display_resolution": {
+      "name": "Resolution",
+      "explanation": "Set display resolution for your device.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "resolution_FHD": {
+            "name": "1920x1080",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "resolution_HDready": {
+            "name": "1280x720",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "35": {
+    "graphics_refresh_rate": {
+      "name": "Refresh Rate",
+      "explanation": "Set refresh rate of your display device.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "refresh_60": {
+            "name": "60.0Hz",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "refresh_120": {
+            "name": "120.0Hz",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "36": {
+    "graphics_vertical_sync": {
+      "name": "Vertical Sync",
+      "explanation": "Set vertical synchronization for your display device.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "vert_sync_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "vert_sync_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "37": {
+    "graphics_quality_preset": {
+      "name": "Quality",
+      "explanation": "Use presets to easily control advanced graphics settings.",
+      "subtable": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "quality_low": {
+            "name": "Low",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "quality_med": {
+            "name": "Medium",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "quality_high": {
+            "name": "High",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "quality_ultra": {
+            "name": "Ultra",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "quality_custom": {
+            "name": "Custom",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "38": {
+    "graphics_fov": {
+      "name": "FOV",
+      "explanation": "Adjust field of view value.",
+      "control": 12,
+      "min_value": 25.0,
+      "max_value": 75.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "39": {
+    "graphics_fps": {
+      "name": "FPS",
+      "explanation": "Set FPS limit.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "FPS_30": {
+            "name": "30",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "FPS_60": {
+            "name": "60",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "FPS_120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "FPS_OFF": {
+            "name": "Unlimited",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "40": {
+    "graphics_texture_quality": {
+      "name": "Texture Quality",
+      "explanation": "Set quality of textures.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "texture_quality_low": {
+            "name": "Low",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "texture_quality_med": {
+            "name": "Medium",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "texture_quality_high": {
+            "name": "High",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "41": {
+    "graphics_texture_filtering": {
+      "name": "Texture Filtering",
+      "explanation": "Set anisotropy texture filtering.",
+      "subtable": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "texture_filtering_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "texture_filtering_2x": {
+            "name": "2x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "texture_filtering_4x": {
+            "name": "4x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "texture_filtering_8x": {
+            "name": "8x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "texture_filtering_16x": {
+            "name": "16x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "42": {
+    "graphics_shadow_quality": {
+      "name": "Shadows Quality",
+      "explanation": "Set quality of shadows.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "shadow_quality_low": {
+            "name": "Low",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "shadow_quality_med": {
+            "name": "Medium",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "shadow_quality_high": {
+            "name": "High",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "43": {
+    "graphics_geometry_quality": {
+      "name": "Geometry Quality",
+      "explanation": "Set quality of geometry meshes.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "geometry_quality_low": {
+            "name": "Low",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "geometry_quality_med": {
+            "name": "Medium",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "geometry_quality_high": {
+            "name": "High",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "44": {
+    "graphics_realtime_reflections": {
+      "name": "Realtime Reflections",
+      "explanation": "Enable or disable realtime reflections.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "realtime_reflections_disabled": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "realtime_reflections_enabled": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "45": {
+    "graphics_motion_blur": {
+      "name": "Motion Blur",
+      "explanation": "Enable or disable motion blur.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "motion_blur_disabled": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "motion_blur_enabled": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "46": {
+    "graphics_ssao": {
+      "name": "SSAO",
+      "explanation": "Enable or disable Screen Space Ambient Occlusion.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "SSAO_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "SSAO_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "47": {
+    "graphics_ssss": {
+      "name": "Subsurface Scattering",
+      "explanation": "Enable or disable subsurface scattering.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "SSSS_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "SSSS_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "48": {
+    "graphics_render_scale": {
+      "name": "Render Scale",
+      "explanation": "Adjust render scaling.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "render_scale_1x": {
+            "name": "100%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "render_scale_0_75x": {
+            "name": "75%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "render_scale_0_5x": {
+            "name": "50%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "render_scale_0_25x": {
+            "name": "25%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 12,
+      "min_value": 50.0,
+      "max_value": 100.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "49": {
+    "graphics_advanced_button": {
+      "name": "Advanced",
+      "explanation": "Go to advanced graphics settings.",
+      "control": 3,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "50": {
+    "graphics_aa": {
+      "name": "Anti-aliasing",
+      "explanation": "Set anti-aliasing type or disable it.",
+      "subtable": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "AA_OFF": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "FXAA": {
+            "name": "FXAA",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "SMAA": {
+            "name": "SMAA",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "SSAA125": {
+            "name": "SSAA 1.25x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "SSAA150": {
+            "name": "SSAA 1.50x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "SSAA175": {
+            "name": "SSAA 1.75x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "SSAA200": {
+            "name": "SSAA 2.00x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "51": {
+    "graphics_dof": {
+      "name": "Depth of Field",
+      "explanation": "Enable or disable Depth of Field.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "DOF_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "DOF_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "52": {
+    "volume_music": {
+      "name": "Music",
+      "explanation": "Adjust music volume.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "53": {
+    "volume_effect": {
+      "name": "Effects",
+      "explanation": "Adjust effects volume.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "54": {
+    "volume_dialog": {
+      "name": "Dialog",
+      "explanation": "Adjust dialog volume.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "55": {
+    "volume_cinema": {
+      "name": "Cinema",
+      "explanation": "Adjust cinema volume.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "56": {
+    "icon_select": {
+      "name": "Icon Select",
+      "explanation": "Option to choose what icons will be used.",
+      "subtable": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "auto": {
+            "name": "Auto",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "xbox": {
+            "name": "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "3": {
+          "playstation": {
+            "name": "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "4": {
+          "switch": {
+            "name": "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "5": {
+          "directinput": {
+            "name": "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "6": {
+          "mk": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "57": {
+    "disable_windows_key": {
+      "name": "Disable Windows Key",
+      "explanation": "Disable Windows Key while the game is running.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "disable_windows_key_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "disable_windows_key_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "58": {
+    "tattoo_bars": {
+      "name": "Letterbox Artworks",
+      "explanation": "Enable or disable tattoo letterbox artwork\nused in aspect ratios different than 16:9.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "tattoo_bars_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "tattoo_bars_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "59": {
+    "mouse_cursor": {
+      "name": "Mouse Cursor",
+      "explanation": "Set mouse pointer to game or system style.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "mouse_cursor_system": {
+            "name": "System Cursor",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "mouse_cursor_game": {
+            "name": "Game Cursor",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "60": {
+    "controller_vibration": {
+      "name": "Controller Vibration",
+      "explanation": "Switch on/off the controller vibration.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "controller_vibration_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "controller_vibration_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "61": {
+    "speaker_front_angle_7_1": {
+      "name": "Front",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 12,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 11,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree15": {
+            "name": "15",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree20": {
+            "name": "20",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree25": {
+            "name": "25",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree30": {
+            "name": "30",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree35": {
+            "name": "35",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree40": {
+            "name": "40",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree45": {
+            "name": "45",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree50": {
+            "name": "50",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree55": {
+            "name": "55",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree60": {
+            "name": "60",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree65": {
+            "name": "65",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "62": {
+    "speaker_surround_angle_5_1": {
+      "name": "Surround",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 16,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 15,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree95": {
+            "name": "95",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree100": {
+            "name": "100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree105": {
+            "name": "105",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree110": {
+            "name": "110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree115": {
+            "name": "115",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree125": {
+            "name": "125",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree130": {
+            "name": "130",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree135": {
+            "name": "135",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree140": {
+            "name": "140",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree145": {
+            "name": "145",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "degree150": {
+            "name": "150",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "degree155": {
+            "name": "155",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "degree160": {
+            "name": "160",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "degree165": {
+            "name": "165",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "63": {
+    "speaker_surround_angle_7_1": {
+      "name": "Surround",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 12,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 11,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree70": {
+            "name": "70",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree75": {
+            "name": "75",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree80": {
+            "name": "80",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree85": {
+            "name": "85",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree90": {
+            "name": "90",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree95": {
+            "name": "95",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree100": {
+            "name": "100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree105": {
+            "name": "105",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree110": {
+            "name": "110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree115": {
+            "name": "115",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "64": {
+    "speaker_rear_angle_7_1": {
+      "name": "Back",
+      "explanation": "Adjust to your speakers' angle for optimal quality.",
+      "subtable": {
+        "ROW_COUNT": 10,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 9,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree125": {
+            "name": "125",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree130": {
+            "name": "130",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree135": {
+            "name": "135",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree140": {
+            "name": "140",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree145": {
+            "name": "145",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree150": {
+            "name": "150",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree155": {
+            "name": "155",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree160": {
+            "name": "160",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree165": {
+            "name": "165",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "65": {
+    "volume_master": {
+      "name": "Master",
+      "explanation": "Adjust master volume.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "66": {
+    "graphics_ui_limit_ui": {
+      "name": "UI Layout Width Limit",
+      "explanation": "Set maximum aspect ratio for the layout of UI elements.\nCan be used to shift UI from the edges toward the center \nof the screen.",
+      "subtable": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "ui_limit_16_9": {
+            "name": "16:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "ui_limit_17_9": {
+            "name": "17:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "ui_limit_18_9": {
+            "name": "18:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "ui_limit_19_9": {
+            "name": "19:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "ui_limit_20_9": {
+            "name": "20:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "ui_limit_21_9": {
+            "name": "21:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "67": {
+    "graphics_ui_limit_minigame": {
+      "name": "Middle Screen View Limit",
+      "explanation": "Set aspect ratio of the middle display. Can be used to fit \nparts of the game entirely within the primary screen of \nthe multi-monitor configuration.",
+      "subtable": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "mg_limit_16_9": {
+            "name": "16:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "mg_limit_17_9": {
+            "name": "17:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "mg_limit_18_9": {
+            "name": "18:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "mg_limit_19_9": {
+            "name": "19:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "mg_limit_20_9": {
+            "name": "20:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "mg_limit_21_9": {
+            "name": "21:9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "mg_limit_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "68": {
+    "hide_skip_prompt": {
+      "name": "Hide Skip prompt in dialogues",
+      "explanation": "Hides the Skip prompt in dialogues. \nSkipping dialogues is still possible.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "hide_skip_prompt_off": {
+            "name": "Off",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hide_skip_prompt_on": {
+            "name": "On",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 6,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 5,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "wait_min": {
+      "text": "Installation must complete\r\nto proceed beyond here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "download_completed": {
+      "text": "Installation complete.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "wait_min2": {
+      "text": "Installation must complete to play here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "wait_f2p": {
+      "text": "You cannot proceed beyond\r\nthis point in the trial version.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "wait_f2p2": {
+      "text": "This content is not available\r\nin the trial version.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 14,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 13,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "chapter1": {
+      "name": "Chapter 1: The Price of Freedom",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "chapter2": {
+      "name": "Chapter 2: Life Blooms Anew",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "chapter3": {
+      "name": "Chapter 3: Foreign Influence",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "chapter4": {
+      "name": "Chapter 4: Deception",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "chapter5": {
+      "name": "Chapter 5: Masked",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "chapter6": {
+      "name": "Chapter 6: Footsteps",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "chapter7": {
+      "name": "Chapter 7: Heihaizi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "chapter8": {
+      "name": "Chapter 8: Conspiracy",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "chapter9": {
+      "name": "Chapter 9: Disappearance",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "chapter10": {
+      "name": "Chapter 10: Blood Law",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "chapter11": {
+      "name": "Chapter 11: Father and Son",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "chapter12": {
+      "name": "Chapter 12: The Sleeping Giant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "chapter13": {
+      "name": "Finale: The Unforgiven",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  }
+}

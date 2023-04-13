@@ -6136,7 +6136,7 @@
             "1": 2070.0,
             "2": 2220.0,
             "3": 0,
-            "4": "¿Y Someya? A mí no me parece\nlook like much of a paper pusher to me.",
+            "4": "¿Y Someya? A mí no me parece\nNo parece ser alguien que se dedica mucho\na la burocracia en mi opinión",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -6146,7 +6146,7 @@
             "1": 2280.0,
             "2": 2370.0,
             "3": 0,
-            "4": "I leave the math to the number crunchers.",
+            "4": "Dejo las matemáticas a los expertos en cálculos numéricos.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -6185,7 +6185,7 @@
             "1": 3052.0,
             "2": 3112.0,
             "3": 0,
-            "4": "I don't plan on staying long.",
+            "4": "No pienso quedarme mucho tiempo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -6195,7 +6195,7 @@
             "1": 3132.0,
             "2": 3242.0,
             "3": 0,
-            "4": "But before I go,\nI do have a few questions.",
+            "4": "Pero antes de irme,\ntengo algunas preguntas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -6205,7 +6205,7 @@
             "1": 3272.0,
             "2": 3447.0,
             "3": 0,
-            "4": "I assume this is about the hit-and-run\non your sweet Haruka?",
+            "4": "¿Asumo que esto es por el\natropello y fuga de tu dulce Haruka?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -6215,7 +6215,7 @@
             "1": 3522.0,
             "2": 3632.0,
             "3": 0,
-            "4": "What a terrible tragedy.\nYou have my condolences.",
+            "4": "Qué terrible tragedia.\nTienes mis condolencias.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -6225,7 +6225,7 @@
             "1": 3672.0,
             "2": 3782.0,
             "3": 0,
-            "4": "When did you hear about Haruka's\naccident? Who told you?",
+            "4": "¿Cuándo te enteraste del\naccidente de Haruka? ¿Quien te lo dijo?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -6235,7 +6235,7 @@
             "1": 3812.0,
             "2": 3922.0,
             "3": 0,
-            "4": "I was informed by the police\nnot long after the incident.",
+            "4": "La policía me informó\npoco después del incidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -6245,7 +6245,7 @@
             "1": 3942.0,
             "2": 4102.0,
             "3": 0,
-            "4": "Do they tell you everything\nthat happens in Kamurocho?",
+            "4": "¿Te cuentan todo\nlo que pasa en Kamurocho?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -6255,7 +6255,7 @@
             "1": 4142.0,
             "2": 4362.0,
             "3": 0,
-            "4": "It's no secret that Haruka Sawamura is\nvery special to you, Fourth Chairman.",
+            "4": "No es ningún secreto que Haruka Sawamura es\nmuy especial para usted, cuarto presidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -6265,7 +6265,7 @@
             "1": 4382.0,
             "2": 4567.0,
             "3": 0,
-            "4": "Naturally, that significance is what led\nthe police to contact us so quickly.",
+            "4": "Naturalmente, esa importancia es lo que llevó\na la policía a ponerse en contacto con nosotros\ntan rápidamente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 28
           }
@@ -6275,7 +6275,7 @@
             "1": 4612.0,
             "2": 4692.0,
             "3": 0,
-            "4": "Did you have any other questions for me?",
+            "4": "¿Tiene alguna otra pregunta que hacerme?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -6285,7 +6285,7 @@
             "1": 4737.0,
             "2": 4917.0,
             "3": 0,
-            "4": "At the scene of the accident,\nthere was a man spying on me with a camera.",
+            "4": "En la escena del accidente,\nhabía un hombre espiándome con una cámara.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -6295,7 +6295,7 @@
             "1": 4932.0,
             "2": 5042.0,
             "3": 0,
-            "4": "He said he was with the Someya Family.",
+            "4": "Dijo que era de la Familia Someya.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -6305,7 +6305,7 @@
             "1": 5072.0,
             "2": 5192.0,
             "3": 0,
-            "4": "Did you give that order, Sugai?",
+            "4": "¿Tú diste esa orden, Sugai?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 32
           }
@@ -6315,7 +6315,7 @@
             "1": 5202.0,
             "2": 5312.0,
             "3": 0,
-            "4": "It wasn't spying.\nIt was protection.",
+            "4": "No fue espionaje.\nFue protección.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 33
           }
@@ -6325,7 +6325,7 @@
             "1": 5342.0,
             "2": 5522.0,
             "3": 0,
-            "4": "We've been looking for you ever since\nwe heard you'd returned to Kamurocho.",
+            "4": "Te hemos estado buscando desde que\nescuchamos que habías regresado a Kamurocho.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 34
           }
@@ -6335,7 +6335,7 @@
             "1": 5547.0,
             "2": 5752.0,
             "3": 0,
-            "4": "Checking in on you at the scene of the accident\nwas the only way to confirm your well-being.",
+            "4": "Vigilarte en el lugar del accidente fue\nla única forma de confirmar que estabas bien.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 35
           }
@@ -6345,7 +6345,7 @@
             "1": 5782.0,
             "2": 5862.0,
             "3": 0,
-            "4": "Someya speaks the truth.",
+            "4": "Someya dice la verdad.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 36
           }
@@ -6355,7 +6355,7 @@
             "1": 5872.0,
             "2": 5967.0,
             "3": 0,
-            "4": "I honestly thought it a bit extreme.",
+            "4": "Sinceramente, me pareció un poco exagerado.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -6365,7 +6365,7 @@
             "1": 5982.0,
             "2": 6097.0,
             "3": 0,
-            "4": "But we're at war with the Chinese, you know.",
+            "4": "Pero estamos en guerra con los chinos, sabes.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -6375,7 +6375,7 @@
             "1": 6117.0,
             "2": 6362.0,
             "3": 0,
-            "4": "Though you're a civilian now, they may not\nhave extended you a civilian's courtesy.",
+            "4": "Aunque ahora eres un civil, es posible que no te hayan\ndado la cortesía de un civil.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -6385,7 +6385,7 @@
             "1": 6382.0,
             "2": 6437.0,
             "3": 0,
-            "4": "I didn't ask for that.",
+            "4": "Yo no he pedido eso.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 40
           }
@@ -6395,7 +6395,7 @@
             "1": 6462.0,
             "2": 6522.0,
             "3": 0,
-            "4": "And I don't need your help.",
+            "4": "Y no necesito su ayuda.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
@@ -6405,7 +6405,7 @@
             "1": 6532.0,
             "2": 6682.0,
             "3": 0,
-            "4": "You're a man of strong character,\nFourth Chairman. I'm well aware of that.",
+            "4": "Eres un hombre de carácter fuerte,\nCuarto presidente. Soy muy consciente de ello.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 42
           }
@@ -6415,7 +6415,7 @@
             "1": 6702.0,
             "2": 6847.0,
             "3": 0,
-            "4": "Hence why I chose to act in secret.\nYou would never knowingly accept our help.",
+            "4": "Por eso decidi actuar en secreto.\nNunca aceptarías nuestra ayuda a sabiendas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 43
           }
@@ -6425,7 +6425,7 @@
             "1": 6867.0,
             "2": 6952.0,
             "3": 0,
-            "4": "My apologies if I've upset you.",
+            "4": "Mis disculpas si le he molestado.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 44
           }
@@ -6435,7 +6435,7 @@
             "1": 7002.0,
             "2": 7187.0,
             "3": 0,
-            "4": "Didn't I tell you, Sugai-san? The fourth\nchairman doesn't need our protection.",
+            "4": "¿No te lo dije, Sugai-san? El cuarto\npresidente no necesita nuestra protección.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 45
           }
@@ -6445,7 +6445,7 @@
             "1": 7237.0,
             "2": 7327.0,
             "3": 0,
-            "4": "It'd be pointless for the Chinese\nto target him anyway.",
+            "4": "Sería inútil para los chinos \napuntar a ir por el de todos modos.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 46
           }
@@ -6455,7 +6455,7 @@
             "1": 7362.0,
             "2": 7432.0,
             "3": 0,
-            "4": "The Dragon of Dojima is dead.",
+            "4": "El Dragón de Dojima está muerto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 47
           }
@@ -6465,7 +6465,7 @@
             "1": 7452.0,
             "2": 7522.0,
             "3": 0,
-            "4": "Any weight that name carried is gone.",
+            "4": "Cualquier significado que \nllevaba ese nombre se ha ido.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 48
           }
@@ -6485,7 +6485,7 @@
             "1": 7637.0,
             "2": 7847.0,
             "3": 0,
-            "4": "We may have been watching you, yes...\nBut don't assume you have any value to us.",
+            "4": "Es posible que te hayamos estado observando, sí...\nPero no asumas que tienes algún valor para nosotros.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 50
           }
@@ -6495,7 +6495,7 @@
             "1": 7872.0,
             "2": 7992.0,
             "3": 0,
-            "4": "The current conflict rests on\nmy generation, not yours.",
+            "4": "El conflicto actual se basa en\nmi generación, no en la tuya.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 51
           }
@@ -6505,7 +6505,7 @@
             "1": 8052.0,
             "2": 8172.0,
             "3": 0,
-            "4": "It has nothing to do with a fossil like you.",
+            "4": "No tiene nada que ver con un fósil como tú.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 52
           }
@@ -6515,7 +6515,7 @@
             "1": 8232.0,
             "2": 8367.0,
             "3": 0,
-            "4": "The new generation sounds pretty cocky.\n",
+            "4": "La nueva generación suena bastante engreída.\n",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 53
           }
@@ -6525,7 +6525,7 @@
             "1": 8407.0,
             "2": 8517.0,
             "3": 0,
-            "4": "This war with the Chinese\nhas left us no choice.",
+            "4": "Esta guerra con los chinos\nno nos ha dejado otra opción.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 54
           }
@@ -6535,7 +6535,7 @@
             "1": 8527.0,
             "2": 8607.0,
             "3": 0,
-            "4": "And is it any wonder?",
+            "4": "¿Y no es extraño?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 55
           }
@@ -6545,7 +6545,7 @@
             "1": 8632.0,
             "2": 8787.0,
             "3": 0,
-            "4": "Until recently, the yakuza's power\nwas vested in its financial prowess.",
+            "4": "Hasta hace poco, el poder de la yakuza\nse basaba en su destreza financiera.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 56
           }
@@ -6555,7 +6555,7 @@
             "1": 8802.0,
             "2": 8947.0,
             "3": 0,
-            "4": "So it follows that the sixth chairman's\nofficers were all very intelligent men.",
+            "4": "Entonces se deduce que los oficiales del sexto presidente \neran todos hombres muy inteligentes.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 57
           }
@@ -6565,7 +6565,7 @@
             "1": 8977.0,
             "2": 9067.0,
             "3": 0,
-            "4": "But, now things have changed.",
+            "4": "Pero ahora las cosas han cambiado.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 58
           }
@@ -6575,7 +6575,7 @@
             "1": 9097.0,
             "2": 9302.0,
             "3": 0,
-            "4": "With the Tojo Clan at war, all that matters\nnow is whether or not a yakuza can fight.",
+            "4": "Con el Clan Tojo en guerra, todo lo que importa\nahora es si un yakuza puede luchar o no.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 59
           }
@@ -6585,7 +6585,7 @@
             "1": 9332.0,
             "2": 9467.0,
             "3": 0,
-            "4": "Your value as a yakuza has a direct\ncorrelation to your body count.",
+            "4": "Tu valor como yakuza tiene una correlación\ndirecta con tu recuento de cadáveres.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 60
           }
@@ -6595,7 +6595,7 @@
             "1": 9487.0,
             "2": 9722.0,
             "3": 0,
-            "4": "In other words, you ascend by force.\nIt's the dawn of a new era for us yakuza.",
+            "4": "En otras palabras, asciendes por la fuerza.\nEs el amanecer de una nueva era para nosotros, \nlos yakuza.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 61
           }
@@ -6605,7 +6605,7 @@
             "1": 9777.0,
             "2": 9872.0,
             "3": 0,
-            "4": "Doesn't that sound amazing,\nFourth Chairman?",
+            "4": "¿No suena increíble,\ncuarto presidente?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 62
           }
@@ -6615,7 +6615,7 @@
             "1": 9882.0,
             "2": 10022.0,
             "3": 0,
-            "4": "You rose to power in much the same way,\ndidn't you?",
+            "4": "Ascendiste al poder de la misma manera,\n¿verdad?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 63
           }
@@ -6625,7 +6625,7 @@
             "1": 10087.0,
             "2": 10297.0,
             "3": 0,
-            "4": "Now even the once invincible Sugai-san\nhas to rely on youth to keep the clan intact.",
+            "4": "Ahora incluso el antes invencible Sugai-san\ntiene que depender de la juventud para mantener el \nclan intacto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 64
           }
@@ -6635,7 +6635,7 @@
             "1": 10307.0,
             "2": 10357.0,
             "3": 0,
-            "4": "Isn't that right, Sugai-san?",
+            "4": "¿No es cierto, Sugai-san?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 65
           }
@@ -6645,7 +6645,7 @@
             "1": 10377.0,
             "2": 10577.0,
             "3": 0,
-            "4": "They risk their lives for our cause,\nso we promote them. It's only fair.",
+            "4": "Arriesgan sus vidas por nuestra causa, por lo que \nlos promoveremos. Es lo justo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 66
           }
@@ -6655,7 +6655,7 @@
             "1": 10597.0,
             "2": 10697.0,
             "3": 0,
-            "4": "I didn't come here today to talk\nabout the value of a yakuza.",
+            "4": "No he venido aquí para \nhablar sobre el valor de un yakuza.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 67
           }
@@ -6665,7 +6665,7 @@
             "1": 10747.0,
             "2": 10812.0,
             "3": 0,
-            "4": "I'm only going to ask this once.",
+            "4": "Solo voy a preguntar esto una vez.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 68
           }
@@ -6675,7 +6675,7 @@
             "1": 10852.0,
             "2": 11007.0,
             "3": 0,
-            "4": "Were you involved in Haruka's accident?\nYou really know nothing?",
+            "4": "¿Estuviste involucrado en el accidente de Haruka?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 69
           }
@@ -6685,7 +6685,7 @@
             "1": 11062.0,
             "2": 11227.0,
             "3": 0,
-            "4": "What are you implying? What purpose\nwould such a horrible act even serve?",
+            "4": "¿Qué estás insinuando?\n¿Cuál sería el propósito de un acto tan horrible?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 70
           }
@@ -6695,7 +6695,7 @@
             "1": 11252.0,
             "2": 11277.0,
             "3": 0,
-            "4": "Right.",
+            "4": "Entiendo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 71
           }
@@ -6705,7 +6705,7 @@
             "1": 11307.0,
             "2": 11407.0,
             "3": 0,
-            "4": "As it stands, I believe you.",
+            "4": "Tal como están las cosas, te creo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 72
           }
@@ -6715,7 +6715,7 @@
             "1": 11437.0,
             "2": 11577.0,
             "3": 0,
-            "4": "Haruka and I have less than\nnothing to do with your little war.",
+            "4": "Haruka y yo no tenemos nada\nque ver con tu pequeña guerra.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 73
           }
@@ -6725,7 +6725,7 @@
             "1": 11617.0,
             "2": 11687.0,
             "3": 0,
-            "4": "But hear me now...",
+            "4": "Pero escúchame bien...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 74
           }
@@ -6735,7 +6735,7 @@
             "1": 11717.0,
             "2": 11867.0,
             "3": 0,
-            "4": "If the Tojo Clan even <font_kind=yakuza_italic>thinks</font_kind>\nabout laying a hand on my family...",
+            "4": "Si el Clan Tojo incluso <font_kind=yakuza_italic>piensa</font_kind>\nen ponerle una mano encima a mi familia...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 75
           }
@@ -6745,7 +6745,7 @@
             "1": 12037.0,
             "2": 12117.0,
             "3": 0,
-            "4": "...I will bury all of you.",
+            "4": "...los enterraré a todos ustedes.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 76
           }
@@ -6755,7 +6755,7 @@
             "1": 12157.0,
             "2": 12267.0,
             "3": 0,
-            "4": "We aren't interested in making\nan enemy of the Dragon of Dojima.",
+            "4": "No estamos interesados en\nenemistarnos con el Dragón de Dojima.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 77
           }
@@ -6765,7 +6765,7 @@
             "1": 12277.0,
             "2": 12412.0,
             "3": 0,
-            "4": "We have plenty of other playthings\nto keep us occupied.",
+            "4": "Tenemos muchas otras cosas con las \nque entretenernos.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 78
           }
@@ -7395,7 +7395,7 @@
             "1": 860.0,
             "2": 960.0,
             "3": 0,
-            "4": "Let's not do this, Kiryu-san.",
+            "4": "No hagas esto, Kiryu-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -7405,7 +7405,7 @@
             "1": 1020.0,
             "2": 1200.0,
             "3": 0,
-            "4": "And let Nojiri take him? He doesn't\ncare what happens to these kids.",
+            "4": "¿Y dejar que Nojiri se lo lleve? \nA el No le importa lo que les pase a estos niños.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -7415,7 +7415,7 @@
             "1": 1230.0,
             "2": 1360.0,
             "3": 0,
-            "4": "The only one who can keep this\nbaby safe... is me.",
+            "4": "El único que puede mantener a salvo a este\nbebé... soy yo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -7425,7 +7425,7 @@
             "1": 1390.0,
             "2": 1485.0,
             "3": 0,
-            "4": "Maybe, but the guy did have\n<font_kind=yakuza_italic>some</font_kind> logic behind him.",
+            "4": "Quizás, pero el tipo tenía\n<font_kind=yakuza_italic>cierta</font_kind> lógica detrás de él.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -7435,7 +7435,7 @@
             "1": 1500.0,
             "2": 1630.0,
             "3": 0,
-            "4": "People who know you personally are\none thing, but to the rest of the world...",
+            "4": "Las personas que te conocen personalmente\nno son nada, pero para el resto del mundo...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -7445,7 +7445,7 @@
             "1": 1675.0,
             "2": 1750.0,
             "3": 0,
-            "4": "...You're just an ex-con of a yakuza.",
+            "4": "...Sólo eres un ex-convicto yakuza.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -7455,7 +7455,7 @@
             "1": 1835.0,
             "2": 2005.0,
             "3": 0,
-            "4": "I'm sorry. But there's not much we can do\nfor the kid until Haruka-chan wakes up.",
+            "4": "Lo lamento. Pero no hay mucho que podamos \nhacer por el niño hasta que Haruka-chan despierte.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -7465,7 +7465,7 @@
             "1": 2015.0,
             "2": 2130.0,
             "3": 0,
-            "4": "We have to let the authorities\nhandle this how they see fit.",
+            "4": "Tenemos que dejar que las autoridades\nmanejen esto como mejor les parezca.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -7475,7 +7475,7 @@
             "1": 2160.0,
             "2": 2310.0,
             "3": 0,
-            "4": "What if Haruka takes a turn for the worse?\nHer son would...",
+            "4": "¿Qué pasa si Haruka empeora?\nSu hijo...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -7485,7 +7485,7 @@
             "1": 2320.0,
             "2": 2445.0,
             "3": 0,
-            "4": "What are you saying, Kiryu-san?\nDon't even go down that path!",
+            "4": "¿Qué estás diciendo, Kiryu-san?\n¡No elijas ese camino!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -7495,7 +7495,7 @@
             "1": 2480.0,
             "2": 2535.0,
             "3": 0,
-            "4": "How can you know?",
+            "4": "¿Cómo puedes saberlo?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -7505,7 +7505,7 @@
             "1": 2560.0,
             "2": 2645.0,
             "3": 0,
-            "4": "They'd put Haruto in an orphanage for sure.",
+            "4": "De seguro meterían a Haruto en un orfanato.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -7515,7 +7515,7 @@
             "1": 2680.0,
             "2": 2910.0,
             "3": 0,
-            "4": "And if they did, there'd be nothing I could\ndo to help him. We'd be total strangers.",
+            "4": "Y si lo hicieran, no habría nada que pudieramos hacer para ayudarlo. \nSeríamos completos extraños.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -7525,7 +7525,7 @@
             "1": 2960.0,
             "2": 3070.0,
             "3": 0,
-            "4": "I'd never see his face again.",
+            "4": "Nunca volvería a ver su cara.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -7535,7 +7535,7 @@
             "1": 3080.0,
             "2": 3100.0,
             "3": 0,
-            "4": "What?",
+            "4": "¿Cómo?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -7545,7 +7545,7 @@
             "1": 3300.0,
             "2": 3420.0,
             "3": 0,
-            "4": "That's what happens when a child\ngets sent off to an orphanage like that.",
+            "4": "Eso es lo que sucede cuando un niño es enviado \na un orfanato como ese.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -7555,7 +7555,7 @@
             "1": 3450.0,
             "2": 3635.0,
             "3": 0,
-            "4": "No matter how hard I struggle,\nit'll be impossible for me to help him.",
+            "4": "No importa cuánto luche,\nserá imposible para mí ayudarlo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -7565,7 +7565,7 @@
             "1": 3660.0,
             "2": 3760.0,
             "3": 0,
-            "4": "Haruka wouldn't want that\nfor her only child.",
+            "4": "Haruka no querría eso para su único hijo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -7575,7 +7575,7 @@
             "1": 3810.0,
             "2": 3930.0,
             "3": 0,
-            "4": "You see?\nThis is my only chance.",
+            "4": "¿Lo ves?\nEsta es mi única oportunidad.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -7585,7 +7585,7 @@
             "1": 4070.0,
             "2": 4195.0,
             "3": 0,
-            "4": "What are you doing in here?\nGet your hands off that child!",
+            "4": "¿Qué haces aquí?\n¡Quítale las manos de encima a ese niño!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -7595,7 +7595,7 @@
             "1": 4210.0,
             "2": 4295.0,
             "3": 0,
-            "4": "We're in the middle of something here.\nCan you wait outside?",
+            "4": "Estamos en medio de algo aquí.\n¿Puedes esperar afuera?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -7605,7 +7605,7 @@
             "1": 4310.0,
             "2": 4355.0,
             "3": 0,
-            "4": "Absolutely not!",
+            "4": "¡De ninguna manera!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -7615,7 +7615,7 @@
             "1": 4360.0,
             "2": 4525.0,
             "3": 0,
-            "4": "Unhand that child this instant!\nYou think you can get away with this!?",
+            "4": "¡Suelta a ese niño en este instante!\n¿¡Crees que puedes salirte con la tuya!?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -7625,7 +7625,7 @@
             "1": 4725.0,
             "2": 4780.0,
             "3": 0,
-            "4": "I'm taking him with me.",
+            "4": "Me lo llevo conmigo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -7635,7 +7635,7 @@
             "1": 4800.0,
             "2": 4950.0,
             "3": 0,
-            "4": "I'll give him back once Haruka wakes up.\nTrust me.",
+            "4": "Lo devolveré una vez que Haruka despierte.\nConfía en mí.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -7645,7 +7645,7 @@
             "1": 4970.0,
             "2": 5045.0,
             "3": 0,
-            "4": "I can't let you do this, Kiryu-san.",
+            "4": "No puedo dejarte hacer esto, Kiryu-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -7655,7 +7655,7 @@
             "1": 5060.0,
             "2": 5235.0,
             "3": 0,
-            "4": "You'd get taken back in, this time as\na kidnapper. How could I face Haruka?",
+            "4": "Volverias a la Carcel pero esta vez como un secuestrador. \n¿Cómo podría enfrentarme a Haruka?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -7665,7 +7665,7 @@
             "1": 5250.0,
             "2": 5330.0,
             "3": 0,
-            "4": "You'd really do that to her?",
+            "4": "¿De verdad le harías eso?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 28
           }
@@ -7675,7 +7675,7 @@
             "1": 5330.0,
             "2": 5430.0,
             "3": 0,
-            "4": "My choice is made, Akiyama!\nYou can't change my mind.",
+            "4": "¡Ya he tomado mi decision, Akiyama!\nNo puedes hacerme cambiar de opinión.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -7685,7 +7685,7 @@
             "1": 5450.0,
             "2": 5530.0,
             "3": 0,
-            "4": "I'm trying anyway, Kiryu-san.",
+            "4": "Lo intentare de todas formas, Kiryu-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -7695,7 +7695,7 @@
             "1": 5560.0,
             "2": 5695.0,
             "3": 0,
-            "4": "I'm telling you you're making\nthe wrong call here.",
+            "4": "Te digo que te estás equivocando.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -7705,7 +7705,7 @@
             "1": 5760.0,
             "2": 5935.0,
             "3": 0,
-            "4": "For once in your life, think something through!\nYou've gotta consider the consequences!",
+            "4": "Para al menos una vez en tu vida, ¡piensa bien las cosas!\n¡Debes considerar las consecuencias!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 32
           }
@@ -7715,7 +7715,7 @@
             "1": 5935.0,
             "2": 5970.0,
             "3": 0,
-            "4": "Enough!",
+            "4": "¡Suficiente!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 33
           }
@@ -7725,7 +7725,7 @@
             "1": 6110.0,
             "2": 6185.0,
             "3": 0,
-            "4": "You think I don't know this is wrong?",
+            "4": "¿Crees que no sé que esto está mal?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 34
           }
@@ -7735,7 +7735,7 @@
             "1": 6225.0,
             "2": 6365.0,
             "3": 0,
-            "4": "Whatever happens to me doesn't matter,\nand nobody else does either.",
+            "4": "Lo que me pase a mí no importa y \na nadie más tampoco.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 35
           }
@@ -7745,7 +7745,7 @@
             "1": 6405.0,
             "2": 6490.0,
             "3": 0,
-            "4": "I need to protect Haruka's son, now.",
+            "4": "Necesito proteger al hijo de Haruka, ya.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 36
           }
@@ -7755,7 +7755,7 @@
             "1": 6530.0,
             "2": 6570.0,
             "3": 0,
-            "4": "I have to do this.",
+            "4": "Debo hacer esto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -7765,7 +7765,7 @@
             "1": 6595.0,
             "2": 6630.0,
             "3": 0,
-            "4": "Kiryu-san!",
+            "4": "¡Kiryu-san!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -7775,7 +7775,7 @@
             "1": 6660.0,
             "2": 6750.0,
             "3": 0,
-            "4": "If you're dead-set on stopping me...",
+            "4": "Si estás empeñado en detenerme...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -7785,7 +7785,7 @@
             "1": 6800.0,
             "2": 6870.0,
             "3": 0,
-            "4": "...There's only one way forward.",
+            "4": "...Sólo hay un camino a seguir.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 40
           }
@@ -7795,7 +7795,7 @@
             "1": 7215.0,
             "2": 7270.0,
             "3": 0,
-            "4": "Step aside.",
+            "4": "Hazte a un lado.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
@@ -7805,7 +7805,7 @@
             "1": 7280.0,
             "2": 7325.0,
             "3": 0,
-            "4": "Akiyama!",
+            "4": "¡Akiyama!",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 42
           }
@@ -7815,7 +7815,7 @@
             "1": 7325.0,
             "2": 7440.0,
             "3": 0,
-            "4": "Dammit, why won't you listen!?",
+            "4": "¡Maldita sea!, ¿por qué no me escuchas?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 43
           }
@@ -7875,7 +7875,7 @@
             "1": 790.0,
             "2": 910.0,
             "3": 0,
-            "4": "Just a little longer, okay?\nYou must be starving, Eh?",
+            "4": "Solo un poco más, ¿de acuerdo?\nDebes estar muerto de hambre, ¿eh?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -7885,7 +7885,7 @@
             "1": 1020.0,
             "2": 1105.0,
             "3": 0,
-            "4": "You not <font_kind=yakuza_italic>seriously</font_kind> giving\nthat to a baby, are you?",
+            "4": "¿De <font_kind=yakuza_italic>verdad</font_kind> le vas a dar eso a un bebé?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -7905,7 +7905,7 @@
             "1": 1220.0,
             "2": 1345.0,
             "3": 0,
-            "4": "If it's food you're looking for,\ntry something more like this.",
+            "4": "Si lo que buscas es comida,\nprueba algo como esto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -7915,7 +7915,7 @@
             "1": 1415.0,
             "2": 1475.0,
             "3": 0,
-            "4": "You never change, do you?",
+            "4": "Tú nunca cambiaras, ¿verdad?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -7925,7 +7925,7 @@
             "1": 1485.0,
             "2": 1530.0,
             "3": 0,
-            "4": "Still a loose cannon.",
+            "4": "Sigues siendo un bala perdida.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -7985,7 +7985,7 @@
             "1": 50.0,
             "2": 100.0,
             "3": 0,
-            "4": "Haruka?",
+            "4": "¿Haruka?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -7995,7 +7995,7 @@
             "1": 130.0,
             "2": 230.0,
             "3": 0,
-            "4": "What happened?\nWhat's going on with her?",
+            "4": "¿Qué pasa?\n¿Qué está pasando con ella?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -8005,7 +8005,7 @@
             "1": 270.0,
             "2": 445.0,
             "3": 0,
-            "4": "She had to have emergency surgery.\nThey managed to save her life...",
+            "4": "Tuvo que someterse a una cirugía de emergencia.\nConsiguieron salvarle la vida...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -8015,7 +8015,7 @@
             "1": 490.0,
             "2": 550.0,
             "3": 0,
-            "4": "...But she's still comatose.",
+            "4": "...pero sigue en coma.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -8025,7 +8025,7 @@
             "1": 640.0,
             "2": 780.0,
             "3": 0,
-            "4": "The doctors don't know when\nshe'll regain consciousness. Or if.",
+            "4": "Los médicos no saben cuándo\nrecuperará la conciencia. O si.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -8035,7 +8035,7 @@
             "1": 820.0,
             "2": 869.0,
             "3": 0,
-            "4": "No way...",
+            "4": "De ninguna manera...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -8045,7 +8045,7 @@
             "1": 1290.0,
             "2": 1380.0,
             "3": 0,
-            "4": "How did it come to this?",
+            "4": "¿Cómo hemos llegado a esto?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -8055,7 +8055,7 @@
             "1": 1420.0,
             "2": 1560.0,
             "3": 0,
-            "4": "Hey, you went poking your nose\naround Kamurocho today, right?",
+            "4": "Oye, fuiste a meter la nariz por \nKamurocho hoy, ¿verdad?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -8065,7 +8065,7 @@
             "1": 1580.0,
             "2": 1700.0,
             "3": 0,
-            "4": "You learn anything about what\nhappened after Haruka disappeared?",
+            "4": "¿Sabes algo de lo que pasó después \nde la desaparición de Haruka?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -8075,7 +8075,7 @@
             "1": 1765.0,
             "2": 1800.0,
             "3": 0,
-            "4": "Nothing at all.",
+            "4": "Nada en absoluto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -8085,7 +8085,7 @@
             "1": 1845.0,
             "2": 2055.0,
             "3": 0,
-            "4": "She left Okinawa, disappeared for\nthree years, then showed up here.",
+            "4": "Se fue de Okinawa, ella desapareció durante\ntres años y luego reapareció por aquí.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -8095,7 +8095,7 @@
             "1": 2090.0,
             "2": 2140.0,
             "3": 0,
-            "4": "That's all I know.",
+            "4": "Eso es todo lo que sé.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -8105,7 +8105,7 @@
             "1": 2185.0,
             "2": 2225.0,
             "3": 0,
-            "4": "I see.",
+            "4": "Ya veo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -8115,7 +8115,7 @@
             "1": 2250.0,
             "2": 2350.0,
             "3": 0,
-            "4": "In that case, this is probably\nthe only lead we have.",
+            "4": "En ese caso, esta es probablemente\nla única pista que tenemos.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -8125,7 +8125,7 @@
             "1": 2355.0,
             "2": 2435.0,
             "3": 0,
-            "4": "Hm? What's that?",
+            "4": "¿Hm? ¿Qué es eso?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -8135,7 +8135,7 @@
             "1": 2480.0,
             "2": 2565.0,
             "3": 0,
-            "4": "A photo we pulled from Haruka's cell data.",
+            "4": "Una foto que sacamos de los datos del celular de Haruka.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -8145,7 +8145,7 @@
             "1": 2575.0,
             "2": 2710.0,
             "3": 0,
-            "4": "We managed to recover it even though\nthe phone got smashed in the accident.",
+            "4": "Logramos recuperarla a pesar de que\nel teléfono se rompió en el accidente.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -8155,7 +8155,7 @@
             "1": 2760.0,
             "2": 2820.0,
             "3": 0,
-            "4": "Any idea where it was taken?",
+            "4": "¿Alguna idea de dónde fue tomada?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -8165,7 +8165,7 @@
             "1": 2875.0,
             "2": 2940.0,
             "3": 0,
-            "4": "This background tells me nothing.",
+            "4": "Este fondo no me dice nada.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -8175,7 +8175,7 @@
             "1": 2955.0,
             "2": 2975.0,
             "3": 0,
-            "4": "Well...",
+            "4": "Bueno...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -8185,7 +8185,7 @@
             "1": 2980.0,
             "2": 3100.0,
             "3": 0,
-            "4": "Well, we actually managed to pull\nGPS data from the photo too.",
+            "4": "Bueno, también logramos obtener\ndatos GPS de la foto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -8195,7 +8195,7 @@
             "1": 3135.0,
             "2": 3240.0,
             "3": 0,
-            "4": "These crazy phones record the\nexact spot a picture was taken in.",
+            "4": "Estos teléfonos locos registran el\npunto exacto en el que se tomó una foto.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -8205,7 +8205,7 @@
             "1": 3275.0,
             "2": 3350.0,
             "3": 0,
-            "4": "And that spot is, well...",
+            "4": "Y ese lugar es, bueno...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -8215,7 +8215,7 @@
             "1": 3390.0,
             "2": 3435.0,
             "3": 0,
-            "4": "It's in Hiroshima.",
+            "4": "Se encuentra en Hiroshima.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -8225,7 +8225,7 @@
             "1": 3460.0,
             "2": 3495.0,
             "3": 0,
-            "4": "Hiroshima?",
+            "4": "¿Hiroshima?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -8235,7 +8235,7 @@
             "1": 3525.0,
             "2": 3670.0,
             "3": 0,
-            "4": "Yeah, somewhere around Jingaicho,\nin the city of Onomichi.",
+            "4": "Sí, en algún lugar alrededor de Jingaicho,\nen la ciudad de Onomichi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -8245,7 +8245,7 @@
             "1": 3700.0,
             "2": 3880.0,
             "3": 0,
-            "4": "You're telling me Haruka left\nOkinawa to go to Hiroshima?",
+            "4": "¿Me estás diciendo que Haruka se fue\nde Okinawa para ir a Hiroshima?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }

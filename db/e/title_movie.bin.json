@@ -1,0 +1,1337 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 118,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 109,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "chapter": "1",
+    "scene_config": "1",
+    "title": "1",
+    "thumbnail": "1",
+    "thumbnail_movie": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "chapter": 2,
+    "scene_config": 1,
+    "title": 0,
+    "thumbnail": 1,
+    "thumbnail_movie": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "chapter": 0,
+    "scene_config": 1,
+    "title": 12,
+    "thumbnail": 1,
+    "thumbnail_movie": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "0": {
+    "": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "SCN01_015": {
+      "chapter": 1,
+      "scene_config": 1841,
+      "title": "An Open Air Tussle",
+      "thumbnail": 1149,
+      "thumbnail_movie": 77,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "2": {
+    "SCN01_020": {
+      "chapter": 1,
+      "scene_config": 878,
+      "title": "Too Busy For This",
+      "thumbnail": 1150,
+      "thumbnail_movie": 78,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "3": {
+    "SCN01_045": {
+      "chapter": 1,
+      "scene_config": 1426,
+      "title": "Kiryu's Arrest",
+      "thumbnail": 1153,
+      "thumbnail_movie": 81,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "4": {
+    "SCN01_060": {
+      "chapter": 1,
+      "scene_config": 886,
+      "title": "Meeting",
+      "thumbnail": 1154,
+      "thumbnail_movie": 82,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "5": {
+    "SCN01_070": {
+      "chapter": 1,
+      "scene_config": 887,
+      "title": "Awaiting His Return",
+      "thumbnail": 1155,
+      "thumbnail_movie": 83,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "6": {
+    "SCN01_075": {
+      "chapter": 1,
+      "scene_config": 888,
+      "title": "Regret",
+      "thumbnail": 1156,
+      "thumbnail_movie": 84,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "7": {
+    "SCN01_076": {
+      "chapter": 1,
+      "scene_config": 889,
+      "title": "Haruka's Decision",
+      "thumbnail": 1157,
+      "thumbnail_movie": 85,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "8": {
+    "SCN01_090": {
+      "chapter": 1,
+      "scene_config": 893,
+      "title": "Back in Okinawa",
+      "thumbnail": 1159,
+      "thumbnail_movie": 87,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "9": {
+    "SCN01_100": {
+      "chapter": 1,
+      "scene_config": 894,
+      "title": "Vanished",
+      "thumbnail": 1160,
+      "thumbnail_movie": 88,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "10": {
+    "SCN01_110": {
+      "chapter": 1,
+      "scene_config": 2022,
+      "title": "To Kamurocho",
+      "thumbnail": 1161,
+      "thumbnail_movie": 89,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "11": {
+    "SCN01_120": {
+      "chapter": 1,
+      "scene_config": 901,
+      "title": "Tojo Threatened",
+      "thumbnail": 1162,
+      "thumbnail_movie": 90,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "12": {
+    "SCN01_130": {
+      "chapter": 1,
+      "scene_config": 913,
+      "title": "House Call",
+      "thumbnail": 1163,
+      "thumbnail_movie": 91,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "13": {
+    "SCN01_140": {
+      "chapter": 1,
+      "scene_config": 917,
+      "title": "News of the Accident",
+      "thumbnail": 1164,
+      "thumbnail_movie": 92,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "14": {
+    "SCN01_150": {
+      "chapter": 1,
+      "scene_config": 919,
+      "title": "A Nightmare Situation",
+      "thumbnail": 1165,
+      "thumbnail_movie": 93,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "15": {
+    "SCN01_160": {
+      "chapter": 1,
+      "scene_config": 920,
+      "title": "Mysterious Child",
+      "thumbnail": 1166,
+      "thumbnail_movie": 94,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "16": {
+    "SCN02_010": {
+      "chapter": 2,
+      "scene_config": 921,
+      "title": "Haruto Sawamura",
+      "thumbnail": 1167,
+      "thumbnail_movie": 95,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "17": {
+    "PRE01_010": {
+      "chapter": 1,
+      "scene_config": 1669,
+      "title": "In a Certain Bar",
+      "thumbnail": 1148,
+      "thumbnail_movie": 76,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "18": {
+    "PRE01_030": {
+      "chapter": 1,
+      "scene_config": 1670,
+      "title": "A Strange Combination",
+      "thumbnail": 1151,
+      "thumbnail_movie": 79,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "19": {
+    "PRE01_040": {
+      "chapter": 1,
+      "scene_config": 1823,
+      "title": "Events of 2012",
+      "thumbnail": 1152,
+      "thumbnail_movie": 80,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "20": {
+    "PRE01_079": {
+      "chapter": 1,
+      "scene_config": 1747,
+      "title": "Wandering",
+      "thumbnail": 1158,
+      "thumbnail_movie": 86,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "21": {
+    "SCN02_020": {
+      "chapter": 2,
+      "scene_config": 930,
+      "title": "Step Aside",
+      "thumbnail": 1168,
+      "thumbnail_movie": 96,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "22": {
+    "SCN02_030": {
+      "chapter": 2,
+      "scene_config": 931,
+      "title": "Acting Chairman Sugai",
+      "thumbnail": 1169,
+      "thumbnail_movie": 97,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "23": {
+    "SCN02_040": {
+      "chapter": 2,
+      "scene_config": 936,
+      "title": "Showdown with Akiyama",
+      "thumbnail": 1170,
+      "thumbnail_movie": 98,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "24": {
+    "SCN02_050": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "25": {
+    "SCN02_060": {
+      "chapter": 2,
+      "scene_config": 941,
+      "title": "Who's the Father?",
+      "thumbnail": 1172,
+      "thumbnail_movie": 100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "26": {
+    "PRE03_005": {
+      "chapter": 3,
+      "scene_config": 1678,
+      "title": "Jingaicho, Onomichi",
+      "thumbnail": 1173,
+      "thumbnail_movie": 101,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "27": {
+    "SCN03_020": {
+      "chapter": 3,
+      "scene_config": 955,
+      "title": "Tears",
+      "thumbnail": 1174,
+      "thumbnail_movie": 102,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "28": {
+    "SCN03_030": {
+      "chapter": 3,
+      "scene_config": 963,
+      "title": "The Dragon In Despair",
+      "thumbnail": 1175,
+      "thumbnail_movie": 103,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "29": {
+    "SCN03_040": {
+      "chapter": 3,
+      "scene_config": 966,
+      "title": "You're On Our Turf Now",
+      "thumbnail": 1176,
+      "thumbnail_movie": 104,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "30": {
+    "SCN03_050": {
+      "chapter": 3,
+      "scene_config": 971,
+      "title": "Hit By Pitcher",
+      "thumbnail": 1177,
+      "thumbnail_movie": 105,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "31": {
+    "SCN03_060": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "32": {
+    "SCN03_070": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "33": {
+    "SCN03_080": {
+      "chapter": 3,
+      "scene_config": 980,
+      "title": "Nagumo's Pride",
+      "thumbnail": 1180,
+      "thumbnail_movie": 108,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "34": {
+    "SCN03_090": {
+      "chapter": 3,
+      "scene_config": 985,
+      "title": "Love Thy Fellow Man",
+      "thumbnail": 1181,
+      "thumbnail_movie": 109,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "35": {
+    "SCN04_010": {
+      "chapter": 4,
+      "scene_config": 987,
+      "title": "A Casual Patriarch",
+      "thumbnail": 1182,
+      "thumbnail_movie": 110,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "36": {
+    "SCN04_020": {
+      "chapter": 4,
+      "scene_config": 991,
+      "title": "Welcome To Jingaicho",
+      "thumbnail": 1183,
+      "thumbnail_movie": 111,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "37": {
+    "SCN04_030": {
+      "chapter": 4,
+      "scene_config": 999,
+      "title": "Terrible Liars",
+      "thumbnail": 1184,
+      "thumbnail_movie": 112,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "38": {
+    "SCN04_040": {
+      "chapter": 4,
+      "scene_config": 1006,
+      "title": "They're Not So Bad",
+      "thumbnail": 1185,
+      "thumbnail_movie": 113,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "39": {
+    "SCN04_045": {
+      "chapter": 4,
+      "scene_config": 1015,
+      "title": "Captain Koshimizu",
+      "thumbnail": 1186,
+      "thumbnail_movie": 114,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "40": {
+    "SCN04_050": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "41": {
+    "SCN04_060": {
+      "chapter": 4,
+      "scene_config": 1021,
+      "title": "Friends of Haruka",
+      "thumbnail": 1188,
+      "thumbnail_movie": 116,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "42": {
+    "SCN05_010": {
+      "chapter": 5,
+      "scene_config": 1022,
+      "title": "Changing Diapers",
+      "thumbnail": 1189,
+      "thumbnail_movie": 117,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "43": {
+    "PRE05_020": {
+      "chapter": 5,
+      "scene_config": 1680,
+      "title": "Memories of Haruka",
+      "thumbnail": 1190,
+      "thumbnail_movie": 118,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "44": {
+    "SCN05_030": {
+      "chapter": 5,
+      "scene_config": 1028,
+      "title": "A Surprise Visitor",
+      "thumbnail": 1191,
+      "thumbnail_movie": 119,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "45": {
+    "SCN05_040": {
+      "chapter": 5,
+      "scene_config": 1030,
+      "title": "Kiyomi Kidnapped",
+      "thumbnail": 1192,
+      "thumbnail_movie": 120,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "46": {
+    "SCN05_050": {
+      "chapter": 5,
+      "scene_config": 1032,
+      "title": "Cover Yourselves",
+      "thumbnail": 1193,
+      "thumbnail_movie": 121,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "47": {
+    "SCN05_060": {
+      "chapter": 5,
+      "scene_config": 1034,
+      "title": "The Masked Heroes Arrive",
+      "thumbnail": 1194,
+      "thumbnail_movie": 122,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "48": {
+    "SCN05_070": {
+      "chapter": 5,
+      "scene_config": 1036,
+      "title": "In the Sauna",
+      "thumbnail": 1195,
+      "thumbnail_movie": 123,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "49": {
+    "SCN05_080": {
+      "chapter": 5,
+      "scene_config": 1038,
+      "title": "Old vs. New",
+      "thumbnail": 1196,
+      "thumbnail_movie": 124,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "50": {
+    "SCN05_090": {
+      "chapter": 5,
+      "scene_config": 1040,
+      "title": "The Man of Legend",
+      "thumbnail": 1197,
+      "thumbnail_movie": 125,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "51": {
+    "SCN05_110": {
+      "chapter": 5,
+      "scene_config": 1042,
+      "title": "Haruto's Dad",
+      "thumbnail": 1198,
+      "thumbnail_movie": 126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "52": {
+    "SCN06_010": {
+      "chapter": 6,
+      "scene_config": 1045,
+      "title": "We're Off to Kamurocho",
+      "thumbnail": 1199,
+      "thumbnail_movie": 127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "53": {
+    "SCN06_020": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "54": {
+    "SCN06_030": {
+      "chapter": 6,
+      "scene_config": 1057,
+      "title": "Enter Joon-gi Han",
+      "thumbnail": 1201,
+      "thumbnail_movie": 129,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "55": {
+    "SCN06_040": {
+      "chapter": 6,
+      "scene_config": 1065,
+      "title": "The Eden of Tokyo",
+      "thumbnail": 1202,
+      "thumbnail_movie": 130,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "56": {
+    "SCN06_050": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "57": {
+    "SCN06_060": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "58": {
+    "SCN06_070": {
+      "chapter": 6,
+      "scene_config": 1074,
+      "title": "Tatsukawa's Fate",
+      "thumbnail": 1205,
+      "thumbnail_movie": 133,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "59": {
+    "SCN07_020": {
+      "chapter": 7,
+      "scene_config": 1094,
+      "title": "Reunion with Ed",
+      "thumbnail": 1206,
+      "thumbnail_movie": 134,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "60": {
+    "SCN07_030": {
+      "chapter": 7,
+      "scene_config": 1097,
+      "title": "A Familiar Face",
+      "thumbnail": 1207,
+      "thumbnail_movie": 135,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "61": {
+    "SCN07_035": {
+      "chapter": 7,
+      "scene_config": 1099,
+      "title": "Saio Triad Leader, Big Lo",
+      "thumbnail": 1208,
+      "thumbnail_movie": 136,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "62": {
+    "PRE07_040": {
+      "chapter": 7,
+      "scene_config": 1748,
+      "title": "The Secret Of Onomichi",
+      "thumbnail": 1209,
+      "thumbnail_movie": 137,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "63": {
+    "PRE08_005": {
+      "chapter": 8,
+      "scene_config": 1683,
+      "title": "Rage",
+      "thumbnail": 1210,
+      "thumbnail_movie": 138,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "64": {
+    "SCN08_020": {
+      "chapter": 8,
+      "scene_config": 1113,
+      "title": "Someya's Plot",
+      "thumbnail": 1211,
+      "thumbnail_movie": 139,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "65": {
+    "SCN08_030": {
+      "chapter": 8,
+      "scene_config": 1115,
+      "title": "At His Mercy",
+      "thumbnail": 1212,
+      "thumbnail_movie": 140,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "66": {
+    "SCN08_035": {
+      "chapter": 8,
+      "scene_config": 1117,
+      "title": "Haruto Missing",
+      "thumbnail": 1213,
+      "thumbnail_movie": 141,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "67": {
+    "SCN09_010": {
+      "chapter": 9,
+      "scene_config": 1127,
+      "title": "Someya and Kiyomi",
+      "thumbnail": 1214,
+      "thumbnail_movie": 142,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "68": {
+    "SCN09_020": {
+      "chapter": 9,
+      "scene_config": 1129,
+      "title": "All For Love",
+      "thumbnail": 1215,
+      "thumbnail_movie": 143,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "69": {
+    "SCN09_030": {
+      "chapter": 9,
+      "scene_config": 1142,
+      "title": "A Hiroshima Throwdown",
+      "thumbnail": 1216,
+      "thumbnail_movie": 144,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "70": {
+    "SCN09_040": {
+      "chapter": 9,
+      "scene_config": 1145,
+      "title": "Missing No Longer",
+      "thumbnail": 1217,
+      "thumbnail_movie": 145,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "71": {
+    "SCN09_050": {
+      "chapter": 9,
+      "scene_config": 1147,
+      "title": "Haruto's Real Father",
+      "thumbnail": 1218,
+      "thumbnail_movie": 146,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "72": {
+    "SCN10_010": {
+      "chapter": 10,
+      "scene_config": 827,
+      "title": "Haruka And Yuta",
+      "thumbnail": 1219,
+      "thumbnail_movie": 147,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "73": {
+    "PRE10_020": {
+      "chapter": 10,
+      "scene_config": 1637,
+      "title": "Masuzoe Confesses",
+      "thumbnail": 1220,
+      "thumbnail_movie": 148,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "74": {
+    "SCN10_030": {
+      "chapter": 10,
+      "scene_config": 830,
+      "title": "Surprise Attack",
+      "thumbnail": 1221,
+      "thumbnail_movie": 149,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "75": {
+    "SCN10_040": {
+      "chapter": 10,
+      "scene_config": 832,
+      "title": "Upsy-Daisy",
+      "thumbnail": 1222,
+      "thumbnail_movie": 150,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "76": {
+    "SCN10_050": {
+      "chapter": 10,
+      "scene_config": 837,
+      "title": "Iron Fist",
+      "thumbnail": 1223,
+      "thumbnail_movie": 151,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "77": {
+    "SCN10_060": {
+      "chapter": 10,
+      "scene_config": 840,
+      "title": "Yuta's Determination",
+      "thumbnail": 1224,
+      "thumbnail_movie": 152,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "78": {
+    "PRE10_070": {
+      "chapter": 10,
+      "scene_config": 1638,
+      "title": "The Accident",
+      "thumbnail": 1225,
+      "thumbnail_movie": 153,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "79": {
+    "PRE10_090": {
+      "chapter": 10,
+      "scene_config": 1639,
+      "title": "Han's Death",
+      "thumbnail": 1226,
+      "thumbnail_movie": 154,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "80": {
+    "SCN11_010": {
+      "chapter": 11,
+      "scene_config": 2442,
+      "title": "Father-Son Time",
+      "thumbnail": 1227,
+      "thumbnail_movie": 155,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "81": {
+    "SCN11_015": {
+      "chapter": 11,
+      "scene_config": 1818,
+      "title": "Abandon",
+      "thumbnail": 1228,
+      "thumbnail_movie": 156,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "82": {
+    "SCN11_030": {
+      "chapter": 11,
+      "scene_config": 2443,
+      "title": "Little Asia Up in Flames",
+      "thumbnail": 1229,
+      "thumbnail_movie": 157,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "83": {
+    "SCN11_040": {
+      "chapter": 11,
+      "scene_config": 869,
+      "title": "In the Fire",
+      "thumbnail": 1230,
+      "thumbnail_movie": 158,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "84": {
+    "PRE11_050": {
+      "chapter": 11,
+      "scene_config": 1640,
+      "title": "A Tragic Family",
+      "thumbnail": 1231,
+      "thumbnail_movie": 159,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "85": {
+    "SCN11_060": {
+      "chapter": 11,
+      "scene_config": 871,
+      "title": "The Burden of Life",
+      "thumbnail": 1232,
+      "thumbnail_movie": 160,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "86": {
+    "SCN11_070": {
+      "chapter": 11,
+      "scene_config": 874,
+      "title": "Hirose's Identity",
+      "thumbnail": 1233,
+      "thumbnail_movie": 161,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "87": {
+    "PRE11_080": {
+      "chapter": 11,
+      "scene_config": 1641,
+      "title": "The Truth Revealed",
+      "thumbnail": 1234,
+      "thumbnail_movie": 162,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "88": {
+    "PRE12_010": {
+      "chapter": 12,
+      "scene_config": 1742,
+      "title": "Kurusu And Hirose",
+      "thumbnail": 1235,
+      "thumbnail_movie": 163,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "89": {
+    "SCN12_020": {
+      "chapter": 0,
+      "scene_config": 0,
+      "thumbnail": 0,
+      "thumbnail_movie": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "90": {
+    "SCN12_040": {
+      "chapter": 12,
+      "scene_config": 1297,
+      "title": "A Deadly Duel",
+      "thumbnail": 1237,
+      "thumbnail_movie": 165,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "91": {
+    "PRE12_060": {
+      "chapter": 12,
+      "scene_config": 1645,
+      "title": "The Secret Revealed",
+      "thumbnail": 1238,
+      "thumbnail_movie": 166,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "92": {
+    "SCN12_070": {
+      "chapter": 12,
+      "scene_config": 1301,
+      "title": "Hirose's Boss",
+      "thumbnail": 1239,
+      "thumbnail_movie": 167,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "93": {
+    "SCN12_080": {
+      "chapter": 12,
+      "scene_config": 1302,
+      "title": "Hirose Confesses",
+      "thumbnail": 1240,
+      "thumbnail_movie": 168,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "94": {
+    "SCN12_090": {
+      "chapter": 12,
+      "scene_config": 1303,
+      "title": "How It All Began",
+      "thumbnail": 1241,
+      "thumbnail_movie": 169,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "95": {
+    "PRE12_100": {
+      "chapter": 12,
+      "scene_config": 1743,
+      "title": "Hirose's Final Breath",
+      "thumbnail": 1242,
+      "thumbnail_movie": 170,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "96": {
+    "SCN13_010": {
+      "chapter": 13,
+      "scene_config": 1331,
+      "title": "Like Father, Like Son",
+      "thumbnail": 1243,
+      "thumbnail_movie": 171,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "97": {
+    "SCN13_020": {
+      "chapter": 13,
+      "scene_config": 1333,
+      "title": "Farewell",
+      "thumbnail": 1244,
+      "thumbnail_movie": 172,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "98": {
+    "SCN13_030": {
+      "chapter": 13,
+      "scene_config": 1334,
+      "title": "Meeting with Daidoji",
+      "thumbnail": 1245,
+      "thumbnail_movie": 173,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "99": {
+    "SCN13_040": {
+      "chapter": 13,
+      "scene_config": 1335,
+      "title": "Haruka Awakens",
+      "thumbnail": 1246,
+      "thumbnail_movie": 174,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "100": {
+    "SCN13_050": {
+      "chapter": 13,
+      "scene_config": 1347,
+      "title": "Reunited",
+      "thumbnail": 1247,
+      "thumbnail_movie": 175,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "101": {
+    "PRE13_060": {
+      "chapter": 13,
+      "scene_config": 1649,
+      "title": "We'll Show Ourselves Up",
+      "thumbnail": 1248,
+      "thumbnail_movie": 176,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "102": {
+    "PRE13_070": {
+      "chapter": 13,
+      "scene_config": 1650,
+      "title": "Someya Loses Control",
+      "thumbnail": 1249,
+      "thumbnail_movie": 177,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "103": {
+    "PRE13_080": {
+      "chapter": 13,
+      "scene_config": 1651,
+      "title": "My Life For Hers",
+      "thumbnail": 1250,
+      "thumbnail_movie": 178,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "104": {
+    "PRE13_090": {
+      "chapter": 13,
+      "scene_config": 1744,
+      "title": "Terminus",
+      "thumbnail": 1251,
+      "thumbnail_movie": 179,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "105": {
+    "PRE13_100": {
+      "chapter": 13,
+      "scene_config": 1745,
+      "title": "An End to It All",
+      "thumbnail": 1252,
+      "thumbnail_movie": 180,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "106": {
+    "PRE13_110": {
+      "chapter": 13,
+      "scene_config": 1659,
+      "title": "For the People I Love",
+      "thumbnail": 1253,
+      "thumbnail_movie": 181,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "107": {
+    "PRE13_120": {
+      "chapter": 13,
+      "scene_config": 1660,
+      "title": "Mother and Daughter",
+      "thumbnail": 1254,
+      "thumbnail_movie": 182,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "108": {
+    "SCN13_130": {
+      "chapter": 13,
+      "scene_config": 1371,
+      "title": "The Sixth Chairman Returns",
+      "thumbnail": 1255,
+      "thumbnail_movie": 183,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "109": {
+    "PRE13_140": {
+      "chapter": 13,
+      "scene_config": 1661,
+      "title": "The Letter",
+      "thumbnail": 1256,
+      "thumbnail_movie": 184,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "110": {
+    "SCN13_150": {
+      "chapter": 13,
+      "scene_config": 1373,
+      "title": "His Father's Will",
+      "thumbnail": 1257,
+      "thumbnail_movie": 185,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "111": {
+    "PRE13_160": {
+      "chapter": 13,
+      "scene_config": 1746,
+      "title": "Toward the Future",
+      "thumbnail": 1258,
+      "thumbnail_movie": 186,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "112": {
+    "PRE02_050": {
+      "chapter": 2,
+      "scene_config": 2481,
+      "title": "A Helping Hand",
+      "thumbnail": 1171,
+      "thumbnail_movie": 99,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "113": {
+    "PRE03_060": {
+      "chapter": 3,
+      "scene_config": 2482,
+      "title": "Recurrence",
+      "thumbnail": 1178,
+      "thumbnail_movie": 106,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "114": {
+    "PRE06_020": {
+      "chapter": 6,
+      "scene_config": 2483,
+      "title": "A Lesson in Manners",
+      "thumbnail": 1200,
+      "thumbnail_movie": 128,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "115": {
+    "PRE06_050": {
+      "chapter": 6,
+      "scene_config": 2484,
+      "title": "Instinct Laid Bare",
+      "thumbnail": 1203,
+      "thumbnail_movie": 131,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "116": {
+    "PRE06_060": {
+      "chapter": 6,
+      "scene_config": 2485,
+      "title": "Sportsmanship",
+      "thumbnail": 1204,
+      "thumbnail_movie": 132,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "117": {
+    "PRE12_020": {
+      "chapter": 12,
+      "scene_config": 2480,
+      "title": "The Night Of The Fire",
+      "thumbnail": 1236,
+      "thumbnail_movie": 164,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  }
+}
