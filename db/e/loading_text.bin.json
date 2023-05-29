@@ -140,7 +140,7 @@
   },
   "2": {
     "aniki": {
-      "text": "Aniki\n \nEs un término que se traduce aproximadamente como \"hermano mayor\", y se usa comúnmente para hacer referencia a un miembro más antiguo de una\norganización yakuza.",
+      "text": "Aniki\n \nEs un término que se traduce aproximadamente como \"hermano mayor\", y se \nusa comúnmente para hacer referencia a un miembro más antiguo de una\norganización yakuza.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "1",
@@ -163,7 +163,7 @@
   },
   "3": {
     "shun_akiyama": {
-      "text": "Shun Akiyama\n \nFundador de Finanzas del Cielo, una empresa de préstamos con sede en Kamurocho que le hizo con el apodo. \"El salvavidas de Kamurocho.\"",
+      "text": "Shun Akiyama\n \nFundador de Finanzas del Cielo, una empresa de préstamos con sede \nen Kamurocho que le hizo con el apodo. \"El salvavidas de Kamurocho.\"",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -186,7 +186,7 @@
   },
   "4": {
     "new_serena": {
-      "text": "New Serena\n\nLa segunda versión del bar Serena, que cerró tras la muerte de su propietaria original, Reina. Uno de los lugares habituales de Kiryu y Date.",
+      "text": "New Serena\n\nLa segunda versión del bar Serena, que cerró tras la muerte de su \npropietaria original, Reina. Uno de los lugares habituales de Kiryu y Date.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -278,7 +278,7 @@
   },
   "8": {
     "the_tojo_clan": {
-      "text": "El clan Tojo\n\nLa facción yakuza reinante en la región de Kanto, con sede en Tokio.\nCon sus miembros principales en prisión, su control sobre el territorio está disminuyendo.",
+      "text": "El clan Tojo\n\nLa facción yakuza reinante en la región de Kanto, con sede en Tokio.\nCon sus miembros principales en prisión, su control \nsobre el territorio está disminuyendo.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -577,7 +577,7 @@
   },
   "21": {
     "history_of_the_tojo_clan_3": {
-      "text": "Historia del clan Tojo\n\nNo mucho después de su ascenso a capitán del clan, Masaru Sera se convirtió\nen el tercer presidente. Sus lazos políticos lo llevaron a una era de prosperidad, pero cuando desaparecieron diez mil millones de yenes, fue asesinado en 2005.",
+      "text": "Historia del clan Tojo\n\nNo mucho después de su ascenso a capitán del clan, Masaru Sera se convirtió\nen el tercer presidente. Sus lazos políticos lo llevaron a una era de \nprosperidad, pero cuando desaparecieron diez mil millones de yenes, \nfue asesinado en 2005.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -623,7 +623,7 @@
   },
   "23": {
     "history_of_the_tojo_clan_5": {
-      "text": "Historia del Clan Tojo\n\nKazuma Kiryu pasó la presidencia al quinto presidente, Yukio\nTerada. Pero Terada se vio comprometida de una manera que casi lo llevó a una guerra con la Mafia Jingweon y la Alianza Omi.",
+      "text": "Historia del Clan Tojo\n\nKazuma Kiryu pasó la presidencia al quinto presidente, Yukio\nTerada. Pero Terada se vio comprometida de una manera que casi lo llevó a una \nguerra con la Mafia Jingweon y la Alianza Omi.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -646,7 +646,7 @@
   },
   "24": {
     "history_of_the_tojo_clan_6": {
-      "text": "Historia del Clan Tojo\n\nSin un presidente en 2006, el Clan Tojo se mantuvo unido por\nOsamu Kashiwagi y la viuda de Sohei Dojima, Yayoi Dojima, hasta que su\nhijo, Daigo Dojima, se convirtió en el sexto presidente ante la insistencia de Kiryu.",
+      "text": "Historia del Clan Tojo\n\nSin un presidente en 2006, el Clan Tojo se mantuvo unido por\nOsamu Kashiwagi y la viuda de Sohei Dojima, Yayoi Dojima, hasta que su\nhijo, Daigo Dojima, se convirtió en el sexto presidente ante la insistencia \nde Kiryu.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -692,7 +692,7 @@
   },
   "26": {
     "the_jingweon_massacre": {
-      "text": "La masacre de Jingweon\n\nA principios de la década de 1980, dos miembros de la familia Dojima tendieron una emboscada\na este sindicato mafioso coreano y mataron a casi todos sus miembros. El Jingweon nunca olvidó y nunca perdonó.",
+      "text": "La masacre de Jingweon\n\nA principios de la década de 1980, dos miembros de la familia Dojima tendieron una emboscada\na este sindicato mafioso coreano y mataron a casi todos sus miembros. \nEl Jingweon nunca olvidó y nunca perdonó.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -738,7 +738,7 @@
   },
   "28": {
     "the_ropeway": {
-      "text": "El teleférico\n\nAl visitar Onomichi, sería un error no tomar\nel teleférico en el viaje hacia la colina del Templo Senkoji.\nLa mayoría de los visitantes eligen subir en el teleférico y bajar caminando.",
+      "text": "El teleférico\n\nAl visitar Onomichi, sería un error no tomar\nel teleférico en el viaje hacia la colina del Templo Senkoji.\nLa mayoría de los visitantes eligen subir en el teleférico y \nbajar caminando.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -807,7 +807,7 @@
   },
   "31": {
     "mikan": {
-      "text": "Mikan\n\nUna golosina de invierno favorita en el oeste de Japón, la mikan es una variedad de mandarina pequeña y fácil de pelar. Son abundantes en las islas frente a la costa de \nOnomichi.",
+      "text": "Mikan\n\nUna golosina de invierno favorita en el oeste de Japón, la mikan es \nuna variedad de mandarina pequeña y fácil de pelar. Son abundantes en las islas frente a la costa de \nOnomichi.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -830,7 +830,7 @@
   },
   "32": {
     "onomichi_ramen": {
-      "text": "Onomichi Ramen\n\nCada región de Japón tiene su propio estilo de fideos, y Onomichi\nno es diferente. Este ramen se destaca por sus fideos rectos y trozos de grasa de cerdo que flotan en un caldo a base de salsa de soya.",
+      "text": "Onomichi Ramen\n\nCada región de Japón tiene su propio estilo de fideos, y Onomichi\nno es diferente. Este ramen se destaca por sus fideos rectos y trozos \nde grasa de cerdo que flotan en un caldo a base de salsa de soya.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -853,7 +853,7 @@
   },
   "33": {
     "jingaicho_onomichi": {
-      "text": "Jingaicho, Onomichi\n\nCalles tranquilas bordeadas por letreros suavemente iluminados de bares de snacks, \nJingaicho alberga numerosos bares que atienden a los lugareños.\nA menudo dirigidos por una sola \"mamá\", atienden a una clientela que busca una bebida y una conversación.",
+      "text": "Jingaicho, Onomichi\n\nCalles tranquilas bordeadas por letreros suavemente iluminados de bares de snacks, \nJingaicho alberga numerosos bares que atienden a los lugareños.\nA menudo dirigidos por una sola \"Mamá\", atienden a una clientela \nque busca una bebida y una conversación.",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
@@ -1014,7 +1014,7 @@
   },
   "40": {
     "shintaro_kazama": {
-      "text": "Shintaro Kazama\n\nEl fundador del orfanato \"el girasol\", donde tanto Kiryu como Haruka se criaron. Era un yakuza modelo, ganándose la confianza y el respeto de toda la ciudad. Kiryu lo consideraba un padre.",
+      "text": "Shintaro Kazama\n\nEl fundador del orfanato \"el girasol\", donde tanto Kiryu como Haruka \nse criaron. Era un yakuza modelo, ganándose la confianza y el respeto \nde toda la ciudad. Kiryu lo consideraba un padre.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1175,7 +1175,7 @@
   },
   "47": {
     "kamurocho": {
-      "text": "Kamurocho\n\nUna ciudad de Tokio, este distrito de luz roja alberga clubes de cabaret, casas de juego, una vida nocturna próspera y todos los males que la acompañan.",
+      "text": "Kamurocho\n\nUna ciudad de Tokio, este distrito de luz roja alberga clubes de cabaret, \ncasas de juego, una vida nocturna próspera y todos los males que la acompañan.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1267,7 +1267,7 @@
   },
   "51": {
     "green_marks_the_spot": {
-      "text": "El color verde marca el lugar\n\n¿Sabía que puede marcar un punto de destino en el mapa? Presiona el botón\nX en el mapa para marcar algun sitio de interes y aparecerán una flecha verde en tu minimapa que te indicarán cómo llegar.",
+      "text": "El color verde marca el lugar\n\n¿Sabía que puede marcar un punto de destino en el mapa? Presiona el botón\nX en el mapa para marcar algun sitio de interes y aparecerán una \nflecha verde en tu minimapa que te indicarán cómo llegar.",
       "is_tgs": "0",
       "is_1syo": "1",
       "is_2syo": "1",
@@ -1520,7 +1520,7 @@
   },
   "62": {
     "vending_machines": {
-      "text": "Máquinas expendedoras\n\nEl \"jido hanbaiki\" (en japonés) es una maravilla mundial, que dispensa todo tipo\ndelicias consumibles, desde té hasta café y cerveza, ¡en variedades frías y calientes!",
+      "text": "Máquinas expendedoras\n\nEl \"jido hanbaiki\" (en japonés) es una maravilla mundial, que dispensa todo tipo\ndelicias consumibles, desde té hasta café y cerveza, ¡en \nvariedades frías y calientes!",
       "is_tgs": "0",
       "is_1syo": "0",
       "is_2syo": "0",
