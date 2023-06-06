@@ -1,0 +1,21 @@
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\bin\Debug\Instalador de la Traduccion Yakuza 6.exe.config
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\bin\Debug\Instalador de la Traduccion Yakuza 6.exe
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\bin\Debug\Instalador de la Traduccion Yakuza 6.pdb
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.csprojResolveAssemblyReference.cache
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Form1.resources
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Properties.Resources.resources
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.csproj.GenerateResource.Cache
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.exe
+c:\users\sebas\favorites\documents\visual studio 2013\Projects\Install_trad_y6\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.pdb
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Form1.resources
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Form2.resources
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\bin\Debug\Sistema de Inventarios Almacen.exe.config
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\bin\Debug\Sistema de Inventarios Almacen.exe
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\bin\Debug\Sistema de Inventarios Almacen.pdb
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Productos.resources
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\almacen_inventario.Properties.Resources.resources
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Sistema de Inventarios Almacen.exe
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Sistema de Inventarios Almacen.pdb
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\yakuza_ps3\Instalador de la Traduccion Yakuza 6\obj\Debug\Instalador de la Traduccion Yakuza 6.csproj.CoreCompileInputs.cache
