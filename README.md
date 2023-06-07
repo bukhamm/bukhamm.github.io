@@ -1,5 +1,5 @@
-# Traduccion al Español de Yakuza 6
-Esta Traduccion sera Compatible con:
+# Tesis Tap
+Proyecto de Titulacion:
 
 
-PS4 - STEAM y Gamepass
+AIEP
