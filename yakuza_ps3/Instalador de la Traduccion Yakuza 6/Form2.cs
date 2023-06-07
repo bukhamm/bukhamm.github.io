@@ -87,5 +87,14 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         {
 
         }
+
+        private void GoToFormProductos_Click(object sender, EventArgs e)
+        {
+            Productos tap = new Productos();
+
+            tap.Show();
+            
+            
+        }
     }
 }

@@ -36,8 +36,8 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
         public void partool_path_button_Click(object sender, EventArgs e)
         {
-            Productos tap = new Productos();
-            tap.Show();
+            //Productos tap = new Productos();
+           // tap.Show();
             FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog();
 
             if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
