@@ -17,15 +17,19 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             InitializeComponent();
             //Postre Trencito #Producto1
             postre_trencito = 4;//Ira en la Base de Datos
+            precio_trencito = 590;//Ira en la Base de Datos
+            string trencito_precio = precio_trencito.ToString();
             string trencito_postre = postre_trencito.ToString();
             stock.Text = trencito_postre; //Stock de Postres Trencito
             categoria_postres = "Postres";//Ira en la Base de Datos
             category1.Text = categoria_postres; //Categoria de Postres Trencito
+            label4.Text = "$" + trencito_precio;
             //---------------------------------------------------
         }
 
         public int postre_trencito { get; set; }
         public string categoria_postres { get; set; }
+        public int precio_trencito { get; set; }
 
         private void Productos_Load(object sender, EventArgs e)
         {
@@ -116,6 +120,11 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
 
             */
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
