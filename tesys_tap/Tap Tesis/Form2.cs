@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.IO;
+using almacen_inventario;
 
 namespace Instalador_de_la_Traduccion_Yakuza_6
 {
@@ -95,6 +96,12 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             tap.Show();
             
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Conexion.Conectar();
+            MessageBox.Show("Se ha conectado a la Base de Datos");
         }
     }
 }
