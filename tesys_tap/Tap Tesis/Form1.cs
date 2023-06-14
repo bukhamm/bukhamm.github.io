@@ -12,6 +12,8 @@ using System.IO;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Net;
 using System.Security.Policy;
+using almacen_inventario;
+using System.Data.SqlClient;
 
 namespace Instalador_de_la_Traduccion_Yakuza_6
 {
@@ -89,6 +91,22 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
             //Se crea el comando de la instalacion:
 
+            // Crea la consulta SQL para leer los datos
+            string query = "SELECT Nombre, Precio, Stock, Categoria FROM Productos";
+            // using (SqlCommand command = new SqlCommand(query, Conexion))
+            // {
+            Conexion.Conectar();
+            // }
+            // Crea un objeto SqlDataReader para leer los datos
+            using (SqlDataReader reader = Command.ExecuteReader())
+            {
+                // Crea una DataTable para almacenar los datos leídos
+                DataTable dataTable = new DataTable();
+                dataTable.Load(reader);
+
+                // Asigna la DataTable como origen de datos del DataGridView
+                dataGridView1.DataSource = dataTable;
+            }
 
             // Creating a file
             string myfile = @"file.bat";
