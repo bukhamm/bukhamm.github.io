@@ -14,6 +14,7 @@ using System.Net;
 using System.Security.Policy;
 using almacen_inventario;
 using System.Data.SqlClient;
+using System.Reflection.Emit;
 
 namespace Instalador_de_la_Traduccion_Yakuza_6
 {
@@ -25,21 +26,33 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         {
             InitializeComponent();
 
+            NombreJuego = "Yakuza Kiwami 2";
+            Steam = "Steam"; //BLUS (USA)
+            Gamepass = "Gamepass"; //BLES (Europe)
+            label3.Text = Steam;
+            label4.Text = Gamepass;
+            directorio = "Selecciona el directorio donde Instalaste " + NombreJuego + "."; //Directorio del Juego en Formato Carpeta:
+            label1.Text = directorio;
             urls = new List<string>();
-            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/devil.self");
-            urls.Add("http://yakuzatraduccion.260mb.net/character_full_model_data.bin");
-            urls.Add("http://yakuzatraduccion.260mb.net/character_parts_model_data.bin");
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass.dds"); //Gampass > "yakuza.dds" > Archivo1
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/db.par");//Steam > "db.par" > Archivo2
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepassitalic.dds");//Gampass > "yakuza_italic.dds" > Archivo3
             // Agrega las URL de los archivos que deseas descargar
 
             currentDownloadIndex = 0;
         }
 
         public string ps3_folder { get; set; }
+        public string NombreJuego { get; set; }
+        public string Steam { get; set; }
+        public string Gamepass { get; set; }
+        public string directorio { get; set; }
+
 
         public void partool_path_button_Click(object sender, EventArgs e)
         {
             //Productos tap = new Productos();
-           // tap.Show();
+            // tap.Show();
             FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog();
 
             if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
@@ -116,7 +129,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             {
                 sw.WriteLine("@echo off");
                 sw.WriteLine("color 0a");
-                sw.WriteLine("echo Se ha creado la carpeta " + region_game + " en su Escritorio");
+                sw.WriteLine("echo Se ha creado la carpeta " + query + " en su Escritorio");
                 sw.WriteLine("echo ahora Instale el juego en su PS3, si ya lo tenia instalado o termino su instalacion haga lo siguiente:");
                 sw.WriteLine("echo ahora tiene que traspasar la carpeta " + region_game + " a su PS3 mediante FTP (puede usar Filezilla) o copiando");
                 sw.WriteLine("echo la carpeta " + region_game + " en un dispositivo USB para posteriormente insertarla en su PS3");
@@ -148,11 +161,22 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             region_game = "BLUS30494";
+            //backup: string destino = $"C:\\Users\\sebas\\Desktop\\po\\Aarshivo{currentDownloadIndex + 1}.yk2"; // Ruta de destino donde se guardará el archivo
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             region_game = "BLES00834";
+            string myfile = @"leeme.txt";
+
+            // Overwriting to the above existing file
+            using (StreamWriter sw = File.CreateText(myfile))
+            {
+                sw.WriteLine("En la version de Gamepass hay letras como ¡,¿,í entre otras que van a tener separacion");
+                sw.WriteLine("Esto pasa por que no nos deja manipular el .exe para parcharlo y arreglar ese problema");
+                sw.WriteLine("Saluda Atte.");
+                sw.WriteLine("                                       Traducciones Majimomos.");
+            }
         }
 
         private void btnDownload_Click(object sender, EventArgs e)
@@ -160,7 +184,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             if (urls.Count > 0)
             {
                 string url = urls[currentDownloadIndex];
-                string destino = $"C:\\Users\\sebas\\Desktop\\po\\Aarshivo{currentDownloadIndex + 1}.zip"; // Ruta de destino donde se guardará el archivo
+                string destino = $"{ps3_folder}\\Aarshivo{currentDownloadIndex + 1}.yk2"; // Ruta de destino donde se guardará el archivo
 
                 WebClient client = new WebClient();
 
@@ -179,13 +203,14 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         {
             // Mostrar el progreso de la descarga en una ProgressBar
             progressBar.Value = e.ProgressPercentage;
+            label2.Text = "Descargando Archivos de la Traduccion...";
         }
 
         private void Client_DownloadFileCompleted(object sender, System.ComponentModel.AsyncCompletedEventArgs e)
         {
             // Mostrar un mensaje cuando se complete la descarga del archivo actual
-            MessageBox.Show($"Descarga del archivo {currentDownloadIndex + 1} completada.");
-
+            //MessageBox.Show($"Descarga del archivo {currentDownloadIndex + 1} completada.");
+            label2.Text = "Se ha Descargado uno de los Archivos de la Traduccion";
             currentDownloadIndex++;
 
             if (currentDownloadIndex < urls.Count)
@@ -196,7 +221,68 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             else
             {
                 // Se completó la descarga de todos los archivos
-                MessageBox.Show("Descarga de todos los archivos completada.");
+                //MessageBox.Show("Descarga de todos los archivos completada.");
+                label2.Text = "Se han descargado todos los archivos de la traduccion";
+                string archivoRuta = $"{ps3_folder}\\Aarshivo1.yk2";
+                string nuevoNombre = "yakuza.dds";
+
+                // Verificar si el archivo existe
+                if (File.Exists(archivoRuta))
+                {
+                    string directorio = Path.GetDirectoryName(archivoRuta); //El "directorio" es sacado de "archivoRuta"
+                    string nuevoRuta = Path.Combine(directorio, nuevoNombre); 
+
+                    // Renombrar el archivo
+                    File.Move(archivoRuta, nuevoRuta);
+
+                    //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
+                    label2.Text = "Instalando Traduccion... 19%";
+                }
+                else
+                {
+                    label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
+                }
+
+                string kisei = $"{ps3_folder}\\Aarshivo2.yk2";
+                string katai = "db.par"; 
+
+                // Verificar si el archivo existe
+                if (File.Exists(kisei))
+                {
+                    string haruka = Path.GetDirectoryName(kisei); //El "directorio" es sacado de "archivoRuta"
+                    string majima = Path.Combine(haruka, katai);
+
+                    // Renombrar el archivo
+                    File.Move(kisei , majima);
+
+                    //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
+                    label2.Text = "Instalando Traduccion... 82%";
+                }
+                else
+                {
+                    label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
+                }
+
+                string Alike = $"{ps3_folder}\\Aarshivo3.yk2";
+                string Anike = "yakuza_italic.dds"; 
+
+                // Verificar si el archivo existe
+                if (File.Exists(Alike))
+                {
+                    string Aniki = Path.GetDirectoryName(Alike); //El "directorio" es sacado de "archivoRuta"
+                    string EsMiAniki = Path.Combine(Aniki, Anike);
+
+                    // Renombrar el archivo
+                    File.Move(Alike, EsMiAniki);
+
+                    //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
+                    label2.Text = "Instalando Traduccion... 100%";
+                }
+                else
+                {
+                    label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
+                }
+
             }
         }
     }

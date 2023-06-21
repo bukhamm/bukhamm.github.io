@@ -100,8 +100,11 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Conexion.Conectar();
-            MessageBox.Show("Se ha conectado a la Base de Datos");
+            Form1 tap = new Form1();
+
+            tap.Show();
+            //Conexion.Conectar();
+            //MessageBox.Show("Se ha conectado a la Base de Datos");
         }
 
         private void button3_Click(object sender, EventArgs e)

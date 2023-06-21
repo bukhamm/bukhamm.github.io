@@ -1,0 +1,4 @@
+En la version de Gamepass hay letras como ¡,¿,í entre otras que van a tener separacion
+Esto pasa por que no nos deja manipular el .exe para parcharlo y arreglar ese problema
+Saluda Atte.
+                                       Traducciones Majimomos.
