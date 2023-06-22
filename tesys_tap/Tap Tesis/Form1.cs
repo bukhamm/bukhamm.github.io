@@ -31,12 +31,13 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             Gamepass = "Gamepass"; //BLES (Europe)
             label3.Text = Steam;
             label4.Text = Gamepass;
-            directorio = "Selecciona el directorio donde Instalaste " + NombreJuego + "."; //Directorio del Juego en Formato Carpeta:
+            directorio = ""; //Directorio del Juego en Formato Carpeta:
             label1.Text = directorio;
             urls = new List<string>();
-            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass.dds"); //Gampass > "yakuza.dds" > Archivo1
-            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/db.par");//Steam > "db.par" > Archivo2
-            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepassitalic.dds");//Gampass > "yakuza_italic.dds" > Archivo3
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/wea.par"); //Gampass > "yakuza.dds" > Archivo1
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/majimomos.yk2");//Steam > "db.par" > Archivo2
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass.dds");//Gampass > "yakuza_italic.dds" > Archivo3
+            urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass_italic.dds");//Steam .exe parchado > Archivo4
             // Agrega las URL de los archivos que deseas descargar
 
             currentDownloadIndex = 0;
@@ -184,7 +185,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             if (urls.Count > 0)
             {
                 string url = urls[currentDownloadIndex];
-                string destino = $"{ps3_folder}\\Aarshivo{currentDownloadIndex + 1}.yk2"; // Ruta de destino donde se guardará el archivo
+                string destino = $"{ps3_folder}\\YakuzaKiwami{currentDownloadIndex + 1}.exe"; // Ruta de destino donde se guardará el archivo
 
                 WebClient client = new WebClient();
 
@@ -225,7 +226,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 label2.Text = "Se han descargado todos los archivos de la traduccion";
                 string archivoRuta = $"{ps3_folder}\\Aarshivo1.yk2";
                 string nuevoNombre = "yakuza.dds";
-
+                File.Delete($"{ps3_folder}\\data\\db.par");
                 // Verificar si el archivo existe
                 if (File.Exists(archivoRuta))
                 {
@@ -242,8 +243,29 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 {
                     label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
                 }
+                //Esta listo para que 
+                //Xules lo testee
+                string archivoRuta1 = $"{ps3_folder}\\YakuzaKiwami2.exe";
+                string nuevoNombre1 = "YakuzaKiwami2.exe";
 
-                string kisei = $"{ps3_folder}\\Aarshivo2.yk2";
+                // Verificar si el archivo existe
+                if (File.Exists(archivoRuta))
+                {
+                    string directorio1 = Path.GetDirectoryName(archivoRuta1); //El "directorio" es sacado de "archivoRuta"
+                    string nuevoRuta1 = Path.Combine(directorio1, nuevoNombre1);
+
+                    // Renombrar el archivo
+                    File.Move(archivoRuta1, nuevoRuta1);
+
+                    //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
+                    label2.Text = "Instalando Traduccion... 50%";
+                }
+                else
+                {
+                    label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
+                }
+
+                string kisei = $"{ps3_folder}\\YakuzaKiwami1.exe";
                 string katai = "db.par"; 
 
                 // Verificar si el archivo existe
@@ -251,8 +273,9 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 {
                     string haruka = Path.GetDirectoryName(kisei); //El "directorio" es sacado de "archivoRuta"
                     string majima = Path.Combine(haruka, katai);
-
+                    string weademierda = $"{ps3_folder}\\data\\db.par";
                     // Renombrar el archivo
+                    File.Delete(weademierda);
                     File.Move(kisei , majima);
 
                     //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
@@ -263,7 +286,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                     label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
                 }
 
-                string Alike = $"{ps3_folder}\\Aarshivo3.yk2";
+                string Alike = $"{ps3_folder}\\YakuzaKiwami4.exe";
                 string Anike = "yakuza_italic.dds"; 
 
                 // Verificar si el archivo existe
@@ -273,6 +296,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                     string EsMiAniki = Path.Combine(Aniki, Anike);
 
                     // Renombrar el archivo
+                    //File.Delete(Alike);
                     File.Move(Alike, EsMiAniki);
 
                     //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
@@ -282,8 +306,54 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 {
                     label2.Text = "Ha ocurrido un error al Instalar la Traduccion de " + NombreJuego;
                 }
+                //Ahora se movera la traduccion al lugar que corrresponde
+
+                string archivoOrigen = $"{ps3_folder}\\db.par";
+                string directorioDestino = $"{ps3_folder}\\data";
+
+                // Verificar si el archivo existe
+                if (File.Exists(archivoOrigen))
+                {
+                    // Crear el directorio de destino si no existe
+                    if (!Directory.Exists(directorioDestino))
+                    {
+                        Directory.CreateDirectory(directorioDestino);
+                    }
+
+                    string nombreArchivo = Path.GetFileName(archivoOrigen);
+                    string rutaDestino = Path.Combine(directorioDestino, nombreArchivo);
+
+                    // Mover el archivo al directorio de destino
+                    File.Move(archivoOrigen, rutaDestino);
+
+                    label2.Text = "Finalizando Instalacion...";
+                }
+                else
+                {
+                    label2.Text = "Ha fallado la Instalacion de la Traduccion";
+                }
+                File.Delete($"{ps3_folder}\\YakuzaKiwami4.exe");
+                File.Delete($"{ps3_folder}\\YakuzaKiwami3.exe");
+                File.Delete($"{ps3_folder}\\YakuzaKiwami1.exe");
+                label2.Text = "Se ha completado con exito la instalacion";
 
             }
+        }
+
+        private void tesystapDataSet1BindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // TODO: esta línea de código carga datos en la tabla 'tesys_tapDataSet3.Salidas' Puede moverla o quitarla según sea necesario.
+            this.salidasTableAdapter.Fill(this.tesys_tapDataSet3.Salidas);
+            // TODO: esta línea de código carga datos en la tabla 'tesys_tapDataSet2.PRODUCTOS' Puede moverla o quitarla según sea necesario.
+            this.pRODUCTOSTableAdapter.Fill(this.tesys_tapDataSet2.PRODUCTOS);
+            // TODO: esta línea de código carga datos en la tabla 'tesys_tapDataSet1.Entradas' Puede moverla o quitarla según sea necesario.
+            this.entradasTableAdapter.Fill(this.tesys_tapDataSet1.Entradas);
+
         }
     }
 }

@@ -1,6 +1,3 @@
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Sistema de Inventarios Almacen.exe.config
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Sistema de Inventarios Almacen.exe
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Sistema de Inventarios Almacen.pdb
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.AssemblyReference.cache
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Form1.resources
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Instalador_de_la_Traduccion_Yakuza_6.Form2.resources
@@ -8,11 +5,15 @@ C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debu
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Properties.Resources.resources
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.GenerateResource.cache
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.CoreCompileInputs.cache
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Sistema de Inventarios Almacen.exe
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Sistema de Inventarios Almacen.pdb
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\selenium-manager\linux\selenium-manager
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\selenium-manager\macos\selenium-manager
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\selenium-manager\windows\selenium-manager.exe
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\WebDriver.dll
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Form3.resources
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.CopyComplete
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.exe.config
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.exe
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.pdb
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.exe
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.pdb
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Resources.Resource1.resources
