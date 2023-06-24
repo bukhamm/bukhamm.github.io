@@ -17,3 +17,4 @@ C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debu
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.exe
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.pdb
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Resources.Resource1.resources
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.inventario.resources

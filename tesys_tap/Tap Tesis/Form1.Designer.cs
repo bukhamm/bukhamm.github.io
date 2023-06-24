@@ -29,6 +29,14 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle49 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle50 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle51 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle52 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle53 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle54 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle55 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle56 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label1 = new System.Windows.Forms.Label();
             this.ps3_folder_path = new System.Windows.Forms.TextBox();
             this.partool_path_button = new System.Windows.Forms.Button();
@@ -36,54 +44,62 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.progressBar = new System.Windows.Forms.ProgressBar();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.boton_para_desechar = new System.Windows.Forms.Button();
             this.btnDownload = new System.Windows.Forms.Button();
-            this.progressBar = new System.Windows.Forms.ProgressBar();
             this.label2 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.tesys_tapDataSet1 = new almacen_inventario.tesys_tapDataSet1();
-            this.tesystapDataSet1BindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.entradasBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.entradasTableAdapter = new almacen_inventario.tesys_tapDataSet1TableAdapters.EntradasTableAdapter();
             this.cODIGODataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.aRTICULODataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.fECHADataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cANTIDADDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.entradasBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.tesystapDataSet1BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.tesys_tapDataSet1 = new almacen_inventario.tesys_tapDataSet1();
+            this.entradasTableAdapter = new almacen_inventario.tesys_tapDataSet1TableAdapters.EntradasTableAdapter();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
-            this.tesys_tapDataSet2 = new almacen_inventario.tesys_tapDataSet2();
-            this.pRODUCTOSBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.pRODUCTOSTableAdapter = new almacen_inventario.tesys_tapDataSet2TableAdapters.PRODUCTOSTableAdapter();
             this.cODIGODataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.aRTICULODataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.eNTRADASDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.sALIDASDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.sTOCKDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.pRODUCTOSBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.tesys_tapDataSet2 = new almacen_inventario.tesys_tapDataSet2();
+            this.pRODUCTOSTableAdapter = new almacen_inventario.tesys_tapDataSet2TableAdapters.PRODUCTOSTableAdapter();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.dataGridView4 = new System.Windows.Forms.DataGridView();
-            this.tesys_tapDataSet3 = new almacen_inventario.tesys_tapDataSet3();
-            this.salidasBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.salidasTableAdapter = new almacen_inventario.tesys_tapDataSet3TableAdapters.SalidasTableAdapter();
             this.cODIGODataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.aRTICULODataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.fECHADataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cANTIDADDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.salidasBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.tesys_tapDataSet3 = new almacen_inventario.tesys_tapDataSet3();
+            this.salidasTableAdapter = new almacen_inventario.tesys_tapDataSet3TableAdapters.SalidasTableAdapter();
             this.label7 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.agregarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.visualizarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.productosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.calcularToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.utilidadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesystapDataSet1BindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.entradasBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesystapDataSet1BindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pRODUCTOSBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.salidasBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet3)).BeginInit();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -156,6 +172,14 @@
             this.label3.Size = new System.Drawing.Size(0, 13);
             this.label3.TabIndex = 11;
             // 
+            // progressBar
+            // 
+            this.progressBar.Location = new System.Drawing.Point(-1, 0);
+            this.progressBar.Name = "progressBar";
+            this.progressBar.Size = new System.Drawing.Size(11, 10);
+            this.progressBar.TabIndex = 11;
+            this.progressBar.Visible = false;
+            // 
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
@@ -202,14 +226,6 @@
             this.btnDownload.Visible = false;
             this.btnDownload.Click += new System.EventHandler(this.btnDownload_Click);
             // 
-            // progressBar
-            // 
-            this.progressBar.Location = new System.Drawing.Point(-1, 0);
-            this.progressBar.Name = "progressBar";
-            this.progressBar.Size = new System.Drawing.Size(11, 10);
-            this.progressBar.TabIndex = 11;
-            this.progressBar.Visible = false;
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -221,7 +237,23 @@
             // 
             // dataGridView1
             // 
+            dataGridViewCellStyle49.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle49.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle49.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle49.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle49.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle49.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle49.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle49;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle50.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle50.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle50.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle50.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle50.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle50.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle50.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle50;
             this.dataGridView1.Location = new System.Drawing.Point(28, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(12, 20);
@@ -231,6 +263,14 @@
             // dataGridView2
             // 
             this.dataGridView2.AutoGenerateColumns = false;
+            dataGridViewCellStyle51.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle51.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle51.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle51.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle51.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle51.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle51.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView2.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle51;
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cODIGODataGridViewTextBoxColumn,
@@ -238,30 +278,18 @@
             this.fECHADataGridViewTextBoxColumn,
             this.cANTIDADDataGridViewTextBoxColumn});
             this.dataGridView2.DataSource = this.entradasBindingSource;
+            dataGridViewCellStyle52.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle52.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle52.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle52.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle52.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle52.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle52.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView2.DefaultCellStyle = dataGridViewCellStyle52;
             this.dataGridView2.Location = new System.Drawing.Point(604, 316);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(444, 438);
             this.dataGridView2.TabIndex = 14;
-            // 
-            // tesys_tapDataSet1
-            // 
-            this.tesys_tapDataSet1.DataSetName = "tesys_tapDataSet1";
-            this.tesys_tapDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // tesystapDataSet1BindingSource
-            // 
-            this.tesystapDataSet1BindingSource.DataSource = this.tesys_tapDataSet1;
-            this.tesystapDataSet1BindingSource.Position = 0;
-            this.tesystapDataSet1BindingSource.CurrentChanged += new System.EventHandler(this.tesystapDataSet1BindingSource_CurrentChanged);
-            // 
-            // entradasBindingSource
-            // 
-            this.entradasBindingSource.DataMember = "Entradas";
-            this.entradasBindingSource.DataSource = this.tesystapDataSet1BindingSource;
-            // 
-            // entradasTableAdapter
-            // 
-            this.entradasTableAdapter.ClearBeforeFill = true;
             // 
             // cODIGODataGridViewTextBoxColumn
             // 
@@ -287,9 +315,37 @@
             this.cANTIDADDataGridViewTextBoxColumn.HeaderText = "CANTIDAD";
             this.cANTIDADDataGridViewTextBoxColumn.Name = "cANTIDADDataGridViewTextBoxColumn";
             // 
+            // entradasBindingSource
+            // 
+            this.entradasBindingSource.DataMember = "Entradas";
+            this.entradasBindingSource.DataSource = this.tesystapDataSet1BindingSource;
+            // 
+            // tesystapDataSet1BindingSource
+            // 
+            this.tesystapDataSet1BindingSource.DataSource = this.tesys_tapDataSet1;
+            this.tesystapDataSet1BindingSource.Position = 0;
+            this.tesystapDataSet1BindingSource.CurrentChanged += new System.EventHandler(this.tesystapDataSet1BindingSource_CurrentChanged);
+            // 
+            // tesys_tapDataSet1
+            // 
+            this.tesys_tapDataSet1.DataSetName = "tesys_tapDataSet1";
+            this.tesys_tapDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // entradasTableAdapter
+            // 
+            this.entradasTableAdapter.ClearBeforeFill = true;
+            // 
             // dataGridView3
             // 
             this.dataGridView3.AutoGenerateColumns = false;
+            dataGridViewCellStyle53.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle53.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle53.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle53.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle53.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle53.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle53.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView3.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle53;
             this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView3.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cODIGODataGridViewTextBoxColumn1,
@@ -298,24 +354,18 @@
             this.sALIDASDataGridViewTextBoxColumn,
             this.sTOCKDataGridViewTextBoxColumn});
             this.dataGridView3.DataSource = this.pRODUCTOSBindingSource;
+            dataGridViewCellStyle54.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle54.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle54.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle54.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle54.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle54.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle54.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView3.DefaultCellStyle = dataGridViewCellStyle54;
             this.dataGridView3.Location = new System.Drawing.Point(22, 316);
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.Size = new System.Drawing.Size(544, 438);
             this.dataGridView3.TabIndex = 15;
-            // 
-            // tesys_tapDataSet2
-            // 
-            this.tesys_tapDataSet2.DataSetName = "tesys_tapDataSet2";
-            this.tesys_tapDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // pRODUCTOSBindingSource
-            // 
-            this.pRODUCTOSBindingSource.DataMember = "PRODUCTOS";
-            this.pRODUCTOSBindingSource.DataSource = this.tesys_tapDataSet2;
-            // 
-            // pRODUCTOSTableAdapter
-            // 
-            this.pRODUCTOSTableAdapter.ClearBeforeFill = true;
             // 
             // cODIGODataGridViewTextBoxColumn1
             // 
@@ -347,6 +397,20 @@
             this.sTOCKDataGridViewTextBoxColumn.HeaderText = "STOCK";
             this.sTOCKDataGridViewTextBoxColumn.Name = "sTOCKDataGridViewTextBoxColumn";
             // 
+            // pRODUCTOSBindingSource
+            // 
+            this.pRODUCTOSBindingSource.DataMember = "PRODUCTOS";
+            this.pRODUCTOSBindingSource.DataSource = this.tesys_tapDataSet2;
+            // 
+            // tesys_tapDataSet2
+            // 
+            this.tesys_tapDataSet2.DataSetName = "tesys_tapDataSet2";
+            this.tesys_tapDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // pRODUCTOSTableAdapter
+            // 
+            this.pRODUCTOSTableAdapter.ClearBeforeFill = true;
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -370,6 +434,14 @@
             // dataGridView4
             // 
             this.dataGridView4.AutoGenerateColumns = false;
+            dataGridViewCellStyle55.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle55.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle55.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle55.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle55.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle55.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle55.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView4.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle55;
             this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView4.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cODIGODataGridViewTextBoxColumn2,
@@ -377,24 +449,18 @@
             this.fECHADataGridViewTextBoxColumn1,
             this.cANTIDADDataGridViewTextBoxColumn1});
             this.dataGridView4.DataSource = this.salidasBindingSource;
+            dataGridViewCellStyle56.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle56.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle56.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle56.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle56.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle56.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle56.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView4.DefaultCellStyle = dataGridViewCellStyle56;
             this.dataGridView4.Location = new System.Drawing.Point(1072, 316);
             this.dataGridView4.Name = "dataGridView4";
             this.dataGridView4.Size = new System.Drawing.Size(445, 438);
             this.dataGridView4.TabIndex = 18;
-            // 
-            // tesys_tapDataSet3
-            // 
-            this.tesys_tapDataSet3.DataSetName = "tesys_tapDataSet3";
-            this.tesys_tapDataSet3.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // salidasBindingSource
-            // 
-            this.salidasBindingSource.DataMember = "Salidas";
-            this.salidasBindingSource.DataSource = this.tesys_tapDataSet3;
-            // 
-            // salidasTableAdapter
-            // 
-            this.salidasTableAdapter.ClearBeforeFill = true;
             // 
             // cODIGODataGridViewTextBoxColumn2
             // 
@@ -420,6 +486,20 @@
             this.cANTIDADDataGridViewTextBoxColumn1.HeaderText = "CANTIDAD";
             this.cANTIDADDataGridViewTextBoxColumn1.Name = "cANTIDADDataGridViewTextBoxColumn1";
             // 
+            // salidasBindingSource
+            // 
+            this.salidasBindingSource.DataMember = "Salidas";
+            this.salidasBindingSource.DataSource = this.tesys_tapDataSet3;
+            // 
+            // tesys_tapDataSet3
+            // 
+            this.tesys_tapDataSet3.DataSetName = "tesys_tapDataSet3";
+            this.tesys_tapDataSet3.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // salidasTableAdapter
+            // 
+            this.salidasTableAdapter.ClearBeforeFill = true;
+            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -429,6 +509,63 @@
             this.label7.Size = new System.Drawing.Size(129, 42);
             this.label7.TabIndex = 19;
             this.label7.Text = "Salida";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.agregarToolStripMenuItem,
+            this.visualizarToolStripMenuItem,
+            this.calcularToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1579, 24);
+            this.menuStrip1.TabIndex = 20;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // agregarToolStripMenuItem
+            // 
+            this.agregarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.inventarioToolStripMenuItem});
+            this.agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
+            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
+            this.agregarToolStripMenuItem.Text = "Agregar";
+            // 
+            // inventarioToolStripMenuItem
+            // 
+            this.inventarioToolStripMenuItem.Name = "inventarioToolStripMenuItem";
+            this.inventarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.inventarioToolStripMenuItem.Text = "Inventario";
+            this.inventarioToolStripMenuItem.Click += new System.EventHandler(this.inventarioToolStripMenuItem_Click);
+            // 
+            // visualizarToolStripMenuItem
+            // 
+            this.visualizarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.productosToolStripMenuItem});
+            this.visualizarToolStripMenuItem.Name = "visualizarToolStripMenuItem";
+            this.visualizarToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
+            this.visualizarToolStripMenuItem.Text = "Visualizar";
+            // 
+            // productosToolStripMenuItem
+            // 
+            this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            this.productosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.productosToolStripMenuItem.Text = "Productos";
+            this.productosToolStripMenuItem.Click += new System.EventHandler(this.productosToolStripMenuItem_Click);
+            // 
+            // calcularToolStripMenuItem
+            // 
+            this.calcularToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.utilidadToolStripMenuItem});
+            this.calcularToolStripMenuItem.Name = "calcularToolStripMenuItem";
+            this.calcularToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
+            this.calcularToolStripMenuItem.Text = "Calcular";
+            // 
+            // utilidadToolStripMenuItem
+            // 
+            this.utilidadToolStripMenuItem.Name = "utilidadToolStripMenuItem";
+            this.utilidadToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.utilidadToolStripMenuItem.Text = "Utilidad";
+            this.utilidadToolStripMenuItem.Click += new System.EventHandler(this.utilidadToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -450,9 +587,10 @@
             this.Controls.Add(this.partool_path_button);
             this.Controls.Add(this.ps3_folder_path);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Sistema de Inventarios";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -460,15 +598,17 @@
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesystapDataSet1BindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.entradasBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesystapDataSet1BindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pRODUCTOSBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.salidasBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet3)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -519,6 +659,13 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn fECHADataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn cANTIDADDataGridViewTextBoxColumn1;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem agregarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem inventarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem visualizarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem productosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem calcularToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem utilidadToolStripMenuItem;
     }
 }
 

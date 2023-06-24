@@ -355,5 +355,26 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             this.entradasTableAdapter.Fill(this.tesys_tapDataSet1.Entradas);
 
         }
+
+        private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            inventario tap = new inventario();
+
+            tap.Show();
+        }
+
+        private void productosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Productos tap = new Productos();
+
+            tap.Show();
+        }
+
+        private void utilidadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 tap = new Form3();
+
+            tap.Show();
+        }
     }
 }
