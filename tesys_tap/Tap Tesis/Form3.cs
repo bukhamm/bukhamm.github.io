@@ -43,16 +43,17 @@ namespace almacen_inventario
             string basura1 = precio_utilidad;
             string basura2 = precio_venta;
             Console.WriteLine(basura2 + basura1);
-        }
-
-        private void contabilizacion_Click(object sender, EventArgs e)
-        {
             double test = (500 * 0.5);
             double test2 = 50 / 100;
             double test3 = (500 * test2);
             double test4 = (test + test2 + test3);
             string prueba = Convert.ToString(test4);
             textBox4.Text = prueba;
+        }
+
+        private void contabilizacion_Click(object sender, EventArgs e)
+        {
+            
             
         }
     }
