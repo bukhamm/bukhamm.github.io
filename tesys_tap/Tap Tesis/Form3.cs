@@ -19,6 +19,8 @@ namespace almacen_inventario
             InitializeComponent();
         }
         public string precio_compra { get; set; }
+        public decimal wea { get; set; }
+        decimal porcentaje {  get; set; }
         public string utilidad { get; set; } 
         public string precio_venta { get; set; }
         public string precio_utilidad { get; set; }
@@ -32,7 +34,7 @@ namespace almacen_inventario
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             textBox1.Text = precio_compra;
-            textBox2.Text = utilidad;
+            txtNumero.Text = utilidad;
             int precio = Convert.ToInt32(precio_compra);
             float utility = Convert.ToInt32(utilidad);
             float porcent = utility / 100;
@@ -48,14 +50,54 @@ namespace almacen_inventario
             double test3 = (500 * test2);
             double test4 = (test + test2 + test3);
             string prueba = Convert.ToString(test4);
-            textBox4.Text = prueba;
+            lblResultado.Text = prueba;
+            int numero = 500;
+            decimal porcentaje = 0.4m;
+
+            decimal resultado = numero * porcentaje;
+
+            Console.WriteLine(resultado);
         }
 
         private void contabilizacion_Click(object sender, EventArgs e)
         {
-            
-            
+            if (decimal.TryParse(txtNumero.Text, out decimal numero))
+            {
+                porcentaje = numero * 0.01m; // Calcula el porcentaje dividendo por 100
+
+                string basura = porcentaje.ToString("P2"); // Muestra el resultado como porcentaje en el Label
+
+                string precio = textBox1.Text;
+                int yecta = Convert.ToInt32(precio);
+                decimal valorPrecio = Convert.ToDecimal(precio);    
+                Console.Write(valorPrecio + yecta);
+                Console.WriteLine(basura);
+                wea = numero * 0.01m;
+                decimal calcilo = (valorPrecio * wea);
+                lblResultado.Text += calcilo.ToString();
+                decimal chantipanturila = calcilo + valorPrecio;
+                textBox3.Text = chantipanturila.ToString();
+
+            }
+            else
+            {
+                MessageBox.Show("Ingresa un número válido");
+            }
+
         }
+
+        private void basura_click(object sender, EventArgs e) {
+
+            int CalculoPrecio, CalculoUtilidad, ValorFinal;
+            textBox1.Text = precio_compra;
+            txtNumero.Text = utilidad;
+            CalculoPrecio = Convert.ToInt32(precio_compra);
+            CalculoUtilidad = Convert.ToInt32(utilidad);
+            int total = CalculoPrecio + CalculoUtilidad;
+            string CalculoBasura = Convert.ToString(total);
+            textBox3.Text = CalculoBasura;
+        }
+
     }
 
     internal class Command
@@ -63,6 +105,7 @@ namespace almacen_inventario
         internal static SqlDataReader ExecuteReader()
         {
             throw new NotImplementedException();
+
         }
 
 

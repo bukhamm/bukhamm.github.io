@@ -37,13 +37,13 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtNumero = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.contabilizacion = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.lblResultado = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.productosBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tesys_tapDataSet)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -102,7 +102,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.textBox2);
+            this.groupBox1.Controls.Add(this.txtNumero);
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label1);
@@ -113,12 +113,12 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Ingresar";
             // 
-            // textBox2
+            // txtNumero
             // 
-            this.textBox2.Location = new System.Drawing.Point(91, 44);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(163, 20);
-            this.textBox2.TabIndex = 6;
+            this.txtNumero.Location = new System.Drawing.Point(91, 44);
+            this.txtNumero.Name = "txtNumero";
+            this.txtNumero.Size = new System.Drawing.Size(163, 20);
+            this.txtNumero.TabIndex = 6;
             // 
             // textBox1
             // 
@@ -148,7 +148,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBox4);
+            this.groupBox2.Controls.Add(this.lblResultado);
             this.groupBox2.Controls.Add(this.textBox3);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.label3);
@@ -159,19 +159,19 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Resultados";
             // 
+            // lblResultado
+            // 
+            this.lblResultado.Location = new System.Drawing.Point(87, 25);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(163, 20);
+            this.lblResultado.TabIndex = 7;
+            // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(87, 26);
+            this.textBox3.Location = new System.Drawing.Point(87, 47);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(163, 20);
             this.textBox3.TabIndex = 6;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(87, 51);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(163, 20);
-            this.textBox4.TabIndex = 7;
             // 
             // Form3
             // 
@@ -206,11 +206,11 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button contabilizacion;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox lblResultado;
         private System.Windows.Forms.TextBox textBox3;
     }
 }
