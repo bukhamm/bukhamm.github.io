@@ -23,6 +23,7 @@ namespace almacen_inventario
         decimal porcentaje {  get; set; }
         public string utilidad { get; set; } 
         public string precio_venta { get; set; }
+        public decimal Katsuragi { get; set; }  
         public string precio_utilidad { get; set; }
         private void Form3_Load(object sender, EventArgs e)
         {
@@ -59,7 +60,7 @@ namespace almacen_inventario
             Console.WriteLine(resultado);
         }
 
-        private void contabilizacion_Click(object sender, EventArgs e)
+        private void WeaMalHecha_Click(object sender, EventArgs e)
         {
             if (decimal.TryParse(txtNumero.Text, out decimal numero))
             {
@@ -69,7 +70,7 @@ namespace almacen_inventario
 
                 string precio = textBox1.Text;
                 int yecta = Convert.ToInt32(precio);
-                decimal valorPrecio = Convert.ToDecimal(precio);    
+                decimal valorPrecio = Convert.ToDecimal(precio);
                 Console.Write(valorPrecio + yecta);
                 Console.WriteLine(basura);
                 wea = numero * 0.01m;
@@ -83,6 +84,37 @@ namespace almacen_inventario
             {
                 MessageBox.Show("Ingresa un número válido");
             }
+        }
+
+        private void CodigoQueNoSirve_Click(object sender, EventArgs e)
+        {
+            decimal yawa, kaky;
+            textBox1.Text = precio_compra;
+            txtNumero.Text = utilidad;
+            yawa = Convert.ToDecimal(precio_compra);
+            kaky = Convert.ToDecimal(utilidad);
+            decimal adevererchy = (yawa * kaky);
+            lblResultado.Text = adevererchy.ToString();
+        }
+
+
+
+        private void contabilizacion_Click(object sender, EventArgs e)
+        {
+
+            if (decimal.TryParse(textBox1.Text, out decimal numero) && decimal.TryParse(txtNumero.Text, out decimal porcentaje))
+            {
+                decimal resultado = numero * (porcentaje / 100);
+
+                lblResultado.Text = resultado.ToString();
+                Katsuragi = resultado + numero;
+                textBox3.Text = Katsuragi.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Ingresa números válidos en 'Precio Compra' y '% Utilidad'");
+            }
+
 
         }
 

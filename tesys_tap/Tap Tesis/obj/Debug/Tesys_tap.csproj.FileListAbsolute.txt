@@ -11,10 +11,14 @@ C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debu
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\WebDriver.dll
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Form3.resources
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.CopyComplete
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.exe.config
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.exe
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Traduccion hecha por Majimomos.pdb
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.exe
-C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Traduccion hecha por Majimomos.pdb
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Resources.Resource1.resources
 C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.inventario.resources
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.test.resources
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Tesis.exe.config
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Tesis.exe
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Tesis.pdb
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesis.exe
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesis.pdb
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebas\Favorites\Documents\Github\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\almacen_inventario.Form5.resources

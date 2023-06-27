@@ -358,14 +358,14 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
         private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            inventario tap = new inventario();
+            Form5 tap = new Form5();
 
             tap.Show();
         }
 
         private void productosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Productos tap = new Productos();
+            test tap = new test();
 
             tap.Show();
         }
@@ -373,6 +373,13 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         private void utilidadToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form3 tap = new Form3();
+
+            tap.Show();
+        }
+
+        private void utilidadesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            inventario tap = new inventario();
 
             tap.Show();
         }

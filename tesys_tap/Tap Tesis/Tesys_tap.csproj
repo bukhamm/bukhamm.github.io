@@ -8,10 +8,13 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>almacen_inventario</RootNamespace>
-    <AssemblyName>Traduccion hecha por Majimomos</AssemblyName>
+    <AssemblyName>Tesis</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <PublishUrl>publicar\</PublishUrl>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>C:\Users\sebas\Desktop\Majimomos\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -23,11 +26,8 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,9 +49,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>clan_chara_01.ico</ApplicationIcon>
+    <ApplicationIcon>warehouse_storage_unit_storehouse_icon_192428.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -68,6 +71,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="CustomControl1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomControl1.Designer.cs">
+      <DependentUpon>CustomControl1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +94,12 @@
     </Compile>
     <Compile Include="Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
     <Compile Include="inventario.cs">
       <SubType>Form</SubType>
@@ -107,6 +122,12 @@
       <DependentUpon>Resource1.resx</DependentUpon>
     </Compile>
     <Compile Include="Subtitle.cs" />
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
     <Compile Include="tesys_tapDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -127,6 +148,31 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>tesys_tapDataSet3.xsd</DependentUpon>
     </Compile>
+    <Compile Include="tesys_tapDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tesys_tapDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tesys_tapDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tesys_tapDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tesys_tapDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tesys_tapDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tesys_tapDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tesys_tapDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tesys_tapDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tesys_tapDataSet8.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -135,6 +181,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="inventario.resx">
       <DependentUpon>inventario.cs</DependentUpon>
@@ -155,6 +204,9 @@
     <EmbeddedResource Include="Resources\Resource1.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
@@ -212,6 +264,61 @@
     <None Include="tesys_tapDataSet3.xss">
       <DependentUpon>tesys_tapDataSet3.xsd</DependentUpon>
     </None>
+    <None Include="tesys_tapDataSet4.xsc">
+      <DependentUpon>tesys_tapDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tesys_tapDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tesys_tapDataSet4.xss">
+      <DependentUpon>tesys_tapDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet5.xsc">
+      <DependentUpon>tesys_tapDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tesys_tapDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tesys_tapDataSet5.xss">
+      <DependentUpon>tesys_tapDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet6.xsc">
+      <DependentUpon>tesys_tapDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tesys_tapDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tesys_tapDataSet6.xss">
+      <DependentUpon>tesys_tapDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet7.xsc">
+      <DependentUpon>tesys_tapDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tesys_tapDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tesys_tapDataSet7.xss">
+      <DependentUpon>tesys_tapDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet8.xsc">
+      <DependentUpon>tesys_tapDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="tesys_tapDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tesys_tapDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tesys_tapDataSet8.xss">
+      <DependentUpon>tesys_tapDataSet8.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -238,6 +345,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="clan_chara_01.ico" />
+    <Content Include="warehouse_storage_unit_storehouse_icon_192428.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Selenium.WebDriver.4.10.0\build\Selenium.WebDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.4.10.0\build\Selenium.WebDriver.targets')" />
