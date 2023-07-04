@@ -345,6 +345,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="clan_chara_01.ico" />
+    <None Include="Resources\Sin título.png" />
     <Content Include="warehouse_storage_unit_storehouse_icon_192428.ico" />
   </ItemGroup>
   <ItemGroup>

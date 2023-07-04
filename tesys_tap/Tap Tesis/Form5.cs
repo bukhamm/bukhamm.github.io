@@ -17,6 +17,7 @@ namespace almacen_inventario
         public Form5()
         {
             InitializeComponent();
+            this.Opacity = 0.7;
         }
 
         public string fecha { get; set; }

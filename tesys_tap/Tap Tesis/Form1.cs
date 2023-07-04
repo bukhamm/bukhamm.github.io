@@ -22,10 +22,12 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
     {
         private List<string> urls; // Lista de URLs de los archivos a descargar
         private int currentDownloadIndex; // Índice del archivo actualmente descargado
+        private object frmTransparentForm;
+
         public Form1()
         {
             InitializeComponent();
-
+            this.TransparencyKey = BackColor;
             NombreJuego = "Yakuza Kiwami 2";
             Steam = "Steam"; //BLUS (USA)
             Gamepass = "Gamepass"; //BLES (Europe)
@@ -39,15 +41,28 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass.dds");//Gampass > "yakuza_italic.dds" > Archivo3
             urls.Add("https://yakuzaps3traduccion.000webhostapp.com/fontgamepass_italic.dds");//Steam .exe parchado > Archivo4
             // Agrega las URL de los archivos que deseas descargar
-
+            this.BackColor = Color.Blue;
+            // Make the background color of form display transparently.
+            this.Opacity = 0.7;
             currentDownloadIndex = 0;
+        }
+        
+        public void MakeSeeThru()
+        {
+            string gracias, mer;
+            gracias = "adios";
+            mer = "eh adios";
+            Console.Write(gracias);
+            Console.Write(mer);
         }
 
         public string ps3_folder { get; set; }
+        public System.Drawing.Color TransparencyKey { get; set; }
         public string NombreJuego { get; set; }
         public string Steam { get; set; }
         public string Gamepass { get; set; }
         public string directorio { get; set; }
+        public string Hola_Conejo_Viajero { get; set; }
 
 
         public void partool_path_button_Click(object sender, EventArgs e)
@@ -342,7 +357,9 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
         private void tesystapDataSet1BindingSource_CurrentChanged(object sender, EventArgs e)
         {
-
+            this.TransparencyKey = Color.Crimson;
+            this.BackColor = Color.Crimson;
+            Hola_Conejo_Viajero = "Voy a Guardar tu Pocision";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -353,13 +370,14 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             this.pRODUCTOSTableAdapter.Fill(this.tesys_tapDataSet2.PRODUCTOS);
             // TODO: esta línea de código carga datos en la tabla 'tesys_tapDataSet1.Entradas' Puede moverla o quitarla según sea necesario.
             this.entradasTableAdapter.Fill(this.tesys_tapDataSet1.Entradas);
-
+           
+           
         }
 
         private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form5 tap = new Form5();
-
+            MakeSeeThru();
             tap.Show();
         }
 

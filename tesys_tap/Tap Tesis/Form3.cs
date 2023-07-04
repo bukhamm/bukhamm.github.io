@@ -17,6 +17,7 @@ namespace almacen_inventario
         public Form3()
         {
             InitializeComponent();
+            this.Opacity = 0.7;
         }
         public string precio_compra { get; set; }
         public decimal wea { get; set; }
