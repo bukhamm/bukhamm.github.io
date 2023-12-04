@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TuProyecto;
 
 namespace Instalador_de_la_Traduccion_Yakuza_6
 {
@@ -17,7 +18,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TuFormulario());
         }
     }
 }

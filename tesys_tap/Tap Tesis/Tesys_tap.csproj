@@ -78,6 +78,7 @@
     <Compile Include="CustomControl1.Designer.cs">
       <DependentUpon>CustomControl1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Dialogo.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -174,6 +175,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>tesys_tapDataSet8.xsd</DependentUpon>
     </Compile>
+    <Compile Include="TuFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TuFormulario.Designer.cs">
+      <DependentUpon>TuFormulario.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -208,6 +215,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="test.resx">
       <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TuFormulario.resx">
+      <DependentUpon>TuFormulario.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
@@ -347,6 +357,7 @@
   <ItemGroup>
     <Content Include="clan_chara_01.ico" />
     <None Include="Resources\Sin título.png" />
+    <None Include="Resources\image.png" />
     <Content Include="warehouse_storage_unit_storehouse_icon_192428.ico" />
   </ItemGroup>
   <ItemGroup>

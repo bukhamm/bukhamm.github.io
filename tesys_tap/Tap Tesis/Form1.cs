@@ -15,6 +15,8 @@ using System.Security.Policy;
 using almacen_inventario;
 using System.Data.SqlClient;
 using System.Reflection.Emit;
+using Newtonsoft.Json;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
 namespace Instalador_de_la_Traduccion_Yakuza_6
 {
@@ -46,7 +48,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             this.Opacity = 0.7;
             currentDownloadIndex = 0;
         }
-        
+        private List<Dialogo> dialogos = new List<Dialogo>();
         public void MakeSeeThru()
         {
             string gracias, mer;
@@ -63,7 +65,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
         public string Gamepass { get; set; }
         public string directorio { get; set; }
         public string Hola_Conejo_Viajero { get; set; }
-        public int yakuzear { get; set; }   
+        public int yakuzear { get; set; }
 
 
         public void partool_path_button_Click(object sender, EventArgs e)
@@ -115,10 +117,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            
-        }
+
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
@@ -143,7 +142,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
 
         private void Dead_Souls_Installer()
         {
-           
+
         }
 
         private void Client_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
@@ -177,7 +176,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 if (File.Exists(archivoRuta))
                 {
                     string directorio = Path.GetDirectoryName(archivoRuta); //El "directorio" es sacado de "archivoRuta"
-                    string nuevoRuta = Path.Combine(directorio, nuevoNombre); 
+                    string nuevoRuta = Path.Combine(directorio, nuevoNombre);
 
                     // Renombrar el archivo
                     File.Move(archivoRuta, nuevoRuta);
@@ -212,7 +211,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 }
 
                 string kisei = $"{ps3_folder}\\YakuzaKiwami1.exe";
-                string katai = "db.par"; 
+                string katai = "db.par";
 
                 // Verificar si el archivo existe
                 if (File.Exists(kisei))
@@ -222,7 +221,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                     string weademierda = $"{ps3_folder}\\data\\db.par";
                     // Renombrar el archivo
                     File.Delete(weademierda);
-                    File.Move(kisei , majima);
+                    File.Move(kisei, majima);
 
                     //label2.Text = "La Traduccion de " + NombreJuego + " Se ha Instalado de forma Exitosa";
                     label2.Text = "Instalando Traduccion... 82%";
@@ -233,7 +232,7 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
                 }
 
                 string Alike = $"{ps3_folder}\\YakuzaKiwami4.exe";
-                string Anike = "yakuza_italic.dds"; 
+                string Anike = "yakuza_italic.dds";
 
                 // Verificar si el archivo existe
                 if (File.Exists(Alike))
@@ -402,32 +401,131 @@ namespace Instalador_de_la_Traduccion_Yakuza_6
             {
                 Hola_Conejo_Viajero = ", voy a guardar tu posicion";
             }
-           
-           
+
+
         }
 
         private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void productosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void utilidadToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void utilidadesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+
+        }
+
+        private void AgregarMSGyakuza()
+        {
+            // Wea que hice para que no sirva para nada... Sere weon?
+        }
+
+        private void AgregarMSG()
+        {
+            {
+                // Lógica para seleccionar un archivo .msg y agregarlo a la lista
+                OpenFileDialog openFileDialog = new OpenFileDialog();
+                openFileDialog.Filter = "Archivos MSG (*.msg)|*.msg|Todos los archivos (*.*)|*.*";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    string contenido = File.ReadAllText(openFileDialog.FileName);
+                    dialogos.Add(new Dialogo { Texto = contenido });
+
+                    // Puedes mostrar el texto en algún control visual si lo deseas
+                    Console.WriteLine(contenido);
+                }
+
+
+
+            }
+        }
+
+        private void ConvertirAJson()
+        {
+            {
+                // Lógica para convertir la lista de diálogos a JSON
+                string json = JsonConvert.SerializeObject(dialogos, Formatting.Indented);
+                File.WriteAllText("output.json", json);
+            }
+        }
+
+        private static void ConvertirAMSG()
+        {
+            {
+                // Lógica para convertir el JSON nuevamente a archivos .msg
+                string json = File.ReadAllText("output.json");
+                List<Dialogo> dialogosDesdeJson = JsonConvert.DeserializeObject<List<Dialogo>>(json);
+
+                foreach (var dialogo in dialogosDesdeJson)
+                {
+                    // Lógica para revertir la transformación y escribir el contenido a archivos .msg
+                    string contenido = dialogo.Texto;
+                    // Puedes implementar la lógica de reemplazo de caracteres aquí
+
+
+                    File.WriteAllText($"output_{DateTime.Now.Ticks}.msg", contenido);
+                }
+            }
+
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Archivos MSG (*.msg)|*.msg|Todos los archivos (*.*)|*.*";
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string contenido = File.ReadAllText(openFileDialog.FileName);
+                string[] dialogoSeparado = contenido.Split('\u0000');
+                dialogos.Add(new Dialogo { Texto = dialogoSeparado[1] });
+            }
+        }
+
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string[] dialogosSeparados = new string[dialogos.Count * 2];
+            for (int i = 0; i < dialogos.Count; i++)
+            {
+                dialogosSeparados[i * 2] = i.ToString();
+                dialogosSeparados[i * 2 + 1] = JsonConvert.SerializeObject(dialogos[i]);
+            }
+
+            string json = JsonConvert.SerializeObject(dialogosSeparados, Formatting.Indented);
+            File.WriteAllText("wea.json", json);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string json = File.ReadAllText("wea.json");
+            string[] dialogosSeparados = JsonConvert.DeserializeObject<string[]>(json);
+
+            for (int i = 0; i < dialogosSeparados.Length; i += 2)
+            {
+                string contenido = JsonConvert.DeserializeObject<Dialogo>(dialogosSeparados[i + 1]).Texto;
+                contenido = contenido.Replace("ñ", "0").Replace("á", "a").Replace("é", "e").Replace("í", "i").Replace("ó", "o").Replace("ú", "u");
+                File.WriteAllText($"output_{dialogosSeparados[i]}.msg", contenido);
+            }
 
         }
     }

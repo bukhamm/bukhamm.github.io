@@ -46,3 +46,4 @@ C:\Users\sebas\Documents\GitHub\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_ta
 C:\Users\sebas\Documents\GitHub\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesys_tap.csproj.CopyComplete
 C:\Users\sebas\Documents\GitHub\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesis.exe
 C:\Users\sebas\Documents\GitHub\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\Tesis.pdb
+C:\Users\sebas\Documents\GitHub\Tesis_Tap\tesys_tap\Tap Tesis\obj\Debug\TuProyecto.TuFormulario.resources
