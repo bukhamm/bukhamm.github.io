@@ -1,4 +1,6 @@
-﻿namespace TuProyecto
+﻿using System;
+
+namespace TuProyecto
 {
     partial class TuFormulario
     {
@@ -142,6 +144,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
+        }
+
+        private void btnToJson_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

@@ -71,6 +71,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="almacen_inventario\TranslationEntities.cs" />
     <Compile Include="Conexion.cs" />
     <Compile Include="CustomControl1.cs">
       <SubType>Component</SubType>
@@ -109,6 +110,8 @@
     <Compile Include="inventario.Designer.cs">
       <DependentUpon>inventario.cs</DependentUpon>
     </Compile>
+    <Compile Include="LineEnding.cs" />
+    <Compile Include="PauseMsgPropertyBase.cs" />
     <Compile Include="Productos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -219,6 +222,9 @@
     <EmbeddedResource Include="TuFormulario.resx">
       <DependentUpon>TuFormulario.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
     <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

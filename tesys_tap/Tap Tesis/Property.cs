@@ -118,6 +118,9 @@ namespace almacen_inventario
     {
         public override bool IsEndProperty => false;
 
+        public object Text { get; internal set; }
+        public object Translation { get; internal set; }
+
         public ColorEndMsgProperty() : base()
         {
             _header = new byte[] { 0x02, 0x08 };
@@ -397,5 +400,17 @@ namespace almacen_inventario
         }
 
         public int Count => Properties.Count;
+
+        internal class kaplas
+        {
+            internal static object Reverse()
+            {
+                throw new NotImplementedException();
+            }
+
+            internal class Subtitle
+            {
+            }
+        }
     }
 }
