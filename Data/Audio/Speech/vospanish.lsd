@@ -67,8 +67,6 @@
 ;
 <name>Speech/vospanish/MaxDamage</name>
 3435367627
-3435367624
-3435367625
 ;
 <name>Speech/vospanish/Missed</name>
 3592841553
@@ -129,7 +127,6 @@
 ;
 <name>Speech/vospanish/SkipGo</name>
 42292381
-42292382
 ;
 <name>Speech/vospanish/Sneeze</name>
 3803464438
@@ -153,6 +150,7 @@
 <name>Speech/vospanish/Traitor</name>
 648256531
 648256528
+648256529
 ;
 <name>Speech/vospanish/Victory</name>
 2581186424
