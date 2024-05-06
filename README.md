@@ -1,3 +1,6 @@
-# 8vs8 Worms Ultimate Myhem
-Play in Online with 8 worms!!
-Credits for afirsacho for create script was permit 8 worms in Only Match
+# Tienda de Dojima
+En esta tienda podras descargar desde tu consola Playstation 3 los Yakuzas:
+Yakuza 0
+Yakuza Kiwami
+Yakuza Dead Souls
+Con sus traduccion al español incluidas
