@@ -1,0 +1,1151 @@
+#1601895976 aaa 1.txt
+0,CONS,<none>
+2,A,<none>
+30,CONS,<none>
+34,A,<none>
+
+#1601895979 aaa 2.txt
+0,A,<none>
+28,L,<none>
+30,A,<none>
+36,EI,<none>
+37,CONS,<none>
+
+#4098605625 ah provisions 2.txt
+0,CONS,<none>
+7,A,<none>
+12,CONS,<none>
+14,EI,<none>
+17,CONS,<none>
+20,EI,<none>
+21,CONS,<none>
+26,EI,<none>
+33,CONS,<none>
+
+#2279425835 ah provisions.txt
+0,CONS,<none>
+7,A,<none>
+12,CONS,<none>
+14,EI,<none>
+17,FV,<none>
+19,CONS,<none>
+20,EI,<none>
+23,L,<none>
+25,A,<none>
+28,CONS,<none>
+34,Rest,<none>
+
+#879512042 ambush 2.txt
+0,A,<none>
+6,EI,<none>
+8,CONS,<none>
+10,A,<none>
+31,CONS,<none>
+
+#1318088696 ambush.txt
+0,MBP,<none>
+7,EI,<none>
+9,CONS,<none>
+11,A,<none>
+25,CONS,<none>
+
+#2979167885 boulder 2.txt
+0,A,<none>
+1,CONS,<none>
+4,A,<none>
+8,CONS,<none>
+10,A,<none>
+28,CONS,<none>
+29,Rest,<none>
+
+#3607510815 boulder.txt
+0,MBP,<none>
+2,CONS,<none>
+4,A,<none>
+5,EI,<none>
+9,CONS,<none>
+20,A,<none>
+27,CONS,<none>
+
+#1492734632 camelot awaits us 2.txt
+0,CONS,<none>
+12,L,<none>
+15,CONS,<none>
+21,A,<none>
+24,CONS,<none>
+
+#4284506170 camelot awaits us.txt
+0,CONS,<none>
+7,A,<none>
+13,CONS,<none>
+15,EI,<none>
+17,L,<none>
+22,CONS,<none>
+29,EI,<none>
+31,A,<none>
+36,CONS,<none>
+
+#292756051 charge 1.txt
+0,CONS,<none>
+3,A,<none>
+12,CONS,<none>
+34,A,<none>
+38,EI,<none>
+39,CONS,<none>
+
+#292756048 charge 2.txt
+0,CONS,<none>
+9,A,<none>
+30,L,<none>
+31,CONS,<none>
+
+#2226755696 cheer 1.txt
+0,CONS,<none>
+1,EI,<none>
+14,CONS,<none>
+28,A,<none>
+35,CONS,<none>
+
+#2226755699 cheer 2.txt
+0,CONS,<none>
+1,EI,<none>
+16,A,<none>
+25,CONS,<none>
+33,Rest,<none>
+
+#4072506469 clutch chest 1.txt
+0,CONS,<none>
+1,A,<none>
+29,Rest,<none>
+
+#4072506470 clutch chest 2.txt
+0,CONS,<none>
+5,A,<none>
+42,CONS,<none>
+
+#2470862112 could this be the holy grail 2.txt
+0,CONS,<none>
+10,EI,<none>
+11,CONS,<none>
+22,EI,<none>
+24,CONS,<none>
+25,EI,<none>
+28,CONS,<none>
+34,EI,<none>
+36,A,<none>
+45,CONS,<none>
+
+#3547884722 could this be the holy grail.txt
+0,FV,<none>
+1,L,<none>
+2,CONS,<none>
+13,EI,<none>
+20,CONS,<none>
+28,A,<none>
+30,EI,<none>
+34,CONS,<none>
+39,A,<none>
+49,CONS,<none>
+
+#1080373526 disbelief 1.txt
+0,CONS,<none>
+2,EI,<none>
+5,CONS,<none>
+7,Rest,<none>
+
+#1080373525 disbelief 2.txt
+0,CONS,<none>
+
+#1080373524 disbelief 3.txt
+0,CONS,<none>
+2,EI,<none>
+5,CONS,<none>
+
+#1080373523 disbelief 4.txt
+0,CONS,<none>
+3,A,<none>
+4,EI,<none>
+6,CONS,<none>
+8,FV,<none>
+
+#1803722010 farewell.txt
+0,CONS,<none>
+2,EI,<none>
+6,CONS,<none>
+10,A,<none>
+18,L,<none>
+20,CONS,<none>
+
+#1448864905 fast 1.txt
+0,CONS,<none>
+3,A,<none>
+7,CONS,<none>
+27,A,<none>
+33,CONS,<none>
+
+#1448864906 fast 2.txt
+0,CONS,<none>
+4,A,<none>
+7,CONS,<none>
+20,EI,<none>
+23,CONS,<none>
+
+#3381651216 feel the might of excalibur 2.txt
+0,MBP,<none>
+4,EI,<none>
+8,CONS,<none>
+11,EI,<none>
+16,CONS,<none>
+24,A,<none>
+25,CONS,<none>
+44,A,<none>
+48,CONS,<none>
+51,Rest,<none>
+
+#3067558530 feel the might of excalibur.txt
+0,CONS,<none>
+6,L,<none>
+7,EI,<none>
+9,L,<none>
+10,CONS,<none>
+12,EI,<none>
+13,MBP,<none>
+14,EI,<none>
+17,CONS,<none>
+24,A,<none>
+26,CONS,<none>
+39,EI,<none>
+40,CONS,<none>
+43,A,<none>
+49,CONS,<none>
+
+#3882947168 for the king 1.txt
+0,CONS,<none>
+10,EI,<none>
+15,L,<none>
+16,A,<none>
+18,CONS,<none>
+
+#3882947171 for the king 2.txt
+0,CONS,<none>
+12,A,<none>
+14,O,<none>
+18,L,<none>
+19,A,<none>
+21,CONS,<none>
+
+#3882947170 for the king 3.txt
+0,Rest,<none>
+2,FV,<none>
+4,A,<none>
+10,MBP,<none>
+13,CONS,<none>
+18,EI,<none>
+19,A,<none>
+22,L,<none>
+23,O,<none>
+28,CONS,<none>
+
+#1405275564 gasp 1.txt
+0,A,<none>
+
+#1405275567 gasp 2.txt
+0,A,<none>
+6,EI,<none>
+
+#2756960249 go forth good sir knight 2.txt
+0,QUW,<none>
+1,CONS,<none>
+3,EI,<none>
+4,MBP,<none>
+5,CONS,<none>
+7,A,<none>
+14,CONS,<none>
+18,L,<none>
+20,A,<none>
+22,CONS,<none>
+30,EI,<none>
+33,CONS,<none>
+36,L,<none>
+37,CONS,<none>
+
+#2814571755 go forth good sir knight.txt
+0,CONS,<none>
+2,EI,<none>
+5,CONS,<none>
+7,L,<none>
+8,A,<none>
+13,CONS,<none>
+19,MBP,<none>
+23,CONS,<none>
+31,EI,<none>
+33,CONS,<none>
+41,Rest,<none>
+
+#2155804824 ha not even close 2.txt
+0,CONS,<none>
+7,FV,<none>
+9,Rest,<none>
+10,MBP,<none>
+11,CONS,<none>
+18,QUW,<none>
+20,CONS,<none>
+25,EI,<none>
+27,CONS,<none>
+
+#3729017354 ha not even close.txt
+0,CONS,<none>
+11,A,<none>
+16,CONS,<none>
+17,EI,<none>
+20,CONS,<none>
+22,L,<none>
+23,CONS,<none>
+28,EI,<none>
+31,CONS,<none>
+
+#4220327641 have at ye 2.txt
+0,CONS,<none>
+9,QUW,<none>
+13,EI,<none>
+18,L,<none>
+19,CONS,<none>
+
+#2934234187 have at ye.txt
+0,CONS,<none>
+7,MBP,<none>
+13,A,<none>
+17,CONS,<none>
+20,Rest,<none>
+
+#3870256116 he was a brave worm.txt
+0,CONS,<none>
+5,A,<none>
+11,CONS,<none>
+17,EI,<none>
+19,CONS,<none>
+25,EI,<none>
+29,L,<none>
+32,MBP,<none>
+35,A,<none>
+45,EI,<none>
+49,CONS,<none>
+52,Rest,<none>
+
+#3454082097 hurry good sir knight 1.txt
+0,CONS,<none>
+3,A,<none>
+10,CONS,<none>
+14,A,<none>
+17,CONS,<none>
+
+#3454082098 hurry good sir knight 2.txt
+0,CONS,<none>
+12,A,<none>
+13,CONS,<none>
+
+#3011460936 i shall run you through 2.txt
+0,CONS,<none>
+2,A,<none>
+6,CONS,<none>
+11,L,<none>
+15,CONS,<none>
+21,EI,<none>
+25,CONS,<none>
+28,O,<none>
+34,L,<none>
+40,CONS,<none>
+
+#669293786 i shall run you through.txt
+0,CONS,<none>
+2,A,<none>
+7,CONS,<none>
+8,EI,<none>
+12,L,<none>
+15,CONS,<none>
+18,EI,<none>
+20,CONS,<none>
+22,O,<none>
+24,CONS,<none>
+30,A,<none>
+33,L,<none>
+41,Rest,<none>
+
+#3536129339 i will have my revenge 2.txt
+0,CONS,<none>
+8,L,<none>
+10,EI,<none>
+12,CONS,<none>
+25,EI,<none>
+28,CONS,<none>
+31,A,<none>
+33,CONS,<none>
+34,QUW,<none>
+37,CONS,<none>
+
+#3907762857 i will have my revenge.txt
+0,MBP,<none>
+2,A,<none>
+10,L,<none>
+12,A,<none>
+15,CONS,<none>
+35,A,<none>
+36,CONS,<none>
+38,EI,<none>
+42,L,<none>
+43,CONS,<none>
+
+#2555285838 its just a flesh wound 2.txt
+0,CONS,<none>
+19,EI,<none>
+22,CONS,<none>
+26,A,<none>
+27,L,<none>
+28,EI,<none>
+32,L,<none>
+33,EI,<none>
+34,CONS,<none>
+37,Rest,<none>
+
+#4115891804 its just a flesh wound.txt
+0,CONS,<none>
+4,Rest,<none>
+5,CONS,<none>
+18,EI,<none>
+20,CONS,<none>
+22,O,<none>
+28,L,<none>
+31,CONS,<none>
+
+#965943499 jump 1.txt
+0,A,<none>
+1,CONS,<none>
+5,Rest,<none>
+
+#965943496 jump 2.txt
+0,A,<none>
+7,CONS,<none>
+11,Rest,<none>
+14,MBP,<none>
+
+#965943497 jump 3.txt
+0,CONS,<none>
+
+#965943502 jump 4.txt
+0,CONS,<none>
+1,EI,<none>
+3,CONS,<none>
+
+#965943503 jump 5.txt
+0,A,<none>
+6,CONS,<none>
+10,Rest,<none>
+13,CONS,<none>
+
+#965943500 jump 6.txt
+0,QUW,<none>
+1,Rest,<none>
+4,MBP,<none>
+
+#965943501 jump 7.txt
+0,MBP,<none>
+3,CONS,<none>
+11,EI,<none>
+16,CONS,<none>
+
+#965943490 jump 8.txt
+0,FV,<none>
+2,A,<none>
+10,O,<none>
+13,L,<none>
+15,CONS,<none>
+
+#509086592 make haste 1.txt
+0,QUW,<none>
+1,EI,<none>
+3,CONS,<none>
+5,A,<none>
+7,CONS,<none>
+17,QUW,<none>
+21,CONS,<none>
+
+#509086595 make haste 2.txt
+0,MBP,<none>
+1,A,<none>
+4,CONS,<none>
+10,A,<none>
+16,CONS,<none>
+
+#1817702259 meet my gauntlet 2.txt
+0,MBP,<none>
+2,CONS,<none>
+8,EI,<none>
+12,CONS,<none>
+19,A,<none>
+22,CONS,<none>
+28,L,<none>
+30,A,<none>
+33,CONS,<none>
+34,A,<none>
+37,CONS,<none>
+
+#1299230433 meet my gauntlet.txt
+0,MBP,<none>
+4,CONS,<none>
+7,MBP,<none>
+10,EI,<none>
+11,CONS,<none>
+24,O,<none>
+26,CONS,<none>
+35,Rest,<none>
+
+#3335064983 most tedious sir knight.txt
+0,CONS,<none>
+2,EI,<none>
+4,CONS,<none>
+19,A,<none>
+22,CONS,<none>
+29,L,<none>
+32,QUW,<none>
+33,CONS,<none>
+
+#1134116744 nooo 1.txt
+0,QUW,<none>
+2,CONS,<none>
+3,A,<none>
+33,L,<none>
+35,O,<none>
+39,CONS,<none>
+
+#1134116747 nooo 2.txt
+0,A,<none>
+34,O,<none>
+38,CONS,<none>
+
+#2154166568 now step aside good sir knight 2.txt
+0,L,<none>
+1,CONS,<none>
+5,EI,<none>
+7,A,<none>
+9,CONS,<none>
+16,EI,<none>
+17,CONS,<none>
+31,A,<none>
+32,CONS,<none>
+40,L,<none>
+43,CONS,<none>
+
+#510748346 now step aside good sir knight.txt
+0,QUW,<none>
+2,CONS,<none>
+5,A,<none>
+11,CONS,<none>
+31,QUW,<none>
+32,CONS,<none>
+46,Rest,<none>
+
+#1935304380 oh dear 1.txt
+0,CONS,<none>
+1,EI,<none>
+4,L,<none>
+6,Rest,<none>
+11,CONS,<none>
+16,EI,<none>
+19,CONS,<none>
+
+#1935304383 oh dear 2.txt
+0,CONS,<none>
+2,EI,<none>
+6,L,<none>
+8,CONS,<none>
+11,Rest,<none>
+13,CONS,<none>
+18,A,<none>
+22,CONS,<none>
+24,MBP,<none>
+
+#1100061565 ooer 2.txt
+0,CONS,<none>
+1,EI,<none>
+4,L,<none>
+5,CONS,<none>
+10,A,<none>
+
+#1100061564 ooer 3.txt
+0,EI,<none>
+3,L,<none>
+7,A,<none>
+10,L,<none>
+11,A,<none>
+16,CONS,<none>
+
+#3432251247 ooer.txt
+0,CONS,<none>
+3,A,<none>
+7,L,<none>
+8,CONS,<none>
+10,A,<none>
+15,EI,<none>
+17,CONS,<none>
+
+#1100036425 ooff 1.txt
+0,A,<none>
+7,CONS,<none>
+
+#1941463641 ooff 10.txt
+0,A,<none>
+4,CONS,<none>
+
+#1100036426 ooff 2.txt
+0,A,<none>
+5,CONS,<none>
+
+#1100036427 ooff 3.txt
+0,CONS,<none>
+2,EI,<none>
+4,CONS,<none>
+
+#1100036428 ooff 4.txt
+0,A,<none>
+8,CONS,<none>
+
+#1100036429 ooff 5.txt
+0,A,<none>
+
+#1100036430 ooff 6.txt
+0,A,<none>
+
+#1100036431 ooff 7.txt
+0,A,<none>
+12,CONS,<none>
+
+#1100036416 ooff 8.txt
+0,CONS,<none>
+
+#1100036417 ooff 9.txt
+0,CONS,<none>
+1,EI,<none>
+3,L,<none>
+4,CONS,<none>
+
+#3432222761 ouch.txt
+0,CONS,<none>
+4,EI,<none>
+8,CONS,<none>
+
+#1146038604 overhead 2.txt
+0,MBP,<none>
+1,CONS,<none>
+2,A,<none>
+10,CONS,<none>
+14,A,<none>
+30,CONS,<none>
+32,EI,<none>
+33,CONS,<none>
+
+#1625961950 overhead.txt
+0,A,<none>
+4,CONS,<none>
+22,L,<none>
+23,EI,<none>
+25,CONS,<none>
+
+#3432222737 ow 1.txt
+0,CONS,<none>
+
+#3432222738 ow 2.txt
+0,A,<none>
+5,L,<none>
+6,A,<none>
+8,CONS,<none>
+
+#3432222739 ow 3.txt
+0,A,<none>
+3,CONS,<none>
+
+#3432222740 ow 4.txt
+0,A,<none>
+3,CONS,<none>
+
+#3432222741 ow 5.txt
+0,A,<none>
+3,CONS,<none>
+
+#3432222742 ow 6.txt
+0,A,<none>
+7,CONS,<none>
+
+#3432222743 ow 7.txt
+0,A,<none>
+10,CONS,<none>
+
+#3432222744 ow 8.txt
+0,CONS,<none>
+
+#2875039801 point and laugh 1.txt
+0,A,<none>
+2,CONS,<none>
+13,EI,<none>
+16,CONS,<none>
+19,QUW,<none>
+22,CONS,<none>
+24,Rest,<none>
+26,CONS,<none>
+27,A,<none>
+29,CONS,<none>
+33,A,<none>
+36,CONS,<none>
+37,Rest,<none>
+40,A,<none>
+42,CONS,<none>
+44,Rest,<none>
+47,A,<none>
+49,CONS,<none>
+50,Rest,<none>
+53,A,<none>
+56,CONS,<none>
+60,A,<none>
+64,MBP,<none>
+66,A,<none>
+77,CONS,<none>
+79,Rest,<none>
+
+#2875039802 point and laugh 2.txt
+0,CONS,<none>
+12,MBP,<none>
+14,CONS,<none>
+20,Rest,<none>
+23,A,<none>
+25,CONS,<none>
+27,MBP,<none>
+29,A,<none>
+30,Rest,<none>
+33,CONS,<none>
+34,A,<none>
+36,CONS,<none>
+37,Rest,<none>
+40,A,<none>
+42,Rest,<none>
+45,A,<none>
+48,CONS,<none>
+53,EI,<none>
+62,MBP,<none>
+64,A,<none>
+70,EI,<none>
+79,CONS,<none>
+
+#2075391238 pull ninja rope 1.txt
+0,A,<none>
+8,CONS,<none>
+20,A,<none>
+28,CONS,<none>
+
+#2075391237 pull ninja rope 2.txt
+0,CONS,<none>
+2,EI,<none>
+10,A,<none>
+21,CONS,<none>
+22,A,<none>
+25,CONS,<none>
+
+#2031722349 run away 2.txt
+0,A,<none>
+1,CONS,<none>
+5,EI,<none>
+9,CONS,<none>
+11,A,<none>
+
+#4281057151 run away.txt
+0,A,<none>
+5,CONS,<none>
+18,A,<none>
+
+#3969964554 sad sigh 1.txt
+0,A,<none>
+1,O,<none>
+10,CONS,<none>
+18,A,<none>
+21,EI,<none>
+23,CONS,<none>
+
+#2159811352 sad sigh 21.txt
+0,CONS,<none>
+3,EI,<none>
+5,A,<none>
+23,FV,<none>
+24,CONS,<none>
+
+#3969964552 sad sigh 3.txt
+0,A,<none>
+19,CONS,<none>
+21,A,<none>
+28,CONS,<none>
+38,Rest,<none>
+
+#3828467285 shakefist 1.txt
+0,A,<none>
+12,O,<none>
+54,CONS,<none>
+
+#3828467286 shakefist 2.txt
+0,MBP,<none>
+1,CONS,<none>
+2,O,<none>
+19,A,<none>
+59,CONS,<none>
+
+#1467320075 shallow drown 1.txt
+0,CONS,<none>
+3,MBP,<none>
+5,EI,<none>
+8,CONS,<none>
+
+#1467320072 shallow drown 2.txt
+0,FV,<none>
+1,CONS,<none>
+2,A,<none>
+5,CONS,<none>
+6,MBP,<none>
+8,L,<none>
+10,CONS,<none>
+12,A,<none>
+16,CONS,<none>
+
+#613138230 shriek.txt
+0,CONS,<none>
+2,A,<none>
+17,CONS,<none>
+
+#168985195 sneeze 1.txt
+0,A,<none>
+7,CONS,<none>
+14,A,<none>
+15,L,<none>
+19,CONS,<none>
+
+#168985192 sneeze 2.txt
+0,A,<none>
+6,MBP,<none>
+7,CONS,<none>
+16,L,<none>
+18,A,<none>
+20,CONS,<none>
+
+#3200849796 startled 1.txt
+0,L,<none>
+1,CONS,<none>
+3,A,<none>
+4,CONS,<none>
+
+#3200849799 startled 2.txt
+0,A,<none>
+
+#3200849798 startled 3.txt
+0,A,<none>
+
+#2670695968 take shelter 2.txt
+0,CONS,<none>
+4,A,<none>
+7,CONS,<none>
+16,A,<none>
+24,CONS,<none>
+
+#834626994 take shelter.txt
+0,CONS,<none>
+18,A,<none>
+24,CONS,<none>
+
+#2366916650 take that.txt
+0,CONS,<none>
+7,L,<none>
+9,CONS,<none>
+16,EI,<none>
+17,CONS,<none>
+22,Rest,<none>
+
+#3840628531 taunt 1.txt
+0,A,<none>
+
+#3840628528 taunt 2.txt
+0,A,<none>
+7,L,<none>
+8,A,<none>
+25,MBP,<none>
+
+#3840628529 taunt 3.txt
+0,EI,<none>
+4,A,<none>
+7,L,<none>
+8,A,<none>
+
+#2226323424 the fight is mine.txt
+0,MBP,<none>
+1,A,<none>
+3,FV,<none>
+6,CONS,<none>
+16,EI,<none>
+18,CONS,<none>
+20,EI,<none>
+22,FV,<none>
+24,EI,<none>
+25,CONS,<none>
+27,A,<none>
+33,O,<none>
+39,CONS,<none>
+
+#731633594 tis but a scratch 2.txt
+0,CONS,<none>
+2,EI,<none>
+5,CONS,<none>
+
+#2686505384 tis but a scratch.txt
+0,CONS,<none>
+4,EI,<none>
+6,CONS,<none>
+
+#704942083 titter 1.txt
+0,CONS,<none>
+16,Rest,<none>
+19,CONS,<none>
+32,Rest,<none>
+35,CONS,<none>
+38,Rest,<none>
+40,CONS,<none>
+43,Rest,<none>
+45,EI,<none>
+47,CONS,<none>
+50,EI,<none>
+52,CONS,<none>
+58,Rest,<none>
+59,CONS,<none>
+62,A,<none>
+68,MBP,<none>
+
+#704942080 titter 2.txt
+0,QUW,<none>
+1,CONS,<none>
+4,QUW,<none>
+5,CONS,<none>
+36,QUW,<none>
+37,CONS,<none>
+
+#704942081 titter 3.txt
+0,A,<none>
+1,MBP,<none>
+3,A,<none>
+4,CONS,<none>
+16,QUW,<none>
+17,CONS,<none>
+30,A,<none>
+31,CONS,<none>
+34,A,<none>
+37,CONS,<none>
+39,A,<none>
+42,CONS,<none>
+43,Rest,<none>
+45,A,<none>
+
+#193730094 turncoat 2.txt
+0,CONS,<none>
+6,A,<none>
+9,CONS,<none>
+10,L,<none>
+11,A,<none>
+13,CONS,<none>
+18,A,<none>
+21,CONS,<none>
+26,Rest,<none>
+
+#3892861756 turncoat.txt
+0,CONS,<none>
+5,A,<none>
+10,L,<none>
+11,CONS,<none>
+15,EI,<none>
+18,CONS,<none>
+22,Rest,<none>
+
+#3621044869 using a herring perchance 2.txt
+0,CONS,<none>
+2,L,<none>
+4,CONS,<none>
+17,EI,<none>
+19,CONS,<none>
+23,A,<none>
+26,CONS,<none>
+
+#2641831191 using a herring perchance.txt
+0,CONS,<none>
+2,L,<none>
+4,EI,<none>
+6,L,<none>
+8,CONS,<none>
+17,EI,<none>
+19,CONS,<none>
+22,A,<none>
+25,CONS,<none>
+
+#3904227251 victory is mine 2.txt
+0,CONS,<none>
+7,EI,<none>
+10,CONS,<none>
+19,EI,<none>
+22,CONS,<none>
+31,A,<none>
+34,CONS,<none>
+35,A,<none>
+36,CONS,<none>
+
+#4227561249 victory is mine.txt
+0,CONS,<none>
+8,EI,<none>
+16,CONS,<none>
+18,EI,<none>
+22,CONS,<none>
+31,L,<none>
+32,EI,<none>
+33,CONS,<none>
+
+#3043026477 we will meet again.txt
+0,MBP,<none>
+2,EI,<none>
+5,CONS,<none>
+7,EI,<none>
+10,L,<none>
+12,CONS,<none>
+18,MBP,<none>
+19,CONS,<none>
+22,L,<none>
+23,CONS,<none>
+24,EI,<none>
+28,L,<none>
+29,EI,<none>
+34,CONS,<none>
+
+#2429466986 wipe brow 1.txt
+0,CONS,<none>
+4,A,<none>
+6,CONS,<none>
+10,EI,<none>
+11,CONS,<none>
+16,O,<none>
+19,CONS,<none>
+
+#2429466985 wipe brow 2.txt
+0,CONS,<none>
+12,EI,<none>
+16,A,<none>
+22,CONS,<none>
+23,Rest,<none>
+
+#2429466984 wipe brow 3.txt
+0,A,<none>
+10,CONS,<none>
+
+#384573288 yawn 1.txt
+0,FV,<none>
+2,CONS,<none>
+10,Rest,<none>
+11,CONS,<none>
+17,A,<none>
+20,EI,<none>
+28,CONS,<none>
+
+#384573291 yawn 2.txt
+0,CONS,<none>
+4,EI,<none>
+7,CONS,<none>
+17,EI,<none>
+30,CONS,<none>
+
+#12725395 yellow belly 1.txt
+0,QUW,<none>
+2,CONS,<none>
+8,EI,<none>
+15,CONS,<none>
+18,Rest,<none>
+20,CONS,<none>
+
+#12725392 yellow belly 2.txt
+0,CONS,<none>
+12,EI,<none>
+15,CONS,<none>
+23,A,<none>
+28,CONS,<none>
+
+#4250455647 yes sir.txt
+0,QUW,<none>
+2,CONS,<none>
+19,A,<none>
+
+#1386022922 you dare betray me 2.txt
+0,EI,<none>
+6,L,<none>
+8,CONS,<none>
+19,A,<none>
+23,CONS,<none>
+30,EI,<none>
+33,CONS,<none>
+34,EI,<none>
+35,CONS,<none>
+
+#652025368 you dare betray me.txt
+0,CONS,<none>
+2,EI,<none>
+4,O,<none>
+8,MBP,<none>
+9,CONS,<none>
+16,A,<none>
+19,CONS,<none>
+22,EI,<none>
+23,CONS,<none>
+30,EI,<none>
+33,CONS,<none>
+35,EI,<none>
+39,CONS,<none>
+
+#163119604 you will always be weaker than i 2.txt
+0,CONS,<none>
+4,EI,<none>
+9,L,<none>
+10,EI,<none>
+13,L,<none>
+15,EI,<none>
+16,A,<none>
+19,CONS,<none>
+22,EI,<none>
+25,CONS,<none>
+27,EI,<none>
+28,CONS,<none>
+32,MBP,<none>
+37,EI,<none>
+38,L,<none>
+39,CONS,<none>
+44,A,<none>
+47,CONS,<none>
+60,A,<none>
+65,CONS,<none>
+
+#3419559014 you will always be weaker than i.txt
+0,A,<none>
+10,L,<none>
+13,CONS,<none>
+14,A,<none>
+16,EI,<none>
+20,CONS,<none>
+30,QUW,<none>
+32,CONS,<none>
+34,MBP,<none>
+35,CONS,<none>
+39,EI,<none>
+42,CONS,<none>
+49,A,<none>
+59,CONS,<none>
+
+#2742234606 youve scuffed my armour.txt
+0,CONS,<none>
+3,O,<none>
+6,CONS,<none>
+12,Rest,<none>
+13,CONS,<none>
+

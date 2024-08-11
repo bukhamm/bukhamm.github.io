@@ -1,0 +1,480 @@
+#4261958775 Amazing.txt
+0,0,<none>
+5,EI,<none>
+7,MBP,<none>
+10,A,<none>
+16,EI,<none>
+19,A,<none>
+22,0,<none>
+29,CONS,<none>
+
+#1697936511 Boring.txt
+0,QUW,<none>
+6,A,<none>
+7,QUW,<none>
+12,L,<none>
+18,FV,<none>
+21,CONS,<none>
+
+#4258079595 Brilliant.txt
+0,QUW,<none>
+4,EI,<none>
+9,A,<none>
+17,CONS,<none>
+
+#1704593184 Bummer.txt
+0,A,<none>
+1,FV,<none>
+7,A,<none>
+11,CONS,<none>
+13,FV,<none>
+14,MBP,<none>
+19,CONS,<none>
+
+#1704593185 Bungee.txt
+0,MBP,<none>
+4,A,<none>
+10,FV,<none>
+11,L,<none>
+12,QUW,<none>
+14,0,<none>
+20,MBP,<none>
+21,L,<none>
+28,CONS,<none>
+
+#1709343840 Byebye.txt
+0,0,<none>
+2,L,<none>
+5,QUW,<none>
+9,MBP,<none>
+11,CONS,<none>
+12,EI,<none>
+17,FV,<none>
+25,CONS,<none>
+
+#3016568222 Collect.txt
+0,QUW,<none>
+5,A,<none>
+7,QUW,<none>
+9,0,<none>
+12,CONS,<none>
+15,A,<none>
+16,FV,<none>
+19,0,<none>
+23,MBP,<none>
+29,CONS,<none>
+36,CONS,<none>
+
+#4281901426 Comeonthen.txt
+0,CONS,<none>
+4,A,<none>
+9,0,<none>
+13,QUW,<none>
+19,CONS,<none>
+
+#1654244908 Coward.txt
+0,A,<none>
+6,FV,<none>
+9,EI,<none>
+13,A,<none>
+19,CONS,<none>
+
+#2582909809 Dragonpunch.txt
+0,FV,<none>
+4,0,<none>
+7,EI,<none>
+13,QUW,<none>
+22,CONS,<none>
+
+#2525623881 Drop.txt
+0,FV,<none>
+4,CONS,<none>
+8,A,<none>
+9,FV,<none>
+15,MBP,<none>
+17,EI,<none>
+18,0,<none>
+21,EI,<none>
+27,CONS,<none>
+
+#360741860 Excellent.txt
+0,L,<none>
+3,MBP,<none>
+9,A,<none>
+10,QUW,<none>
+13,FV,<none>
+22,CONS,<none>
+
+#79277818 Fatality.txt
+0,CONS,<none>
+2,FV,<none>
+6,A,<none>
+8,EI,<none>
+13,QUW,<none>
+16,L,<none>
+20,A,<none>
+26,CONS,<none>
+
+#2525827768 Fire.txt
+0,MBP,<none>
+5,A,<none>
+10,0,<none>
+18,CONS,<none>
+
+#1742466043 Fireball.txt
+0,FV,<none>
+6,0,<none>
+7,QUW,<none>
+12,L,<none>
+18,CONS,<none>
+27,CONS,<none>
+
+#2958967440 Firstblood.txt
+0,EI,<none>
+3,0,<none>
+5,QUW,<none>
+9,MBP,<none>
+15,FV,<none>
+20,QUW,<none>
+21,A,<none>
+25,CONS,<none>
+
+#1675116725 Flawless.txt
+0,L,<none>
+3,CONS,<none>
+6,EI,<none>
+7,L,<none>
+11,EI,<none>
+12,MBP,<none>
+18,FV,<none>
+25,CONS,<none>
+
+#1800676870 Goaway.txt
+0,0,<none>
+1,L,<none>
+6,MBP,<none>
+8,0,<none>
+14,CONS,<none>
+22,CONS,<none>
+
+#4018000222 Grenade.txt
+0,MBP,<none>
+1,EI,<none>
+2,CONS,<none>
+8,FV,<none>
+10,QUW,<none>
+16,CONS,<none>
+22,CONS,<none>
+
+#1745538082 Hello.txt
+0,A,<none>
+3,L,<none>
+8,CONS,<none>
+11,L,<none>
+17,EI,<none>
+21,0,<none>
+27,CONS,<none>
+
+#1746115300 Hurry.txt
+0,0,<none>
+1,QUW,<none>
+4,MBP,<none>
+6,FV,<none>
+11,L,<none>
+19,CONS,<none>
+
+#1242751836 Illgetyou.txt
+0,EI,<none>
+5,FV,<none>
+11,A,<none>
+13,CONS,<none>
+19,0,<none>
+22,EI,<none>
+30,CONS,<none>
+
+#1862058438 Incoming.txt
+0,0,<none>
+4,A,<none>
+8,L,<none>
+13,FV,<none>
+16,QUW,<none>
+22,EI,<none>
+27,CONS,<none>
+
+#1753080819 Jump1.txt
+0,QUW,<none>
+6,CONS,<none>
+
+#1753080816 Jump2.txt
+0,FV,<none>
+3,MBP,<none>
+8,L,<none>
+16,CONS,<none>
+
+#3435333264 Justyouwait.txt
+0,A,<none>
+1,MBP,<none>
+2,CONS,<none>
+3,EI,<none>
+6,CONS,<none>
+11,0,<none>
+13,MBP,<none>
+16,0,<none>
+21,MBP,<none>
+23,CONS,<none>
+
+#3360160283 Kamikaze.txt
+0,MBP,<none>
+1,A,<none>
+2,EI,<none>
+5,QUW,<none>
+9,0,<none>
+15,MBP,<none>
+18,QUW,<none>
+22,MBP,<none>
+26,A,<none>
+31,FV,<none>
+38,CONS,<none>
+
+#1750165079 Laugh.txt
+0,MBP,<none>
+4,FV,<none>
+10,QUW,<none>
+15,0,<none>
+17,FV,<none>
+23,0,<none>
+30,CONS,<none>
+
+#1970787162 Leavemealone.txt
+0,QUW,<none>
+5,CONS,<none>
+11,QUW,<none>
+14,A,<none>
+20,EI,<none>
+28,CONS,<none>
+
+#1877039493 Missed
+0,QUW,<none>
+1,A,<none>
+5,QUW,<none>
+9,L,<none>
+11,FV,<none>
+14,A,<none>
+15,MBP,<none>
+16,L,<none>
+20,FV,<none>
+24,MBP,<none>
+26,CONS,<none>
+28,L,<none>
+35,CONS,<none>
+
+#278396513 Nooo.txt
+0,MBP,<none>
+1,A,<none>
+2,MBP,<none>
+6,EI,<none>
+12,QUW,<none>
+22,CONS,<none>
+
+#2105263541 Ohdear.txt
+0,0,<none>
+4,EI,<none>
+10,MBP,<none>
+14,QUW,<none>
+18,A,<none>
+22,FV,<none>
+23,MBP,<none>
+30,CONS,<none>
+
+#433901354 Oinutter.txt
+0,MBP,<none>
+4,L,<none>
+9,A,<none>
+12,FV,<none>
+16,CONS,<none>
+20,CONS,<none>
+
+#2526055127 Oof1.txt
+0,MBP,<none>
+4,L,<none>
+10,CONS,<none>
+
+#2526055124 Oof2.txt
+0,0,<none>
+1,CONS,<none>
+6,0,<none>
+13,CONS,<none>
+
+#2526055125 Oof3.txt
+0,A,<none>
+3,EI,<none>
+10,CONS,<none>
+
+#2526055491 Oops.txt
+0,FV,<none>
+6,A,<none>
+11,FV,<none>
+14,L,<none>
+18,CONS,<none>
+
+#2126749085 Orders.txt
+0,A,<none>
+5,FV,<none>
+11,L,<none>
+14,EI,<none>
+20,CONS,<none>
+
+#2526087537 Ouch.txt
+0,QUW,<none>
+6,0,<none>
+7,A,<none>
+10,MBP,<none>
+13,CONS,<none>
+
+#597150057 Ow1.txt
+0,0,<none>
+4,EI,<none>
+10,CONS,<none>
+
+#597150058 Ow2.txt
+0,A,<none>
+2,L,<none>
+3,QUW,<none>
+5,CONS,<none>
+11,QUW,<none>
+16,CONS,<none>
+
+#597150059 Ow3.txt
+0,0,<none>
+1,QUW,<none>
+3,A,<none>
+4,MBP,<none>
+7,CONS,<none>
+11,QUW,<none>
+15,MBP,<none>
+20,CONS,<none>
+
+#4258968339 Perfect.txt
+0,QUW,<none>
+1,A,<none>
+7,L,<none>
+11,FV,<none>
+13,MBP,<none>
+15,CONS,<none>
+21,QUW,<none>
+24,EI,<none>
+29,CONS,<none>
+
+#3247476200 Revenge.txt
+0,L,<none>
+3,CONS,<none>
+4,L,<none>
+5,CONS,<none>
+6,FV,<none>
+9,MBP,<none>
+11,L,<none>
+13,FV,<none>
+15,QUW,<none>
+21,CONS,<none>
+
+#2649644519 Runaway.txt
+0,A,<none>
+6,QUW,<none>
+8,A,<none>
+11,CONS,<none>
+16,QUW,<none>
+17,EI,<none>
+22,A,<none>
+24,CONS,<none>
+
+#2257647695 Stupid.txt
+0,MBP,<none>
+4,A,<none>
+8,CONS,<none>
+11,FV,<none>
+14,QUW,<none>
+23,CONS,<none>
+
+#608389718 Takecover.txt
+0,L,<none>
+5,QUW,<none>
+8,FV,<none>
+12,0,<none>
+15,A,<none>
+16,EI,<none>
+17,QUW,<none>
+20,FV,<none>
+21,CONS,<none>
+27,CONS,<none>
+
+#26660551 Traitor.txt
+0,A,<none>
+6,FV,<none>
+12,CONS,<none>
+14,FV,<none>
+21,CONS,<none>
+
+#2526158074 Uh-Oh.txt
+0,0,<none>
+4,MBP,<none>
+8,FV,<none>
+10,MBP,<none>
+16,L,<none>
+21,CONS,<none>
+
+#3884012 Victory.txt
+0,CONS,<none>
+3,L,<none>
+5,QUW,<none>
+6,0,<none>
+12,L,<none>
+16,0,<none>
+18,A,<none>
+19,0,<none>
+21,QUW,<none>
+29,CONS,<none>
+
+#2925328687 Watchthis.txt
+0,0,<none>
+4,FV,<none>
+8,A,<none>
+17,CONS,<none>
+
+#3127181267 Whatthe.txt
+0,FV,<none>
+6,L,<none>
+9,A,<none>
+13,0,<none>
+19,CONS,<none>
+
+#3127181268 Wobble.txt
+0,CONS,<none>
+2,0,<none>
+3,EI,<none>
+5,L,<none>
+10,0,<none>
+21,CONS,<none>
+
+#2359779975 Yessir.txt
+0,A,<none>
+1,MBP,<none>
+3,EI,<none>
+5,MBP,<none>
+8,A,<none>
+14,MBP,<none>
+19,FV,<none>
+24,CONS,<none>
+
+#1446985113 Youllregretthat.txt
+0,FV,<none>
+6,MBP,<none>
+9,CONS,<none>
+10,0,<none>
+14,FV,<none>
+15,MBP,<none>
+19,CONS,<none>
+21,0,<none>
+22,A,<none>
+25,EI,<none>
+28,CONS,<none>
+

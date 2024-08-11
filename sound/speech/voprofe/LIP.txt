@@ -1,0 +1,1095 @@
+#2349814973 a classic case of retroactive abortion.txt
+0,QUW,<none>
+2,CONS,<none>
+9,EI,<none>
+11,CONS,<none>
+14,EI,<none>
+18,CONS,<none>
+20,EI,<none>
+22,FV,<none>
+25,CONS,<none>
+29,EI,<none>
+31,CONS,<none>
+37,EI,<none>
+38,CONS,<none>
+41,MBP,<none>
+43,O,<none>
+46,CONS,<none>
+48,EI,<none>
+49,CONS,<none>
+
+#2134812020 a time machine would be handy here 2.txt
+0,CONS,<none>
+12,EI,<none>
+13,CONS,<none>
+19,EI,<none>
+22,L,<none>
+25,CONS,<none>
+36,EI,<none>
+37,L,<none>
+38,CONS,<none>
+44,EI,<none>
+46,CONS,<none>
+
+#4103673830 a time machine would be handy here.txt
+0,A,<none>
+1,CONS,<none>
+5,MBP,<none>
+11,CONS,<none>
+15,EI,<none>
+18,L,<none>
+21,CONS,<none>
+23,EI,<none>
+25,CONS,<none>
+31,EI,<none>
+33,FV,<none>
+34,EI,<none>
+36,CONS,<none>
+
+#4256918910 a-ha the flux capacitor.txt
+0,CONS,<none>
+13,A,<none>
+14,CONS,<none>
+16,Rest,<none>
+22,CONS,<none>
+25,FV,<none>
+29,CONS,<none>
+
+#1457946341 aaa1.txt
+0,A,<none>
+29,EI,<none>
+96,FV,<none>
+
+#1457946342 aaa2.txt
+0,CONS,<none>
+10,A,<none>
+15,CONS,<none>
+25,A,<none>
+40,O,<none>
+
+#434632061 aha.txt
+0,A,<none>
+1,CONS,<none>
+13,A,<none>
+14,CONS,<none>
+
+#195029925 astrophysics.txt
+0,CONS,<none>
+9,EI,<none>
+13,FV,<none>
+15,CONS,<none>
+
+#4112208180 by jove ive cracked it 2.txt
+0,CONS,<none>
+5,L,<none>
+7,CONS,<none>
+29,EI,<none>
+30,CONS,<none>
+
+#2681721766 by jove ive cracked it.txt
+0,CONS,<none>
+8,EI,<none>
+12,CONS,<none>
+14,Rest,<none>
+17,CONS,<none>
+
+#2672617098 call me professor boy 2.txt
+0,L,<none>
+3,CONS,<none>
+8,A,<none>
+10,CONS,<none>
+15,A,<none>
+17,CONS,<none>
+19,A,<none>
+22,CONS,<none>
+
+#1359174808 call me professor boy.txt
+0,A,<none>
+5,CONS,<none>
+9,A,<none>
+11,CONS,<none>
+14,A,<none>
+16,CONS,<none>
+17,A,<none>
+19,CONS,<none>
+20,A,<none>
+23,CONS,<none>
+
+#3554610205 cheer 1.txt
+0,A,<none>
+6,CONS,<none>
+26,EI,<none>
+29,CONS,<none>
+
+#3554610206 cheer 2.txt
+0,CONS,<none>
+8,EI,<none>
+10,CONS,<none>
+
+#1771066048 class dismissed.txt
+0,CONS,<none>
+7,MBP,<none>
+9,EI,<none>
+10,CONS,<none>
+22,Rest,<none>
+
+#1347059944 clutch chest 1.txt
+0,A,<none>
+64,CONS,<none>
+67,A,<none>
+69,CONS,<none>
+
+#1347059947 clutch chest 2.txt
+0,L,<none>
+1,A,<none>
+7,L,<none>
+9,O,<none>
+12,L,<none>
+13,O,<none>
+24,A,<none>
+29,L,<none>
+31,O,<none>
+50,A,<none>
+52,L,<none>
+53,A,<none>
+73,CONS,<none>
+
+#1921886587 disbelief 1.txt
+0,EI,<none>
+4,CONS,<none>
+
+#1921886584 disbelief 2.txt
+0,MBP,<none>
+
+#1921886585 disbelief 3.txt
+0,CONS,<none>
+1,A,<none>
+
+#1921886590 disbelief 4.txt
+0,EI,<none>
+8,CONS,<none>
+
+#979926904 eat hubbles law.txt
+0,EI,<none>
+4,CONS,<none>
+12,O,<none>
+13,A,<none>
+17,CONS,<none>
+21,A,<none>
+24,L,<none>
+27,CONS,<none>
+
+#1731809194 equations arent living things.txt
+0,CONS,<none>
+11,EI,<none>
+13,L,<none>
+14,CONS,<none>
+23,QUW,<none>
+25,CONS,<none>
+26,EI,<none>
+27,L,<none>
+28,CONS,<none>
+31,EI,<none>
+32,L,<none>
+33,CONS,<none>
+37,FV,<none>
+39,CONS,<none>
+42,O,<none>
+44,EI,<none>
+47,L,<none>
+49,CONS,<none>
+
+#2933476385 gasp 1.txt
+0,CONS,<none>
+2,A,<none>
+
+#2933476386 gasp 2.txt
+0,CONS,<none>
+3,A,<none>
+
+#2933476387 gasp 3.txt
+0,CONS,<none>
+1,A,<none>
+
+#3161349601 geophysics 2.txt
+0,CONS,<none>
+10,EI,<none>
+12,CONS,<none>
+22,Rest,<none>
+
+#4254486771 geophysics.txt
+0,MBP,<none>
+1,CONS,<none>
+2,EI,<none>
+5,CONS,<none>
+8,EI,<none>
+10,CONS,<none>
+14,EI,<none>
+16,CONS,<none>
+
+#1243129534 grade f for you.txt
+0,EI,<none>
+1,CONS,<none>
+10,EI,<none>
+12,CONS,<none>
+17,FV,<none>
+20,MBP,<none>
+24,EI,<none>
+25,L,<none>
+27,EI,<none>
+31,MBP,<none>
+
+#3568953487 how about using the little grey cells hmm.txt
+0,CONS,<none>
+10,MBP,<none>
+11,CONS,<none>
+13,EI,<none>
+16,L,<none>
+19,O,<none>
+21,CONS,<none>
+22,A,<none>
+24,CONS,<none>
+25,EI,<none>
+26,CONS,<none>
+28,EI,<none>
+29,L,<none>
+31,CONS,<none>
+37,L,<none>
+38,CONS,<none>
+40,A,<none>
+44,CONS,<none>
+52,EI,<none>
+55,CONS,<none>
+
+#1656016373 how easy do you think rocket science is now hmm 2.txt
+0,CONS,<none>
+6,L,<none>
+7,CONS,<none>
+8,EI,<none>
+10,CONS,<none>
+16,QUW,<none>
+18,L,<none>
+20,CONS,<none>
+34,L,<none>
+35,CONS,<none>
+36,EI,<none>
+37,CONS,<none>
+46,A,<none>
+48,CONS,<none>
+49,A,<none>
+52,EI,<none>
+56,CONS,<none>
+
+#198718439 how easy do you think rocket science is now hmm.txt
+0,CONS,<none>
+4,EI,<none>
+5,CONS,<none>
+11,EI,<none>
+13,CONS,<none>
+15,EI,<none>
+17,CONS,<none>
+19,QUW,<none>
+21,A,<none>
+22,L,<none>
+24,CONS,<none>
+27,A,<none>
+29,CONS,<none>
+40,EI,<none>
+43,L,<none>
+46,CONS,<none>
+52,A,<none>
+56,CONS,<none>
+58,QUW,<none>
+62,L,<none>
+64,QUW,<none>
+66,CONS,<none>
+67,Rest,<none>
+
+#33471966 i see youre not here to learn science 1.txt
+0,CONS,<none>
+3,EI,<none>
+5,CONS,<none>
+13,EI,<none>
+16,CONS,<none>
+18,EI,<none>
+21,CONS,<none>
+22,EI,<none>
+23,CONS,<none>
+25,A,<none>
+28,EI,<none>
+29,CONS,<none>
+
+#33471965 i see youre not here to learn science 2.txt
+0,CONS,<none>
+7,EI,<none>
+9,CONS,<none>
+16,A,<none>
+24,CONS,<none>
+
+#3909976551 its a miracle.txt
+0,CONS,<none>
+13,EI,<none>
+17,CONS,<none>
+
+#1046307800 its chemistry not rocket science.txt
+0,CONS,<none>
+16,L,<none>
+17,EI,<none>
+19,CONS,<none>
+25,MBP,<none>
+29,A,<none>
+30,CONS,<none>
+31,EI,<none>
+33,CONS,<none>
+
+#963845010 ive done it.txt
+0,QUW,<none>
+1,CONS,<none>
+3,EI,<none>
+4,CONS,<none>
+
+#3336152582 jump 1.txt
+0,A,<none>
+7,CONS,<none>
+9,EI,<none>
+10,CONS,<none>
+12,Rest,<none>
+
+#3336152581 jump 2.txt
+0,CONS,<none>
+4,MBP,<none>
+7,CONS,<none>
+
+#3336152580 jump 3.txt
+0,CONS,<none>
+2,Rest,<none>
+
+#3336152579 jump 4.txt
+0,A,<none>
+2,CONS,<none>
+
+#3336152578 jump 5.txt
+0,L,<none>
+2,A,<none>
+9,CONS,<none>
+
+#3336152577 jump 6.txt
+0,CONS,<none>
+
+#3336152576 jump 7.txt
+0,CONS,<none>
+3,Rest,<none>
+
+#3336152591 jump 8.txt
+0,CONS,<none>
+2,A,<none>
+6,EI,<none>
+11,L,<none>
+15,CONS,<none>
+
+#3336152590 jump 9.txt
+0,CONS,<none>
+5,EI,<none>
+10,CONS,<none>
+
+#518838993 just leave me to finish this experiment.txt
+0,CONS,<none>
+11,L,<none>
+12,CONS,<none>
+16,FV,<none>
+19,CONS,<none>
+25,EI,<none>
+27,CONS,<none>
+37,EI,<none>
+38,CONS,<none>
+39,EI,<none>
+40,CONS,<none>
+
+#1222157469 lab begins at 8-30 not 8-31 2.txt
+0,CONS,<none>
+6,Rest,<none>
+7,CONS,<none>
+10,EI,<none>
+13,L,<none>
+14,CONS,<none>
+15,EI,<none>
+16,CONS,<none>
+23,FV,<none>
+25,A,<none>
+28,CONS,<none>
+30,A,<none>
+32,FV,<none>
+33,MBP,<none>
+34,CONS,<none>
+44,A,<none>
+46,CONS,<none>
+47,EI,<none>
+49,L,<none>
+51,A,<none>
+53,CONS,<none>
+55,EI,<none>
+57,CONS,<none>
+
+#900344079 lab begins at 8-30 not 8-31.txt
+0,CONS,<none>
+7,QUW,<none>
+8,MBP,<none>
+10,CONS,<none>
+13,L,<none>
+16,EI,<none>
+18,CONS,<none>
+24,FV,<none>
+26,EI,<none>
+28,CONS,<none>
+30,EI,<none>
+31,CONS,<none>
+32,EI,<none>
+33,MBP,<none>
+34,CONS,<none>
+44,A,<none>
+46,CONS,<none>
+47,EI,<none>
+49,MBP,<none>
+50,A,<none>
+55,CONS,<none>
+
+#2506684724 morning class 1.txt
+0,MBP,<none>
+1,O,<none>
+3,CONS,<none>
+5,EI,<none>
+7,CONS,<none>
+10,A,<none>
+13,CONS,<none>
+
+#2506684727 morning class 2.txt
+0,CONS,<none>
+3,EI,<none>
+5,CONS,<none>
+6,EI,<none>
+8,L,<none>
+10,CONS,<none>
+13,A,<none>
+16,CONS,<none>
+24,Rest,<none>
+
+#3504922755 my work my lifes work gone.txt
+0,CONS,<none>
+4,EI,<none>
+5,L,<none>
+8,CONS,<none>
+11,EI,<none>
+12,CONS,<none>
+20,EI,<none>
+21,MBP,<none>
+23,CONS,<none>
+27,EI,<none>
+29,CONS,<none>
+36,L,<none>
+39,A,<none>
+41,CONS,<none>
+55,EI,<none>
+56,MBP,<none>
+
+#877911909 nooo1.txt
+0,CONS,<none>
+3,A,<none>
+16,CONS,<none>
+18,A,<none>
+42,O,<none>
+
+#877911910 nooo2.txt
+0,QUW,<none>
+1,CONS,<none>
+3,A,<none>
+49,L,<none>
+50,A,<none>
+63,L,<none>
+64,A,<none>
+73,CONS,<none>
+74,Rest,<none>
+
+#2056789172 now who can tell me 2.txt
+0,MBP,<none>
+1,CONS,<none>
+4,EI,<none>
+6,CONS,<none>
+7,MBP,<none>
+8,Rest,<none>
+12,CONS,<none>
+14,A,<none>
+15,L,<none>
+17,CONS,<none>
+23,EI,<none>
+27,CONS,<none>
+
+#2695610150 now who can tell me.txt
+0,MBP,<none>
+1,CONS,<none>
+3,A,<none>
+5,CONS,<none>
+10,A,<none>
+13,EI,<none>
+17,CONS,<none>
+19,L,<none>
+22,CONS,<none>
+25,EI,<none>
+29,L,<none>
+31,CONS,<none>
+34,EI,<none>
+36,CONS,<none>
+
+#878944644 ooff1.txt
+0,A,<none>
+
+#3235369524 ooff10.txt
+0,A,<none>
+
+#878944647 ooff2.txt
+0,CONS,<none>
+4,EI,<none>
+7,L,<none>
+8,FV,<none>
+
+#878944646 ooff3.txt
+0,CONS,<none>
+2,EI,<none>
+
+#878944641 ooff4.txt
+0,CONS,<none>
+3,L,<none>
+5,CONS,<none>
+
+#878944640 ooff5.txt
+0,EI,<none>
+3,CONS,<none>
+
+#878944643 ooff6.txt
+0,A,<none>
+4,CONS,<none>
+
+#878944642 ooff7.txt
+0,L,<none>
+2,CONS,<none>
+
+#878944653 ooff8.txt
+0,L,<none>
+4,FV,<none>
+
+#878944652 ooff9.txt
+0,A,<none>
+1,EI,<none>
+4,CONS,<none>
+
+#434642012 ow1.txt
+0,CONS,<none>
+4,L,<none>
+
+#1458284524 ow10.txt
+0,CONS,<none>
+
+#434642015 ow2.txt
+0,CONS,<none>
+1,EI,<none>
+4,CONS,<none>
+
+#434642014 ow3.txt
+0,CONS,<none>
+7,L,<none>
+8,Rest,<none>
+
+#434642009 ow4.txt
+0,CONS,<none>
+1,EI,<none>
+
+#434642008 ow5.txt
+0,CONS,<none>
+4,L,<none>
+
+#434642011 ow6.txt
+0,CONS,<none>
+
+#434642010 ow7.txt
+0,QUW,<none>
+
+#434642005 ow8.txt
+0,CONS,<none>
+
+#434642004 ow9.txt
+0,A,<none>
+
+#3240631124 point and laugh 1.txt
+0,CONS,<none>
+29,A,<none>
+32,CONS,<none>
+36,A,<none>
+37,CONS,<none>
+41,A,<none>
+43,CONS,<none>
+47,A,<none>
+51,CONS,<none>
+56,Rest,<none>
+57,CONS,<none>
+61,A,<none>
+75,EI,<none>
+79,CONS,<none>
+
+#3240631127 point and laugh 2.txt
+0,CONS,<none>
+7,MBP,<none>
+10,CONS,<none>
+16,Rest,<none>
+17,A,<none>
+18,CONS,<none>
+21,MBP,<none>
+22,A,<none>
+23,CONS,<none>
+26,A,<none>
+28,Rest,<none>
+30,EI,<none>
+31,CONS,<none>
+35,EI,<none>
+36,CONS,<none>
+41,Rest,<none>
+44,EI,<none>
+46,CONS,<none>
+48,Rest,<none>
+49,A,<none>
+51,Rest,<none>
+55,EI,<none>
+57,CONS,<none>
+62,EI,<none>
+68,CONS,<none>
+70,A,<none>
+87,CONS,<none>
+92,EI,<none>
+93,FV,<none>
+
+#905468523 pull ninja rope 1.txt
+0,QUW,<none>
+4,L,<none>
+6,EI,<none>
+74,CONS,<none>
+76,A,<none>
+
+#905468520 pull ninja rope 2.txt
+0,A,<none>
+13,O,<none>
+28,L,<none>
+29,EI,<none>
+48,A,<none>
+59,EI,<none>
+
+#2791873974 radiative transfer in motion.txt
+0,MBP,<none>
+3,CONS,<none>
+7,A,<none>
+13,CONS,<none>
+14,EI,<none>
+16,CONS,<none>
+32,L,<none>
+34,QUW,<none>
+35,CONS,<none>
+37,EI,<none>
+39,CONS,<none>
+41,EI,<none>
+42,CONS,<none>
+
+#1009153223 sad sigh 1.txt
+0,CONS,<none>
+2,O,<none>
+9,CONS,<none>
+18,A,<none>
+29,CONS,<none>
+34,EI,<none>
+
+#1009153220 sad sigh 2.txt
+0,CONS,<none>
+1,A,<none>
+4,EI,<none>
+6,CONS,<none>
+
+#1009153221 sad sigh 3.txt
+0,CONS,<none>
+3,A,<none>
+26,CONS,<none>
+
+#4111200440 shakefist 1.txt
+0,A,<none>
+13,QUW,<none>
+44,CONS,<none>
+46,MBP,<none>
+
+#4111200443 shakefist 2.txt
+0,CONS,<none>
+3,A,<none>
+46,CONS,<none>
+
+#364123622 shallow drown 1.txt
+0,QUW,<none>
+4,CONS,<none>
+7,A,<none>
+
+#364123621 shallow drown 2.txt
+0,CONS,<none>
+5,MBP,<none>
+8,CONS,<none>
+
+#2925286698 shriek 1.txt
+0,CONS,<none>
+
+#2925286697 shriek 2.txt
+0,CONS,<none>
+
+#2778774630 sneeze 1.txt
+0,CONS,<none>
+12,EI,<none>
+13,L,<none>
+16,FV,<none>
+
+#2778774629 sneeze 2.txt
+0,EI,<none>
+1,CONS,<none>
+14,L,<none>
+15,A,<none>
+
+#496352329 startled 1.txt
+0,A,<none>
+
+#496352330 startled 2.txt
+0,A,<none>
+
+#496352331 startled 3.txt
+0,CONS,<none>
+4,EI,<none>
+6,CONS,<none>
+
+#2338599838 taunt1.txt
+0,CONS,<none>
+2,A,<none>
+16,CONS,<none>
+17,A,<none>
+19,CONS,<none>
+
+#2338599837 taunt2.txt
+0,A,<none>
+
+#2338599836 taunt3.txt
+0,CONS,<none>
+
+#2765129125 the summation theoretically goes to infinity 2.txt
+0,CONS,<none>
+4,EI,<none>
+5,CONS,<none>
+13,EI,<none>
+15,CONS,<none>
+16,EI,<none>
+18,CONS,<none>
+28,EI,<none>
+30,CONS,<none>
+34,L,<none>
+35,CONS,<none>
+39,EI,<none>
+40,CONS,<none>
+54,A,<none>
+57,L,<none>
+58,CONS,<none>
+
+#1426306999 the summation theoretically goes to infinity.txt
+0,A,<none>
+2,CONS,<none>
+13,L,<none>
+14,QUW,<none>
+18,CONS,<none>
+31,EI,<none>
+32,CONS,<none>
+49,EI,<none>
+50,CONS,<none>
+53,EI,<none>
+56,CONS,<none>
+57,A,<none>
+58,L,<none>
+60,MBP,<none>
+
+#817519873 these formulas are your friends.txt
+0,MBP,<none>
+1,CONS,<none>
+4,MBP,<none>
+6,A,<none>
+9,CONS,<none>
+10,EI,<none>
+12,CONS,<none>
+22,FV,<none>
+25,CONS,<none>
+30,L,<none>
+33,CONS,<none>
+
+#1922758963 this isnt newtons law.txt
+0,CONS,<none>
+6,EI,<none>
+8,CONS,<none>
+10,EI,<none>
+12,CONS,<none>
+15,L,<none>
+18,CONS,<none>
+19,A,<none>
+20,CONS,<none>
+22,EI,<none>
+23,CONS,<none>
+24,L,<none>
+25,CONS,<none>
+27,L,<none>
+28,A,<none>
+37,CONS,<none>
+
+#1563438670 titter 1.txt
+0,CONS,<none>
+9,EI,<none>
+10,CONS,<none>
+42,EI,<none>
+43,CONS,<none>
+46,A,<none>
+48,CONS,<none>
+49,Rest,<none>
+50,A,<none>
+52,CONS,<none>
+53,Rest,<none>
+54,CONS,<none>
+55,A,<none>
+56,CONS,<none>
+60,EI,<none>
+61,FV,<none>
+
+#1563438669 titter 2.txt
+0,MBP,<none>
+4,L,<none>
+5,CONS,<none>
+15,Rest,<none>
+18,A,<none>
+19,CONS,<none>
+25,Rest,<none>
+27,EI,<none>
+29,CONS,<none>
+32,EI,<none>
+34,CONS,<none>
+37,EI,<none>
+38,CONS,<none>
+39,Rest,<none>
+40,EI,<none>
+42,CONS,<none>
+
+#1563438667 titter 4.txt
+0,A,<none>
+1,CONS,<none>
+4,A,<none>
+5,CONS,<none>
+7,A,<none>
+9,CONS,<none>
+
+#3885622893 too much infrared radiation in here.txt
+0,EI,<none>
+3,L,<none>
+4,CONS,<none>
+9,EI,<none>
+10,CONS,<none>
+14,EI,<none>
+16,CONS,<none>
+21,L,<none>
+22,CONS,<none>
+24,EI,<none>
+25,CONS,<none>
+26,EI,<none>
+31,CONS,<none>
+35,EI,<none>
+36,CONS,<none>
+47,Rest,<none>
+
+#3602333107 we got a one oer four pi epsilon.txt
+0,MBP,<none>
+2,CONS,<none>
+5,EI,<none>
+7,L,<none>
+10,CONS,<none>
+19,FV,<none>
+21,O,<none>
+26,CONS,<none>
+40,EI,<none>
+47,CONS,<none>
+48,FV,<none>
+
+#1255118288 what is the astrophysical significance of this 2.txt
+0,L,<none>
+1,CONS,<none>
+6,EI,<none>
+8,CONS,<none>
+10,EI,<none>
+13,CONS,<none>
+19,EI,<none>
+22,FV,<none>
+27,CONS,<none>
+28,EI,<none>
+31,CONS,<none>
+32,EI,<none>
+34,CONS,<none>
+38,A,<none>
+39,CONS,<none>
+40,A,<none>
+42,CONS,<none>
+44,EI,<none>
+46,CONS,<none>
+52,EI,<none>
+54,CONS,<none>
+
+#584857922 what is the astrophysical significance of this.txt
+0,L,<none>
+2,CONS,<none>
+8,EI,<none>
+9,CONS,<none>
+11,EI,<none>
+14,CONS,<none>
+21,EI,<none>
+24,CONS,<none>
+25,EI,<none>
+26,CONS,<none>
+31,A,<none>
+32,CONS,<none>
+34,A,<none>
+35,CONS,<none>
+38,FV,<none>
+40,EI,<none>
+41,CONS,<none>
+47,EI,<none>
+49,MBP,<none>
+52,CONS,<none>
+54,EI,<none>
+55,CONS,<none>
+
+#706634436 whats a minus sign between enemies.txt
+0,CONS,<none>
+6,EI,<none>
+8,CONS,<none>
+11,EI,<none>
+13,CONS,<none>
+15,EI,<none>
+17,CONS,<none>
+21,A,<none>
+25,L,<none>
+27,CONS,<none>
+28,EI,<none>
+29,CONS,<none>
+31,L,<none>
+34,A,<none>
+36,EI,<none>
+37,CONS,<none>
+38,EI,<none>
+41,CONS,<none>
+
+#1951404807 wipe brow 1.txt
+0,FV,<none>
+4,A,<none>
+7,CONS,<none>
+13,EI,<none>
+16,CONS,<none>
+20,L,<none>
+22,CONS,<none>
+31,Rest,<none>
+
+#1951404804 wipe brow 2.txt
+0,CONS,<none>
+3,A,<none>
+15,CONS,<none>
+23,L,<none>
+26,A,<none>
+
+#2318776111 wonderful.txt
+0,CONS,<none>
+10,O,<none>
+13,CONS,<none>
+14,Rest,<none>
+
+#2548131557 yawn 1.txt
+0,CONS,<none>
+2,EI,<none>
+4,CONS,<none>
+7,A,<none>
+9,EI,<none>
+17,FV,<none>
+
+#2548131558 yawn 2.txt
+0,CONS,<none>
+9,EI,<none>
+10,CONS,<none>
+13,A,<none>
+23,CONS,<none>
+26,A,<none>
+32,FV,<none>
+
+#1903664376 you a lab rat or something 2.txt
+0,CONS,<none>
+5,EI,<none>
+8,CONS,<none>
+10,A,<none>
+14,CONS,<none>
+16,MBP,<none>
+19,A,<none>
+21,CONS,<none>
+22,O,<none>
+26,CONS,<none>
+
+#1046896234 you a lab rat or something.txt
+0,CONS,<none>
+5,EI,<none>
+7,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+13,MBP,<none>
+15,A,<none>
+17,FV,<none>
+18,CONS,<none>
+
+#2444497427 you will learn thermo dynamics.txt
+0,MBP,<none>
+1,L,<none>
+2,O,<none>
+5,CONS,<none>
+6,MBP,<none>
+8,EI,<none>
+12,CONS,<none>
+15,A,<none>
+19,L,<none>
+20,EI,<none>
+22,FV,<none>
+25,CONS,<none>
+29,A,<none>
+30,CONS,<none>
+
+#2391414915 zero one infinity 2.txt
+0,CONS,<none>
+5,A,<none>
+10,EI,<none>
+12,CONS,<none>
+13,L,<none>
+15,CONS,<none>
+16,A,<none>
+19,CONS,<none>
+20,O,<none>
+22,Rest,<none>
+25,CONS,<none>
+28,QUW,<none>
+30,CONS,<none>
+35,EI,<none>
+36,CONS,<none>
+
+#554349713 zero one infinity.txt
+0,CONS,<none>
+10,A,<none>
+12,Rest,<none>
+17,MBP,<none>
+18,A,<none>
+24,O,<none>
+26,CONS,<none>
+35,QUW,<none>
+36,CONS,<none>
+45,A,<none>
+47,CONS,<none>
+

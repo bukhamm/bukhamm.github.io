@@ -1,0 +1,418 @@
+#3318394348 amazing.txt
+0,EI,<none>
+4,CONS,<none>
+9,A,<none>
+13,CONS,<none>
+
+#1698399684 boring.txt
+0,L,<none>
+2,A,<none>
+3,CONS,<none>
+6,A,<none>
+9,CONS,<none>
+
+#4278079472 brilliant.txt
+0,QUW,<none>
+2,CONS,<none>
+4,A,<none>
+
+#1682264091 bummer.txt
+0,A,<none>
+5,CONS,<none>
+7,A,<none>
+10,CONS,<none>
+
+#1668601307 byebye.txt
+0,QUW,<none>
+1,CONS,<none>
+2,A,<none>
+4,CONS,<none>
+7,A,<none>
+10,CONS,<none>
+
+#3175833250 cheer.txt
+0,CONS,<none>
+6,A,<none>
+
+#684146053 clutch chest 2.txt
+0,CONS,<none>
+
+#2307842071 clutch chest.txt
+0,QUW,<none>
+4,CONS,<none>
+7,L,<none>
+10,QUW,<none>
+11,MBP,<none>
+13,A,<none>
+14,CONS,<none>
+
+#1384739269 collect.txt
+0,QUW,<none>
+1,CONS,<none>
+2,EI,<none>
+8,CONS,<none>
+
+#3744054985 comeonthen.txt
+0,MBP,<none>
+1,CONS,<none>
+2,A,<none>
+12,CONS,<none>
+
+#1732882711 coward.txt
+0,CONS,<none>
+2,A,<none>
+7,CONS,<none>
+9,EI,<none>
+11,CONS,<none>
+
+#2942769333 disbelief1.txt
+0,A,<none>
+5,CONS,<none>
+
+#2942769334 disbelief2.txt
+0,CONS,<none>
+1,A,<none>
+3,CONS,<none>
+
+#1072591850 dragonpunch.txt
+0,A,<none>
+
+#3740487410 drop.txt
+0,QUW,<none>
+4,CONS,<none>
+
+#623139199 excellent.txt
+0,L,<none>
+1,CONS,<none>
+3,L,<none>
+4,QUW,<none>
+7,CONS,<none>
+10,A,<none>
+13,CONS,<none>
+
+#3324632897 fatality.txt
+0,A,<none>
+2,CONS,<none>
+8,EI,<none>
+10,CONS,<none>
+12,A,<none>
+15,CONS,<none>
+
+#3740562307 fire.txt
+0,QUW,<none>
+2,CONS,<none>
+5,EI,<none>
+
+#1671882155 first blood.txt
+0,QUW,<none>
+6,CONS,<none>
+11,A,<none>
+14,CONS,<none>
+
+#308989070 flawless.txt
+0,CONS,<none>
+3,EI,<none>
+5,CONS,<none>
+7,A,<none>
+11,CONS,<none>
+
+#3740611294 gasp.txt
+0,MBP,<none>
+1,CONS,<none>
+
+#2009149629 go away.txt
+0,QUW,<none>
+1,L,<none>
+4,A,<none>
+6,CONS,<none>
+7,A,<none>
+10,L,<none>
+
+#1812050181 grenade.txt
+0,MBP,<none>
+3,L,<none>
+4,CONS,<none>
+7,QUW,<none>
+13,CONS,<none>
+
+#3163463481 hello.txt
+0,CONS,<none>
+8,A,<none>
+11,CONS,<none>
+
+#3162903423 hurry.txt
+0,CONS,<none>
+1,EI,<none>
+3,CONS,<none>
+5,EI,<none>
+8,MBP,<none>
+
+#1678445063 ill get you.txt
+0,CONS,<none>
+2,A,<none>
+4,EI,<none>
+6,CONS,<none>
+9,EI,<none>
+13,CONS,<none>
+
+#2038532733 incoming.txt
+0,QUW,<none>
+6,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+
+#3165120488 jump1.txt
+0,QUW,<none>
+2,CONS,<none>
+
+#3165120491 jump2.txt
+0,QUW,<none>
+3,CONS,<none>
+
+#943625835 just you wait.txt
+0,CONS,<none>
+1,EI,<none>
+6,CONS,<none>
+8,EI,<none>
+15,CONS,<none>
+
+#149632032 kamikaze.txt
+0,A,<none>
+
+#1252383009 leave me alone.txt
+0,A,<none>
+4,EI,<none>
+7,CONS,<none>
+13,EI,<none>
+
+#1519296446 missed.txt
+0,CONS,<none>
+1,A,<none>
+15,CONS,<none>
+
+#3740294778 nooo.txt
+0,QUW,<none>
+3,CONS,<none>
+4,A,<none>
+19,CONS,<none>
+
+#856790254 oh dear.txt
+0,A,<none>
+6,EI,<none>
+8,CONS,<none>
+9,A,<none>
+15,CONS,<none>
+
+#4103781649 oinutter.txt
+0,QUW,<none>
+1,CONS,<none>
+3,EI,<none>
+4,L,<none>
+6,CONS,<none>
+8,A,<none>
+10,CONS,<none>
+14,EI,<none>
+16,L,<none>
+
+#3171693098 ooff1.txt
+0,QUW,<none>
+3,CONS,<none>
+
+#3171693097 ooff2.txt
+0,A,<none>
+4,CONS,<none>
+
+#3171693096 ooff3.txt
+0,QUW,<none>
+3,CONS,<none>
+
+#3740326136 oops.txt
+0,A,<none>
+
+#1563983014 orders.txt
+0,QUW,<none>
+3,CONS,<none>
+4,EI,<none>
+
+#3740302538 ouch.txt
+0,EI,<none>
+5,CONS,<none>
+
+#2325901426 ow1.txt
+0,CONS,<none>
+
+#2325901425 ow2.txt
+0,CONS,<none>
+
+#3017789000 perfect.txt
+0,QUW,<none>
+1,CONS,<none>
+6,A,<none>
+7,L,<none>
+9,QUW,<none>
+10,CONS,<none>
+
+#903396715 point and laugh.txt
+0,QUW,<none>
+3,CONS,<none>
+7,Rest,<none>
+10,CONS,<none>
+12,EI,<none>
+13,CONS,<none>
+15,MBP,<none>
+17,CONS,<none>
+18,Rest,<none>
+19,L,<none>
+21,CONS,<none>
+22,L,<none>
+24,CONS,<none>
+29,Rest,<none>
+30,CONS,<none>
+33,Rest,<none>
+34,CONS,<none>
+
+#4264317332 pull ninja rope.txt
+0,EI,<none>
+20,CONS,<none>
+22,A,<none>
+26,CONS,<none>
+
+#1144640371 revenge.txt
+0,QUW,<none>
+2,CONS,<none>
+7,QUW,<none>
+10,A,<none>
+13,CONS,<none>
+
+#1742201724 runaway.txt
+0,CONS,<none>
+3,EI,<none>
+4,CONS,<none>
+8,EI,<none>
+10,CONS,<none>
+11,Rest,<none>
+
+#2683391864 sad sigh.txt
+0,QUW,<none>
+12,CONS,<none>
+
+#3397691719 shakefist.txt
+0,QUW,<none>
+1,L,<none>
+2,A,<none>
+5,CONS,<none>
+14,A,<none>
+20,CONS,<none>
+
+#377658969 shallowdrown.txt
+0,MBP,<none>
+2,Rest,<none>
+5,CONS,<none>
+11,Rest,<none>
+12,MBP,<none>
+15,L,<none>
+18,CONS,<none>
+19,MBP,<none>
+22,EI,<none>
+26,CONS,<none>
+
+#1097533397 shriek.txt
+0,QUW,<none>
+4,CONS,<none>
+43,EI,<none>
+45,CONS,<none>
+
+#1108557849 sneeze.txt
+0,CONS,<none>
+
+#2395676790 startled.txt
+0,EI,<none>
+1,CONS,<none>
+2,QUW,<none>
+4,CONS,<none>
+
+#1129480180 stupid.txt
+0,QUW,<none>
+1,CONS,<none>
+2,A,<none>
+5,CONS,<none>
+8,A,<none>
+11,CONS,<none>
+
+#3232803085 takecover.txt
+0,QUW,<none>
+1,CONS,<none>
+2,EI,<none>
+4,FV,<none>
+5,EI,<none>
+7,CONS,<none>
+14,FV,<none>
+
+#3158592225 taunt.txt
+0,QUW,<none>
+6,CONS,<none>
+10,A,<none>
+23,EI,<none>
+25,A,<none>
+
+#1144585841 titter.txt
+0,QUW,<none>
+2,CONS,<none>
+5,A,<none>
+7,CONS,<none>
+16,Rest,<none>
+17,CONS,<none>
+
+#79679900 traitor.txt
+0,QUW,<none>
+2,CONS,<none>
+3,A,<none>
+4,CONS,<none>
+7,EI,<none>
+9,CONS,<none>
+
+#3739953217 uhoh.txt
+0,CONS,<none>
+3,Rest,<none>
+5,MBP,<none>
+7,A,<none>
+12,CONS,<none>
+
+#1540120695 victory.txt
+0,CONS,<none>
+2,EI,<none>
+4,L,<none>
+5,CONS,<none>
+10,EI,<none>
+11,L,<none>
+13,CONS,<none>
+
+#3284440724 watch this.txt
+0,QUW,<none>
+1,CONS,<none>
+4,L,<none>
+6,A,<none>
+12,CONS,<none>
+
+#2711790472 whatthe.txt
+0,CONS,<none>
+4,MBP,<none>
+7,EI,<none>
+11,CONS,<none>
+
+#153480408 wipebrow.txt
+0,QUW,<none>
+5,CONS,<none>
+
+#3739538458 yawn.txt
+0,QUW,<none>
+14,L,<none>
+16,QUW,<none>
+18,CONS,<none>
+22,Rest,<none>
+
+#4281555426 youll regret that.txt
+0,QUW,<none>
+6,CONS,<none>
+13,A,<none>
+

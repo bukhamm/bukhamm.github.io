@@ -1,0 +1,951 @@
+#3786675933 aaa1.txt
+0,CONS,<none>
+
+#3786659788 ahem.txt
+0,EI,<none>
+1,A,<none>
+4,CONS,<none>
+6,QUW,<none>
+7,CONS,<none>
+13,EI,<none>
+16,CONS,<none>
+
+#2807526402 and thats how its done.txt
+0,EI,<none>
+4,CONS,<none>
+26,A,<none>
+33,CONS,<none>
+
+#1854077796 another one bites the dust.txt
+0,CONS,<none>
+1,EI,<none>
+2,CONS,<none>
+9,L,<none>
+11,EI,<none>
+16,CONS,<none>
+32,A,<none>
+35,FV,<none>
+
+#605016663 as we ride off into the sunset.txt
+0,CONS,<none>
+3,A,<none>
+5,CONS,<none>
+7,EI,<none>
+10,CONS,<none>
+19,A,<none>
+21,CONS,<none>
+23,EI,<none>
+28,CONS,<none>
+30,EI,<none>
+32,CONS,<none>
+34,A,<none>
+38,EI,<none>
+39,FV,<none>
+41,EI,<none>
+48,L,<none>
+
+#1312659749 cheer 1.txt
+0,CONS,<none>
+
+#1312659750 cheer 2.txt
+0,CONS,<none>
+22,L,<none>
+23,CONS,<none>
+
+#3543648680 chew my fist punk.txt
+0,CONS,<none>
+4,EI,<none>
+6,CONS,<none>
+12,FV,<none>
+15,CONS,<none>
+26,A,<none>
+30,CONS,<none>
+
+#2553938131 clutch chest 2.txt
+0,A,<none>
+9,EI,<none>
+12,CONS,<none>
+
+#2084753601 clutch chest.txt
+0,A,<none>
+8,L,<none>
+10,A,<none>
+20,L,<none>
+23,O,<none>
+
+#3791789736 crowbait 2.txt
+0,CONS,<none>
+2,EI,<none>
+7,L,<none>
+8,MBP,<none>
+9,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+14,A,<none>
+16,CONS,<none>
+29,A,<none>
+
+#3620088890 crowbait.txt
+0,CONS,<none>
+6,A,<none>
+8,L,<none>
+9,CONS,<none>
+
+#3313396000 dance punk.txt
+0,CONS,<none>
+12,MBP,<none>
+14,CONS,<none>
+16,A,<none>
+18,CONS,<none>
+
+#3110213251 disbelief 1.txt
+0,CONS,<none>
+5,A,<none>
+7,CONS,<none>
+
+#3110213248 disbelief 2.txt
+0,CONS,<none>
+3,EI,<none>
+6,L,<none>
+8,EI,<none>
+10,CONS,<none>
+11,Rest,<none>
+
+#3786514925 draw.txt
+0,CONS,<none>
+11,A,<none>
+
+#3164114395 eat this.txt
+0,CONS,<none>
+8,A,<none>
+13,CONS,<none>
+
+#291816729 gasp 1.txt
+0,CONS,<none>
+2,A,<none>
+4,CONS,<none>
+
+#1980796564 git back to wrangling son.txt
+0,CONS,<none>
+3,MBP,<none>
+4,CONS,<none>
+12,EI,<none>
+13,CONS,<none>
+16,EI,<none>
+21,CONS,<none>
+22,EI,<none>
+26,CONS,<none>
+28,A,<none>
+34,EI,<none>
+37,CONS,<none>
+
+#2223599741 git off your horse and fight like a man.txt
+0,A,<none>
+6,CONS,<none>
+7,EI,<none>
+11,L,<none>
+13,A,<none>
+16,EI,<none>
+17,CONS,<none>
+19,EI,<none>
+20,CONS,<none>
+23,A,<none>
+31,CONS,<none>
+35,EI,<none>
+39,CONS,<none>
+40,EI,<none>
+
+#960124022 git outta here.txt
+0,CONS,<none>
+14,EI,<none>
+17,CONS,<none>
+20,EI,<none>
+22,MBP,<none>
+
+#710337926 good shootin.txt
+0,CONS,<none>
+1,EI,<none>
+10,MBP,<none>
+12,CONS,<none>
+13,EI,<none>
+18,CONS,<none>
+20,EI,<none>
+23,FV,<none>
+
+#706303533 greenhorn.txt
+0,MBP,<none>
+4,EI,<none>
+7,CONS,<none>
+9,EI,<none>
+21,CONS,<none>
+
+#461636236 happy trails.txt
+0,CONS,<none>
+16,EI,<none>
+19,CONS,<none>
+20,EI,<none>
+27,FV,<none>
+
+#24106402 heads up 1.txt
+0,CONS,<none>
+
+#24106401 heads up 2.txt
+0,CONS,<none>
+
+#991350902 hee-haw.txt
+0,CONS,<none>
+3,A,<none>
+6,CONS,<none>
+
+#395313071 hello.txt
+0,CONS,<none>
+9,A,<none>
+13,CONS,<none>
+22,A,<none>
+
+#1233019884 hes got five little friends 2.txt
+0,CONS,<none>
+7,A,<none>
+9,MBP,<none>
+10,FV,<none>
+12,CONS,<none>
+27,A,<none>
+29,CONS,<none>
+31,QUW,<none>
+32,CONS,<none>
+42,A,<none>
+44,EI,<none>
+47,FV,<none>
+
+#505958526 hes got five little friends.txt
+0,EI,<none>
+4,CONS,<none>
+8,A,<none>
+10,FV,<none>
+13,CONS,<none>
+25,A,<none>
+28,CONS,<none>
+30,A,<none>
+33,EI,<none>
+46,CONS,<none>
+
+#800914665 hey there pardner.txt
+0,CONS,<none>
+11,A,<none>
+13,CONS,<none>
+15,A,<none>
+18,CONS,<none>
+20,EI,<none>
+23,CONS,<none>
+
+#173961804 hihihi.txt
+0,A,<none>
+5,CONS,<none>
+8,MBP,<none>
+10,EI,<none>
+13,CONS,<none>
+14,EI,<none>
+19,L,<none>
+
+#4185703451 hit the nail on the head.txt
+0,CONS,<none>
+8,EI,<none>
+14,CONS,<none>
+18,EI,<none>
+19,CONS,<none>
+24,EI,<none>
+
+#1890653217 how bout a fist sandwich boy.txt
+0,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+16,EI,<none>
+17,CONS,<none>
+20,MBP,<none>
+23,EI,<none>
+25,CONS,<none>
+27,L,<none>
+28,EI,<none>
+30,CONS,<none>
+32,MBP,<none>
+34,EI,<none>
+35,A,<none>
+
+#467400111 howdy pardner 1.txt
+0,CONS,<none>
+14,A,<none>
+19,CONS,<none>
+
+#1351100600 howdy partdner 2.txt
+0,CONS,<none>
+9,A,<none>
+11,MBP,<none>
+14,A,<none>
+18,CONS,<none>
+
+#3361803359 i am the game.txt
+0,CONS,<none>
+6,A,<none>
+10,CONS,<none>
+22,EI,<none>
+28,CONS,<none>
+34,A,<none>
+35,CONS,<none>
+42,A,<none>
+44,MBP,<none>
+46,A,<none>
+50,EI,<none>
+53,CONS,<none>
+
+#3665549505 i feel like drinkin me a gallon of turpentine.txt
+0,CONS,<none>
+6,EI,<none>
+8,CONS,<none>
+9,EI,<none>
+11,CONS,<none>
+19,MBP,<none>
+22,CONS,<none>
+25,EI,<none>
+27,CONS,<none>
+34,EI,<none>
+36,CONS,<none>
+40,EI,<none>
+43,CONS,<none>
+57,MBP,<none>
+61,CONS,<none>
+63,A,<none>
+69,MBP,<none>
+71,CONS,<none>
+81,A,<none>
+88,CONS,<none>
+
+#3410463044 i just messed up some.txt
+0,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+14,EI,<none>
+19,CONS,<none>
+21,EI,<none>
+25,CONS,<none>
+28,A,<none>
+32,CONS,<none>
+
+#1707993318 ill be back to get you.txt
+0,CONS,<none>
+21,EI,<none>
+23,CONS,<none>
+
+#2770670479 ill be seein ya.txt
+0,A,<none>
+6,MBP,<none>
+10,CONS,<none>
+13,EI,<none>
+14,CONS,<none>
+16,EI,<none>
+25,CONS,<none>
+
+#382989980 ill find you and get you.txt
+0,CONS,<none>
+4,FV,<none>
+6,CONS,<none>
+29,A,<none>
+31,CONS,<none>
+
+#3820848758 ill get you lunger.txt
+0,MBP,<none>
+5,CONS,<none>
+13,EI,<none>
+19,CONS,<none>
+25,EI,<none>
+28,Rest,<none>
+
+#1046233105 ill get you.txt
+0,CONS,<none>
+10,QUW,<none>
+11,CONS,<none>
+19,EI,<none>
+
+#3518770058 im all at sea.txt
+0,CONS,<none>
+1,A,<none>
+7,CONS,<none>
+11,A,<none>
+13,CONS,<none>
+19,EI,<none>
+30,CONS,<none>
+
+#816189136 is your feet in one boot or wot.txt
+0,QUW,<none>
+1,CONS,<none>
+13,MBP,<none>
+15,L,<none>
+17,CONS,<none>
+21,EI,<none>
+22,CONS,<none>
+24,EI,<none>
+26,L,<none>
+29,EI,<none>
+32,L,<none>
+35,A,<none>
+39,CONS,<none>
+40,A,<none>
+45,CONS,<none>
+
+#466332385 its all good.txt
+0,A,<none>
+10,CONS,<none>
+15,A,<none>
+19,CONS,<none>
+21,EI,<none>
+31,CONS,<none>
+
+#1616861948 its some good stuff here.txt
+0,CONS,<none>
+5,EI,<none>
+6,CONS,<none>
+10,MBP,<none>
+14,CONS,<none>
+34,EI,<none>
+44,CONS,<none>
+
+#393663102 jump1.txt
+0,Rest,<none>
+1,CONS,<none>
+8,A,<none>
+10,CONS,<none>
+14,EI,<none>
+18,L,<none>
+
+#3319229598 just a warning shot punk.txt
+0,MBP,<none>
+1,EI,<none>
+4,CONS,<none>
+8,L,<none>
+10,A,<none>
+15,CONS,<none>
+18,EI,<none>
+19,CONS,<none>
+23,A,<none>
+25,CONS,<none>
+27,MBP,<none>
+29,A,<none>
+34,L,<none>
+35,CONS,<none>
+38,Rest,<none>
+
+#1466141051 keep the change 2.txt
+0,CONS,<none>
+4,A,<none>
+7,CONS,<none>
+9,EI,<none>
+12,CONS,<none>
+17,MBP,<none>
+18,CONS,<none>
+32,EI,<none>
+35,CONS,<none>
+
+#2403215081 keep the change.txt
+0,CONS,<none>
+1,EI,<none>
+5,CONS,<none>
+13,EI,<none>
+24,CONS,<none>
+
+#2395217060 let me see what you got there boy.txt
+0,CONS,<none>
+8,EI,<none>
+10,L,<none>
+12,EI,<none>
+13,CONS,<none>
+26,A,<none>
+30,MBP,<none>
+32,A,<none>
+37,CONS,<none>
+39,A,<none>
+41,CONS,<none>
+
+#2502341791 look out hes heeled.txt
+0,CONS,<none>
+11,A,<none>
+15,CONS,<none>
+20,A,<none>
+27,CONS,<none>
+
+#3000613478 maybe youre wearing your hat too low.txt
+0,CONS,<none>
+7,EI,<none>
+8,L,<none>
+10,CONS,<none>
+14,EI,<none>
+17,CONS,<none>
+24,MBP,<none>
+26,EI,<none>
+31,A,<none>
+37,L,<none>
+
+#1734916032 my god its a dry gulch.txt
+0,CONS,<none>
+3,MBP,<none>
+5,CONS,<none>
+10,A,<none>
+14,CONS,<none>
+15,EI,<none>
+17,CONS,<none>
+30,EI,<none>
+35,CONS,<none>
+
+#2505300414 nice shot son.txt
+0,CONS,<none>
+1,A,<none>
+10,CONS,<none>
+21,EI,<none>
+
+#388959517 nooo1.txt
+0,CONS,<none>
+17,A,<none>
+32,L,<none>
+
+#3038414098 now wheres that marshall dealin when you need him.txt
+0,CONS,<none>
+25,A,<none>
+30,CONS,<none>
+32,A,<none>
+36,CONS,<none>
+40,EI,<none>
+43,L,<none>
+45,EI,<none>
+46,CONS,<none>
+50,EI,<none>
+51,CONS,<none>
+53,EI,<none>
+58,CONS,<none>
+
+#389911691 oh no.txt
+0,CONS,<none>
+12,A,<none>
+20,L,<none>
+
+#390017724 ooff1.txt
+0,CONS,<none>
+1,A,<none>
+5,L,<none>
+
+#390017727 ooff2.txt
+0,CONS,<none>
+8,EI,<none>
+10,L,<none>
+
+#390017726 ooff3.txt
+0,CONS,<none>
+4,EI,<none>
+6,L,<none>
+
+#390017721 ooff4.txt
+0,CONS,<none>
+
+#390017720 ooff5.txt
+0,CONS,<none>
+
+#390017723 ooff6.txt
+0,CONS,<none>
+1,EI,<none>
+5,L,<none>
+7,CONS,<none>
+
+#114733156 ow1.txt
+0,CONS,<none>
+
+#114733159 ow2.txt
+0,CONS,<none>
+
+#114733158 ow3.txt
+0,CONS,<none>
+
+#114733153 ow4.txt
+0,CONS,<none>
+
+#998064518 pee or git offa the pot.txt
+0,CONS,<none>
+6,EI,<none>
+9,CONS,<none>
+10,A,<none>
+12,CONS,<none>
+13,MBP,<none>
+15,CONS,<none>
+22,EI,<none>
+24,CONS,<none>
+26,MBP,<none>
+29,CONS,<none>
+35,EI,<none>
+
+#568439148 point and laugh 1.txt
+0,CONS,<none>
+19,Rest,<none>
+20,CONS,<none>
+37,A,<none>
+41,CONS,<none>
+67,A,<none>
+73,EI,<none>
+92,CONS,<none>
+
+#568439151 point and laugh 2.txt
+0,CONS,<none>
+23,Rest,<none>
+24,CONS,<none>
+40,Rest,<none>
+45,CONS,<none>
+53,A,<none>
+55,CONS,<none>
+64,Rest,<none>
+
+#947564051 pull ninja rope 1.txt
+0,L,<none>
+2,CONS,<none>
+4,A,<none>
+8,CONS,<none>
+20,MBP,<none>
+33,CONS,<none>
+35,L,<none>
+38,CONS,<none>
+50,Rest,<none>
+
+#947564048 pull ninja rope 2.txt
+0,Rest,<none>
+4,CONS,<none>
+34,Rest,<none>
+
+#3617368319 quit beatin the devil around the stump.txt
+0,FV,<none>
+1,CONS,<none>
+4,MBP,<none>
+7,CONS,<none>
+10,EI,<none>
+13,CONS,<none>
+19,EI,<none>
+20,L,<none>
+22,CONS,<none>
+27,EI,<none>
+28,CONS,<none>
+33,EI,<none>
+35,O,<none>
+42,CONS,<none>
+
+#2796566582 reckon i messed up.txt
+0,CONS,<none>
+4,MBP,<none>
+6,CONS,<none>
+18,EI,<none>
+19,CONS,<none>
+22,A,<none>
+28,CONS,<none>
+29,Rest,<none>
+
+#1077895487 sad sigh 1.txt
+0,CONS,<none>
+4,EI,<none>
+5,CONS,<none>
+8,A,<none>
+20,CONS,<none>
+22,A,<none>
+26,EI,<none>
+31,CONS,<none>
+
+#1077895484 sad sigh 2.txt
+0,CONS,<none>
+7,A,<none>
+19,EI,<none>
+28,CONS,<none>
+40,Rest,<none>
+
+#119563810 saddle up 1.txt
+0,CONS,<none>
+
+#119563809 saddle up 2.txt
+0,CONS,<none>
+3,EI,<none>
+4,CONS,<none>
+
+#422779075 scram.txt
+0,CONS,<none>
+3,MBP,<none>
+6,A,<none>
+8,CONS,<none>
+20,EI,<none>
+23,CONS,<none>
+
+#2365404224 shakefist 1.txt
+0,CONS,<none>
+4,EI,<none>
+19,CONS,<none>
+
+#2365404227 shakefist 2.txt
+0,CONS,<none>
+15,EI,<none>
+16,FV,<none>
+
+#4087185950 shallow drown 1.txt
+0,CONS,<none>
+1,EI,<none>
+5,CONS,<none>
+9,A,<none>
+10,CONS,<none>
+
+#4087185949 shallow drown 2.txt
+0,CONS,<none>
+4,A,<none>
+7,CONS,<none>
+15,A,<none>
+17,CONS,<none>
+18,Rest,<none>
+20,CONS,<none>
+
+#3479280994 shin out folks.txt
+0,CONS,<none>
+20,A,<none>
+22,CONS,<none>
+
+#2253418247 shoot luke or give up the gun 2.txt
+0,CONS,<none>
+5,A,<none>
+6,CONS,<none>
+9,EI,<none>
+15,CONS,<none>
+16,A,<none>
+19,MBP,<none>
+23,CONS,<none>
+27,MBP,<none>
+30,CONS,<none>
+32,A,<none>
+36,CONS,<none>
+39,EI,<none>
+41,CONS,<none>
+44,MBP,<none>
+
+#2676070933 shoot luke or give up the gun.txt
+0,CONS,<none>
+10,EI,<none>
+16,CONS,<none>
+17,A,<none>
+20,MBP,<none>
+22,CONS,<none>
+31,Rest,<none>
+32,CONS,<none>
+37,A,<none>
+41,CONS,<none>
+
+#1726170238 skidaddle partner.txt
+0,CONS,<none>
+21,EI,<none>
+
+#1226426590 sneeze 1.txt
+0,CONS,<none>
+10,EI,<none>
+15,CONS,<none>
+
+#1226426589 sneeze 2.txt
+0,Rest,<none>
+1,CONS,<none>
+13,EI,<none>
+16,CONS,<none>
+
+#3131826919 Sound 81.txt
+0,CONS,<none>
+21,EI,<none>
+
+#1929444402 startled 2.txt
+0,A,<none>
+
+#1216509984 startled.txt
+0,CONS,<none>
+
+#3615212810 supplies 2.txt
+0,A,<none>
+14,EI,<none>
+19,CONS,<none>
+21,MBP,<none>
+22,CONS,<none>
+32,A,<none>
+38,EI,<none>
+42,FV,<none>
+
+#2062064408 supplies.txt
+0,CONS,<none>
+17,A,<none>
+23,CONS,<none>
+24,FV,<none>
+
+#946991334 taunt1.txt
+0,EI,<none>
+5,CONS,<none>
+7,EI,<none>
+10,CONS,<none>
+13,EI,<none>
+16,MBP,<none>
+17,EI,<none>
+18,CONS,<none>
+19,EI,<none>
+23,CONS,<none>
+24,EI,<none>
+29,CONS,<none>
+30,EI,<none>
+33,CONS,<none>
+
+#946991333 taunt2.txt
+0,A,<none>
+7,CONS,<none>
+10,A,<none>
+18,CONS,<none>
+21,EI,<none>
+33,CONS,<none>
+34,EI,<none>
+36,CONS,<none>
+37,EI,<none>
+
+#1765651408 thats a bang up job partner.txt
+0,CONS,<none>
+4,EI,<none>
+6,MBP,<none>
+8,CONS,<none>
+25,A,<none>
+28,MBP,<none>
+31,EI,<none>
+33,CONS,<none>
+35,EI,<none>
+
+#3092219318 titter 1.txt
+0,CONS,<none>
+
+#3092219317 titter 2.txt
+0,Rest,<none>
+2,CONS,<none>
+
+#3092219316 titter 3.txt
+0,CONS,<none>
+
+#1596384015 watch and learn boy.txt
+0,L,<none>
+1,CONS,<none>
+14,A,<none>
+17,CONS,<none>
+20,A,<none>
+
+#695480618 watch out.txt
+0,CONS,<none>
+21,A,<none>
+
+#4221207250 what ya waitin for there boy.txt
+0,CONS,<none>
+1,A,<none>
+3,CONS,<none>
+4,EI,<none>
+6,L,<none>
+7,CONS,<none>
+13,A,<none>
+20,CONS,<none>
+22,A,<none>
+30,CONS,<none>
+
+#338322247 whered you learn to shoot.txt
+0,CONS,<none>
+4,MBP,<none>
+5,CONS,<none>
+7,EI,<none>
+16,CONS,<none>
+17,EI,<none>
+19,CONS,<none>
+22,EI,<none>
+28,CONS,<none>
+
+#2645058350 wipe brow.txt
+0,CONS,<none>
+4,L,<none>
+5,A,<none>
+11,EI,<none>
+22,CONS,<none>
+
+#3786962892 yawn.txt
+0,Rest,<none>
+1,CONS,<none>
+4,EI,<none>
+12,CONS,<none>
+13,EI,<none>
+17,CONS,<none>
+19,A,<none>
+26,L,<none>
+28,EI,<none>
+32,FV,<none>
+
+#3932266509 yee thats good.txt
+0,A,<none>
+20,L,<none>
+21,CONS,<none>
+26,EI,<none>
+28,CONS,<none>
+31,A,<none>
+45,EI,<none>
+
+#1733278731 yee-haw bring it on.txt
+0,MBP,<none>
+2,A,<none>
+10,CONS,<none>
+13,EI,<none>
+14,CONS,<none>
+23,A,<none>
+26,MBP,<none>
+37,CONS,<none>
+44,A,<none>
+51,EI,<none>
+55,CONS,<none>
+
+#3096470410 yee-haw yeah baby.txt
+0,A,<none>
+15,CONS,<none>
+27,A,<none>
+30,CONS,<none>
+
+#1313650058 yee-haw-dogie.txt
+0,MBP,<none>
+6,CONS,<none>
+25,EI,<none>
+29,CONS,<none>
+
+#1618665511 yee-haw.txt
+0,MBP,<none>
+10,CONS,<none>
+16,A,<none>
+
+#1211263543 yellowbelly.txt
+0,CONS,<none>
+
+#815090394 you a law-man.txt
+0,MBP,<none>
+8,CONS,<none>
+22,QUW,<none>
+28,CONS,<none>
+
+#3164684734 you can rope me you can brand me.txt
+0,CONS,<none>
+7,EI,<none>
+9,A,<none>
+11,CONS,<none>
+29,QUW,<none>
+30,CONS,<none>
+37,L,<none>
+38,CONS,<none>
+59,MBP,<none>
+64,CONS,<none>
+74,Rest,<none>
+
+#1853215713 you low-down heel.txt
+0,CONS,<none>
+7,A,<none>
+10,CONS,<none>
+23,A,<none>
+
+#3784289159 you wearin hobbles son.txt
+0,QUW,<none>
+2,CONS,<none>
+18,O,<none>
+20,CONS,<none>
+29,A,<none>
+
