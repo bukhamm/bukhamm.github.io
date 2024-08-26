@@ -1,3 +1,24 @@
 https://t.me/kemonopartywelcome
 -------------------------------
 https://www.forumophilia.com/topic282088-570.html
+-------------------------------------------------
+
+Tested on game ver. 1355.30. Lenny’s Mod Loader works well (both stream and replace features). Files are properly replaced in game.
+
+This version of Lenny’s Mod Loader introduces install.xml files to instruct LML on how to load your mods. Added the example assets by Modifiver. This pack contains various file mods not only enhancing your gameplay experience, but also showcasing various ways on how to use Lenny’s Mod Loader to change game files:
+
+Peds are more assertive and will attack the player even if severely outgunned. One might call them suicidal.
+Ambient peds hate the player and are much more likely to attack at random.
+Peds take more time to react to being shot and will twitch more often.
+Bears will spawn at random and might cause some chaos!
+Adds more punch, faster shoot rate and dismemberment to the High-Roller Revolver while reducing its damage to 1.
+You can find them in the “Examples by Modifiver” folder.
+
+Red Dead Redemption 2 Lenny’s Mod Loader Installation:
+Copy all files from “ModLoader” into your RDR 2 game root folder so that files such as vfs.asi are in the same folder as your RDR2.exe.
+Place “Mod Manager” folder anywhere you want. It doesn’t need to be inside the game folder.
+Done! The mod loader is now installed.
+How to Use this Tool:
+To install any mod, just drag and drop its folder into your “lml” folder in game directory. All mods are loaded automatically then the next time you launch the game.
+
+Note: If you feel that your file is not being replaced properly, have a look at the log file and see if you can find any entry related to it. Perhaps the path was not correct and hence it did not work. Search for “replaced” for files in replace and “adding” for files in stream.
