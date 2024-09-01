@@ -1,0 +1,19 @@
+[Config]
+Display name = CSV Excel 2003
+Author = pontomedon
+File extention = csv
+
+[File header]
+,Wii Games,,,
+,,,,
+Date,,%Date%,,
+Game count,,%GameCount%,,
+Total size,,%TotalSizeGB%,,
+,,,,
+GameID,Title,Region,Size,
+
+[Entry]
+%ID%,%Title%,%Region%,%SizeMB%,
+
+[File footer]
+,,,,CSV export template by pontomedon,

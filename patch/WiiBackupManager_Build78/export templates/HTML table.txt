@@ -1,0 +1,43 @@
+[Config]
+Display name = HTML table
+Author = Taz
+File extention = html
+
+[File header]
+<HTML><Body><center>
+<h2><font color=firebrick>Wii Games Listing</font></h2>
+
+
+<Table width=60% bgcolor=firebrick>
+<tr>
+<td align=center><font color=white>	<b>Date:	</b> %Date%		</font></td> 
+<td align=center><font color=white>	<b>Game count:	</b> %GameCount%	</font></td>
+<td align=center><font color=white>	<b>Total size:	</b> %TotalSizeGB%	</font></td>
+</tr>
+</Table>
+
+<br>
+
+<Table width=80%>
+<tr bgcolor=c0c0c0>
+<td align=center><b>Title: </b> </td>
+<td align=center><b>GameID:</b> </td>
+<td align=center><b>Region:</b> </td>
+<td align=center><b>Size:  </b> </td>
+</tr>
+
+
+[Entry]
+<tr bgcolor=e0e0c0>
+<td> &nbsp;&nbsp; %Title%   </td>
+<td align=center> %ID%      </td>
+<td align=center> %Region%  </td>
+<td align=center> %SizeMB%  </td>
+</tr>
+
+
+[File footer]
+</table>
+<b>HTML export template by Taz</b>
+<b><a href="http://wiiboxart.com">http://www.wiiboxart.com</a></b>
+</Body></HTML>

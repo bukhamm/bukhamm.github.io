@@ -1,0 +1,40 @@
+[Config]
+Display name = HTML single file 
+Author = fig
+File extention = html
+Entries per page = 1
+Seperate file per page = false
+Export cover images = true
+
+[File header]
+<HTML><Body>
+<b>Wii games</b><br><br>
+
+<b>Total size:</b> %TotalSizeMB% (%TotalSizeGB%)<br><br>
+
+[Page header]
+<a name="%PageNumber%">Game %PageNumber%</a> of %LastPage%<br>
+<a href="#%FirstPage%">First</a>
+<a href="#%PrevPage%">Previous</a>
+<a href="#%NextPage%">Next</a>
+<a href="#%LastPage%">Last</a>
+<br><br>
+
+[Entry]
+<b>Title:</b> %Title%<br>
+<b>Original title:</b> %OriginalTitle%<br>
+<b>Game ID:</b> %ID%<br>
+<b>Region:</b> %Region%<br>
+<b>IOS:</b> %IOS%<br>
+<b>MD5:</b> %MD5%<br>
+<b>Partitions:</b> %PartitionCode%<br>
+<b>Type:</b> %FileType%<br>
+<b>Size:</b> %SizeMB% (%SizeGB%)<br><br>
+<img src="%CoverDisc%" alt="Disc cover" width="160" height="160"/>
+<img src="%CoverFront%" alt="Front cover" width="126" height="160"/>
+<img src="%Cover3D%" alt="3D cover" width="114" height="160"/><br>
+<img src="%CoverFull%" alt="Full cover" width="407" height="270"/><br><br>
+
+[File footer]
+
+</Body></HTML>

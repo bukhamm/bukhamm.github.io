@@ -1,0 +1,26 @@
+[Config]
+Display name = Plain text
+Author = fig
+File extention = txt
+
+[File header]
+Wii games
+
+Date: %Date%
+Time: %Time%
+Game count: %GameCount%
+Total size: %TotalSizeMB% (%TotalSizeGB%)
+
+[Entry]
+Title: %Title%
+Original title: %OriginalTitle%
+Game ID: %ID%
+Region: %Region%
+IOS: %IOS%
+MD5: %MD5%
+Partitions: %PartitionCode%
+Type: %FileType%
+Size: %SizeMB% (%SizeGB%)
+
+[File footer]
+Plain text export template by fig
