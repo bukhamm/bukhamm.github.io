@@ -1,0 +1,1 @@
+Rainer - for fixing 32-bit dll compilation issues.
