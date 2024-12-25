@@ -1,0 +1,51 @@
+{
+  "ModId": "XVI.Jill2Bv2.FILE",
+  "ModName": "Jill Nude",
+  "ModAuthor": "Jmedia",
+  "ModVersion": "2.0",
+  "ModDescription": "Makes Jill Nude",
+  "ModDll": "",
+  "ModIcon": "R1.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "XVI.Jill2Bv2.FILE.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "ff16.utility.modloader": {
+          "Config": {
+            "UserName": "Nenkai",
+            "RepositoryName": "ff16.utility.modloader",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "ff16.utility.modloader.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "ff16.utility.modloader"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "ffxvi.exe"
+  ],
+  "ProjectUrl": ""
+}
