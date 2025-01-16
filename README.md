@@ -11,3 +11,4 @@
 # Instalar Traduccion
 Descargue el repositorio
 Copie la carpeta dev_hdd0 en el directorio en que la original ya sea de su PS3 o la del Emulador se encuentre para asi combinarlas y inyectar los archivos de la traduccion
+![LaMeraNeta](https://i.postimg.cc/pLGyx2VV/vlcsnap-2025-01-16-18h50m44s463.png)
