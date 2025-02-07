@@ -1,0 +1,24 @@
+
+CONTRATTO DI LICENZA PER L'UTENTE FINALE RELATIVO A UltraISO.
+========================================
+
+IMPORTANTE - LEGGERE ATTENTAMENTE: Questo contratto di licenza per l'utente finale è un contratto legale tra voi (sia individuo che entità singola) ed EZB Systems, Inc. per quanto riguarda il prodotto summenzionato, che include il software del computer e può includere i supporti associati, i materiali stampati e la documentazione online o elettronica ("SOFTWARE"). Con l'installazione, copia, o utilizzo in altro modo del SOFTWARE, voi acconsentite al vincolo nei termini di questo Contratto di licenza per l'utente finale. Non installando o utilizzando il SOFTWARE, potrete tuttavia restituirlo al rivenditore ed essere completamente risarciti.
+
+LICENZA SOFTWARE
+
+Il SOFTWARE è protetto dalle leggi e dagli accordi internazionali sul copyright, e dalle altre leggi e accordi sulla proprietà intellettuale. Il SOFTWARE viene concesso in licenza, ma non venduto. Non è possibile affittarlo, noleggiarlo o darlo in prestito. E' possibile trasferire definitivamente tutti i diritti con questo Contratto di Licenza per l'utente finale, a condizione che non si trattengano copie. Se si trasferisce tutto il SOFTWARE e questo Contratto di licenza per l'utente finale, il beneficiario accetta i termini di questo Contratto di licenza. 
+
+RILASCIO DELLA LICENZA
+
+Questa versione del programma può essere installata su un massimo di due computer, purché funzioni su un SOLO sistema per volta: ad esempio un'installazione a casa e un'installazione in ufficio, utilizzate solo dal beneficiario della licenza. L'utilizzo simultaneo di questo SOFTWARE da parte di più persone necessita di licenze aggiuntive. L'utilizzo di questo SOFTWARE in una rete interna necessita di una licenza per ogni utente. Il beneficiario della licenza non dovrà utilizzare, copiare, affittare, noleggiare, vendere, modificare, decompilare, disassemblare, effettuare il reverse engineering o trasferire il SOFTWARE, fatta eccezione nelle condizioni indicate in questo contratto. Qualsiasi utilizzo non autorizzato avrà come risutato la cessazione immediata di questo contratto di licenza.
+
+Tutte le licenze saranno rilasciate a nome dell'ente, società o scuola. Ogni licenza aggiuntiva consente inoltre a un singolo utente di utilizzare il SOFTWARE a casa.
+
+RESPONSABILITA'
+
+EZB Systsem cerca di mantenere il SOFTWARE privo di difetti od errori. Tuttavia, come regola generale (cfr. le leggi di Murphy) non esiste software che sia privo di errori, e il numero di errori aumenta con la complessità del programma. Non è possibile quindi garantire che questo SOFTWARE funzioni in qualsiasi ambiente, su qualsiasi macchina compatibile con Windows, o con qualsiasi altra applicazione, senza produrre errori. Si esclude quindi qualsiasi responsabilità per danni di qualsiasi natura. In nessun caso EZB Systems, Inc. o i suoi fornitori saranno responsabili per qualsiasi danno speciale, accidentale, indiretto o conseguente (inclusi, senza alcuna limitazione, danni per la perdita di profitto, interruzione dell'attività, perdita di informazioni di lavoro o qualsiasi altra perdita pecuniaria) derivante dall'utilizzo o dall'impossibilità di utilizzo del SOFTWARE. In ogni caso, la responsabilità si limita alla tassa di registrazione. Si prega di valutare questo SOFTWARE con dati non critici. Nel caso in cui rilevaste errori prima della registrazione, l'utente dopo la registrazione accetta gli errori del SOFTWARE. Qualsiasi descrizione degli errori del SOFTWARE sarà accettata, ma non si può garantire che gli errori verranno corretti.
+
+Grazie per la comprensione e la collaborazione.
+
+EZB Systems, Inc.
+

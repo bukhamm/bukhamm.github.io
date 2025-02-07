@@ -1,0 +1,12 @@
+[LangOptions]
+LanguageName=Rom<00E2>n<0103>
+LanguageID=$0418
+LanguageCodePage=1250
+DialogFontName=Tahoma
+TitleFontName=Arial
+WelcomeFontName=Verdana
+CopyrightFontName=Arial
+DialogFontSize=8
+TitleFontSize=29
+WelcomeFontSize=12
+CopyrightFontSize=8

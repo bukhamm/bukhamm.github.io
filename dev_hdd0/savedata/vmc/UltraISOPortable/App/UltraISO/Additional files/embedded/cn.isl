@@ -1,0 +1,12 @@
+[LangOptions]
+LanguageName=<4E2D><6587><FF08><7B80><4F53><FF09>
+LanguageID=$0804
+LanguageCodePage=936
+DialogFontName=ËÎÌו
+TitleFontName=Arial
+WelcomeFontName=Verdana
+CopyrightFontName=Arial
+DialogFontSize=8
+TitleFontSize=29
+WelcomeFontSize=12
+CopyrightFontSize=8

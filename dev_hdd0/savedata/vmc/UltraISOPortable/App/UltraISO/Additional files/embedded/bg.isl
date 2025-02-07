@@ -1,0 +1,12 @@
+[LangOptions]
+LanguageName=<0431><044A><043B><0433><0430><0440><0441><043A><0438>
+LanguageID=$0402
+LanguageCodePage=1251
+DialogFontName=Tahoma
+TitleFontName=Arial
+WelcomeFontName=Verdana
+CopyrightFontName=Arial
+DialogFontSize=8
+TitleFontSize=29
+WelcomeFontSize=12
+CopyrightFontSize=8

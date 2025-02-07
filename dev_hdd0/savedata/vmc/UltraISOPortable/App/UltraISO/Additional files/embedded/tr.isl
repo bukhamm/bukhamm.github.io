@@ -1,0 +1,12 @@
+[LangOptions]
+LanguageName=T<00FC>rk<00E7>e
+LanguageID=$041F
+LanguageCodePage=1254
+DialogFontName=Tahoma
+TitleFontName=Arial
+WelcomeFontName=Verdana
+CopyrightFontName=Arial
+DialogFontSize=8
+TitleFontSize=29
+WelcomeFontSize=12
+CopyrightFontSize=8

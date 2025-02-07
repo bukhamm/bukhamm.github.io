@@ -1,0 +1,12 @@
+[LangOptions]
+LanguageName=Farsi
+LanguageID=$0429
+LanguageCodePage=1256
+DialogFontName=Tahoma
+TitleFontName=Tahoma
+WelcomeFontName=Tahoma
+CopyrightFontName=Tahoma
+DialogFontSize=8
+TitleFontSize=29
+WelcomeFontSize=12
+CopyrightFontSize=8
